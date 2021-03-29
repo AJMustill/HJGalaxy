@@ -1,0 +1,3239 @@
+name,   good_mass,   hasHJ,    hasCJ,    P_1comp,  P_1compv
+Kepler-1030 , True , False , False , nan , nan
+Kepler-186 , False , False , False , nan , nan
+Kepler-468 , True , False , False , nan , nan
+Kepler-1538 , True , False , False , nan , nan
+Kepler-376 , False , False , False , nan , nan
+Kepler-230 , False , False , False , nan , nan
+Kepler-721 , True , False , False , nan , nan
+Kepler-430 , True , False , False , nan , nan
+Kepler-1429 , True , False , False , nan , nan
+K2-187 , True , False , False , nan , nan
+GJ 3293 , False , False , False , nan , nan
+EPIC 212499991 , True , False , False , nan , nan
+xi Aql , False , False , True , 1.7343715483249378e-20 , 3.850350572312747e-49
+Kepler-915 , True , False , False , nan , nan
+Kepler-665 , True , False , False , nan , nan
+Kepler-145 , True , False , False , 3.006405598720099e-25 , 1.0649270624251532e-53
+Kepler-1174 , True , False , False , nan , nan
+Kepler-14 , True , False , False , nan , nan
+Kepler-1097 , True , False , False , nan , nan
+HD 208897 , True , False , True , 2.573758435560755e-19 , 1.824144307734214e-56
+MOA-2013-BLG-605L , False , False , False , nan , nan
+WASP-101 , True , False , False , 5.080279204477242e-19 , 3.0628989915635855e-56
+Kepler-599 , True , False , False , nan , nan
+K2-13 , True , False , False , 7.590202431006243e-21 , 6.31559982752918e-58
+Kepler-705 , False , False , False , nan , nan
+Kepler-614 , True , False , False , nan , nan
+Kepler-192 , True , False , False , nan , nan
+HD 24064 , True , False , True , 8.055009702932297e-25 , 6.751736132699477e-54
+Kepler-610 , True , False , False , nan , nan
+Kepler-1490 , True , False , False , nan , nan
+K2-35 , True , False , False , nan , nan
+HD 156411 , True , False , True , 2.535711824224999e-21 , 5.046635811178295e-49
+HD 240210 , True , False , True , 2.234977213181487e-15 , 3.2909562030761787e-50
+Kepler-122 , True , False , False , nan , nan
+Kepler-1350 , False , False , False , nan , nan
+Kepler-1516 , True , False , False , nan , nan
+HD 21693 , True , False , False , 1.1058989956147385e-15 , 3.3217972483550084e-53
+HAT-P-7 , True , False , False , 5.160403361552878e-17 , 5.484606423932036e-52
+K2-215 , True , False , False , nan , nan
+Kepler-1527 , True , False , False , nan , nan
+MOA-2008-BLG-310L , False , False , False , nan , nan
+HD 2685 , True , True , False , 6.809176658768174e-23 , 7.187553570811786e-47
+Kepler-604 , True , False , False , nan , nan
+OGLE-2015-BLG-1771L , False , False , False , nan , nan
+Kepler-1084 , True , False , False , 4.3912260856232534e-24 , 8.185139981257186e-52
+HD 159243 , True , True , True , 2.0242233348553684e-16 , 1.4402210645641754e-50
+KELT-11 , True , False , False , 7.155909888643524e-15 , 5.351656488682305e-54
+Kepler-1438 , True , False , False , nan , nan
+KOI-13 , True , True , False , nan , nan
+Kepler-543 , True , False , False , 1.633738463556104e-13 , 4.134305729372874e-47
+Kepler-1525 , True , False , False , 3.4234407130049176e-22 , 4.775729483142594e-58
+Kepler-1304 , True , False , False , nan , nan
+CoRoT-27 , True , True , False , nan , nan
+Kepler-1442 , True , False , False , 2.3235678461154662e-24 , 1.4995650225924754e-45
+18 Del , False , False , True , 1.274693667399937e-16 , 5.398462312264395e-54
+WASP-105 , True , True , False , 1.2376818661058482e-27 , 3.1528300803947272e-62
+HATS-17 , True , True , False , 1.0722681497866986e-18 , 1.1586639756386085e-50
+HIP 116454 , True , False , False , 1.3674661519976721e-16 , 5.668648425249685e-50
+Kepler-1542 , True , False , False , 1.6111511228090666e-20 , 4.847170509434768e-58
+Kepler-1144 , True , False , False , nan , nan
+Kepler-375 , False , False , False , nan , nan
+HATS-63 , True , True , False , nan , nan
+Kepler-1143 , True , False , False , nan , nan
+Kepler-875 , True , False , False , nan , nan
+HD 164595 , True , False , False , 2.1934068584101355e-14 , 1.7374481174190708e-51
+WASP-65 , True , True , False , nan , nan
+HIP 57274 , True , True , True , 2.0893234403111827e-19 , 4.934307587588113e-58
+Kepler-663 , True , False , False , nan , nan
+OGLE-2012-BLG-0406L , False , False , False , nan , nan
+K2-241 , True , False , False , 3.285244932352293e-18 , 6.394341325400792e-54
+HD 134060 , True , False , False , 3.1104444200136974e-14 , 7.504257070834738e-51
+Kepler-1605 , True , False , False , 5.7276271327336365e-25 , 1.0761856908923085e-51
+HAT-P-13 , False , False , False , 1.0815372160460759e-32 , 8.87195725609968e-57
+Kepler-1062 , True , False , False , nan , nan
+GJ 86 , True , True , False , 1.429898467849694e-19 , 1.4412451619470843e-55
+Kepler-178 , False , False , False , nan , nan
+Kepler-1543 , True , False , False , nan , nan
+Kepler-383 , False , False , False , nan , nan
+Kepler-730 , True , False , False , nan , nan
+Kepler-925 , True , False , False , nan , nan
+HD 23127 , True , False , True , 5.3861257400402285e-18 , 6.084479837897243e-57
+K2-275 , True , False , False , 7.211995436466666e-21 , 7.278501224496533e-57
+Kepler-1427 , True , False , False , nan , nan
+61 Vir , True , False , False , 2.052513134750059e-15 , 2.071639693222658e-62
+HD 48265 , True , False , True , 6.2882963569601465e-15 , 2.202664313564067e-59
+Kepler-1079 , True , False , False , nan , nan
+Kepler-466 , True , False , False , 9.487933582495874e-34 , 5.547344436686354e-53
+Kepler-134 , False , False , False , 1.9602209336587668e-16 , 7.90221252045929e-53
+Kepler-300 , False , False , False , nan , nan
+Kepler-725 , True , False , False , nan , nan
+WASP-159 , True , True , False , nan , nan
+Kepler-1459 , True , False , False , nan , nan
+Kepler-27 , False , True , False , nan , nan
+Kepler-920 , True , False , False , nan , nan
+Kepler-1283 , True , False , False , nan , nan
+WASP-84 , True , True , False , 1.0515768925675295e-19 , 1.8577720807670488e-60
+Kepler-1218 , True , False , False , nan , nan
+Kepler-1592 , True , False , False , nan , nan
+Kepler-714 , True , False , False , nan , nan
+K2-19 , True , False , False , nan , nan
+OGLE-2012-BLG-0838L , False , False , False , nan , nan
+WASP-106 , True , False , False , 3.1033464964276e-23 , 1.564591785566156e-48
+HATS-45 , True , True , False , nan , nan
+CoRoT-20 , True , True , True , nan , nan
+HD 18742 , True , False , True , 2.018445072447819e-20 , 5.675028755917803e-59
+Kepler-1270 , True , False , False , 0.0022073605272712182 , 0.0017216443489840305
+7 CMa , True , False , True , nan , nan
+HD 41004 A , False , False , False , nan , nan
+WASP-20 , True , True , False , nan , nan
+WASP-135 , True , True , False , 1.5344341429322567e-15 , 3.002607598233355e-57
+HD 220842 , True , False , True , 4.137334792754047e-18 , 2.389896692360715e-48
+K2-81 , True , False , False , nan , nan
+Kepler-1640 , True , False , False , nan , nan
+TYC 3318-01333-1 , True , False , True , 1.8103532253098834e-32 , 1.3792153884507745e-55
+K2-126 , False , False , False , 2.571570173434773e-13 , 3.7640869656541054e-50
+Kepler-1235 , True , False , False , nan , nan
+Kepler-986 , True , False , False , nan , nan
+GJ 667 C , False , False , False , 5.261993520580169e-19 , 1.311116408915693e-60
+KMT-2019-BLG-0842L , True , False , False , nan , nan
+Kepler-1437 , True , False , False , nan , nan
+K2-62 , True , False , False , 7.640410700870682e-20 , 3.014873044735664e-48
+Kepler-1619 , True , False , False , nan , nan
+OGLE-2014-BLG-0676L , False , False , False , nan , nan
+Kepler-528 , True , False , False , nan , nan
+Kepler-1225 , True , False , False , nan , nan
+Kepler-1618 , True , False , False , nan , nan
+Kepler-130 , True , False , False , 8.200776081130018e-14 , 1.6454900128080785e-49
+HAT-P-34 , True , True , False , 3.1255661995323285e-26 , 2.88022529038764e-50
+Kepler-880 , True , False , False , 8.78793706852812e-17 , 1.2424450799926751e-36
+K2-183 , True , False , False , 1.4771365047231807e-24 , 6.610650878888522e-60
+Kepler-338 , True , False , False , 1.656825919304307e-28 , 1.4318267346339595e-48
+HATS-30 , True , True , False , 1.3374879410729385e-24 , 7.610488399634441e-62
+Kepler-793 , True , False , False , nan , nan
+Kepler-581 , True , False , False , nan , nan
+Kepler-132 , True , False , False , nan , nan
+HD 98219 , True , False , True , 6.771845109946688e-16 , 5.419127190771146e-54
+Kepler-634 , True , False , False , nan , nan
+Kepler-819 , True , False , False , nan , nan
+K2-229 , True , False , False , nan , nan
+OGLE-2013-BLG-0341L B , False , False , False , nan , nan
+PH1 , True , False , True , nan , nan
+Kepler-1260 , True , False , False , nan , nan
+gam 1 Leo , True , False , True , nan , nan
+Kepler-1377 , True , False , False , nan , nan
+HIP 109600 , True , False , True , 5.4771538000493235e-18 , 6.49715963737699e-54
+K2-141 , True , False , False , 3.679193892940342e-15 , 5.504662781390384e-51
+Kepler-1050 , True , False , False , nan , nan
+Kepler-1483 , True , False , False , nan , nan
+Kepler-1034 , True , False , False , nan , nan
+Kepler-184 , False , False , False , nan , nan
+Kepler-691 , False , False , False , nan , nan
+K2-226 , True , False , False , 1.0163165321512549e-24 , 8.354976939805326e-56
+KMT-2019-BLG-1339L , False , False , False , nan , nan
+HD 121504 , True , False , True , 2.0664940306071123e-15 , 3.2818057546504077e-53
+HD 128311 , True , False , True , 2.994490946888462e-17 , 3.028694138174804e-54
+Kepler-505 , False , False , False , nan , nan
+HD 27442 , True , False , True , 6.3298862086398955e-12 , 9.055206704040487e-55
+Kepler-1099 , True , False , False , nan , nan
+HD 133131 B , True , False , True , 7.985964568431308e-15 , 1.1749393467631484e-60
+Kepler-870 , True , False , False , nan , nan
+HD 8574 , True , False , True , 8.22850591242417e-12 , 2.3419182589483742e-52
+TOI-421 , True , False , False , 1.921646954163203e-14 , 7.048566959924249e-52
+Kepler-795 , True , False , False , nan , nan
+Kepler-917 , True , False , False , nan , nan
+Kepler-113 , True , False , False , nan , nan
+WASP-98 , True , True , False , 8.020554356018482e-35 , 1.34048293264163e-60
+Kepler-773 , True , False , False , nan , nan
+HD 175607 , True , False , False , 2.521136867936214e-16 , 9.134616852764935e-49
+Kepler-57 , True , False , False , nan , nan
+K2-249 , True , False , False , 1.008699384672685e-13 , 6.094644223284583e-18
+Kepler-194 , False , False , False , nan , nan
+Kepler-626 , True , False , False , nan , nan
+HD 13931 , True , False , True , 2.220445527036443e-09 , 7.280178343593954e-58
+Kepler-41 , True , True , False , nan , nan
+Kepler-1196 , True , False , False , nan , nan
+Kepler-767 , True , False , False , nan , nan
+K2-59 , True , False , False , nan , nan
+Kepler-168 , False , False , False , nan , nan
+Kepler-786 , True , False , False , nan , nan
+Kepler-1251 , True , False , False , nan , nan
+Kepler-1663 , False , False , False , nan , nan
+Kepler-1308 , False , False , False , nan , nan
+WASP-7 , True , True , False , 6.412120399131186e-17 , 6.521903329997211e-56
+MOA-bin-1L , True , False , False , nan , nan
+Kepler-601 , True , False , False , nan , nan
+Kepler-1198 , True , False , False , nan , nan
+Kepler-1496 , True , False , False , nan , nan
+Kepler-597 , True , False , False , nan , nan
+Kepler-671 , True , False , False , nan , nan
+Kepler-872 , True , False , False , nan , nan
+Kepler-913 , False , False , False , nan , nan
+Kepler-849 , True , False , False , 6.674986114875527e-17 , 8.835282148502749e-24
+K2-188 , True , False , False , 1.2415385480284409e-23 , 3.2906024679649734e-40
+WASP-164 , True , True , False , 1.131581729472223e-25 , 6.875866732226753e-61
+DMPP-3 A , True , False , False , nan , nan
+Kepler-1096 , False , False , False , nan , nan
+LTT 3780 , False , False , False , nan , nan
+HD 8535 , True , False , True , 1.4381169585034832e-18 , 1.7197325619634646e-49
+HAT-P-53 , True , True , False , nan , nan
+Kepler-304 , True , False , False , nan , nan
+Kepler-48 , True , False , False , 3.093993483410077e-14 , 7.802743365327416e-55
+Kepler-702 , True , False , False , nan , nan
+Kepler-723 , True , False , False , nan , nan
+OGLE-2007-BLG-368L , False , False , False , nan , nan
+Kepler-1511 , True , False , False , nan , nan
+K2-202 , True , False , False , 4.3844750689926106e-14 , 4.525584860312029e-61
+Oph 11 , False , False , True , nan , nan
+WASP-5 , True , True , False , 1.899039091997639e-26 , 4.362637447160652e-56
+HD 40307 , True , False , False , 7.233781778698447e-13 , 9.576131900515123e-52
+Kepler-815 , True , False , False , nan , nan
+K2-268 , True , False , False , nan , nan
+Kepler-1424 , True , False , False , nan , nan
+Kepler-392 , False , False , False , nan , nan
+Kepler-220 , False , False , False , 9.83817762526381e-18 , 1.1644972574977077e-48
+Kepler-1431 , True , False , False , nan , nan
+OGLE-TR-132 , True , True , False , nan , nan
+Kepler-1074 , False , False , False , nan , nan
+Kepler-894 , True , False , False , nan , nan
+HD 114613 , True , False , True , 6.080094558428824e-16 , 1.1878832644061242e-54
+HD 67087 , True , False , True , 3.267034536199945e-17 , 3.095938772032935e-56
+HD 114729 , True , False , True , 2.9838784858324543e-15 , 6.784906400546157e-56
+Kepler-124 , False , False , False , nan , nan
+Kepler-370 , False , False , False , nan , nan
+MOA-2012-BLG-505L , False , False , False , nan , nan
+K2-253 , True , False , False , nan , nan
+Kepler-10 , True , False , False , 1.2146219935342535e-17 , 2.6678852078009175e-48
+Kepler-362 , False , False , False , nan , nan
+tau Boo , True , True , False , 5.535134998871991e-16 , 7.230260845772291e-51
+Kepler-1320 , True , False , False , nan , nan
+NGTS-10 , True , True , False , nan , nan
+Kepler-283 , False , False , False , nan , nan
+HD 212301 , True , True , False , 7.307082976332201e-17 , 6.205163400901064e-57
+Kepler-1691 , True , False , False , nan , nan
+Kepler-956 , True , False , False , nan , nan
+HIP 74890 , True , False , True , 4.380334709703797e-15 , 3.632877352702797e-48
+Kepler-1227 , True , False , False , nan , nan
+Kepler-1479 , True , False , False , nan , nan
+HATS-43 , True , True , False , nan , nan
+K2-185 , True , False , False , nan , nan
+NGTS-12 , True , True , False , 5.684966747272526e-26 , 5.521243894887738e-49
+WASP-2 , True , True , False , 3.3571174837880775e-21 , 8.914218477161484e-53
+Kepler-922 , True , False , False , nan , nan
+Kepler-279 , True , False , False , nan , nan
+Kepler-617 , False , False , False , nan , nan
+Kepler-1658 , True , True , False , 6.360023019452598e-09 , 2.5530133558620426e-18
+KELT-24 , True , True , False , 2.244116951112364e-17 , 1.1703115894516398e-50
+K2-292 , True , False , False , 5.666135989275165e-13 , 1.0899721986954865e-53
+HD 114762 , True , False , True , 8.807581816788842e-16 , 1.3058549026870186e-59
+Kepler-69 , True , False , False , nan , nan
+Kepler-766 , True , False , False , nan , nan
+Kepler-992 , True , False , False , nan , nan
+Kepler-1288 , True , False , False , nan , nan
+Kepler-1696 , True , False , False , nan , nan
+Kepler-737 , False , False , False , nan , nan
+HD 147513 , True , False , True , 2.0447676640789808e-15 , 5.539091395872673e-54
+KELT-10 , True , True , False , 2.1237202010399208e-21 , 1.3640326690595461e-58
+HAT-P-54 , False , True , False , 1.6702964807638526e-22 , 1.2569067232013348e-60
+HD 155358 , True , False , True , 1.930811285038987e-16 , 3.9785151011450424e-51
+MOA-2010-BLG-117L , False , False , False , nan , nan
+HD 180617 , False , False , False , 2.514867232273218e-13 , 2.6759278283854507e-61
+Kepler-764 , True , False , False , nan , nan
+omi CrB , False , False , True , 1.8923349839759597e-16 , 3.5111507826209735e-53
+Kepler-1004 , True , False , False , 0.0005067295177598741 , 5.421636582107049e-08
+Kepler-1045 , True , False , False , nan , nan
+OGLE-2017-BLG-1434L , False , False , False , nan , nan
+Kepler-1012 , True , False , False , nan , nan
+Kepler-272 , False , False , False , nan , nan
+HD 128356 , False , False , True , 1.2069330155474288e-16 , 7.284538582552367e-50
+Kepler-1271 , True , False , False , nan , nan
+Kepler-164 , False , False , False , nan , nan
+Kepler-87 , True , False , True , nan , nan
+Kepler-639 , True , False , False , nan , nan
+K2-33 , False , False , False , nan , nan
+WASP-142 , True , True , False , 5.6023815421662355e-08 , 6.028058784322553e-19
+Kepler-876 , True , False , False , nan , nan
+HD 73534 , True , False , True , nan , nan
+Kepler-593 , True , False , False , nan , nan
+Kepler-1560 , True , False , False , nan , nan
+Kepler-1443 , True , False , False , 5.518259464121361e-13 , 1.7660659050584453e-29
+HD 43691 , True , False , True , 1.740116838057826e-18 , 9.026865206194455e-55
+HIP 79431 , False , False , True , nan , nan
+Kepler-508 , True , False , False , 1.6661219608009055e-13 , 6.652051458217144e-52
+XO-3 , False , False , False , 8.315282216893732e-18 , 1.5901427621436732e-56
+Kepler-1092 , True , False , False , nan , nan
+PSR B1257+12 , True , False , False , nan , nan
+HAT-P-32 , True , True , False , 1.5881605704989948e-21 , 2.813374190275346e-51
+K2-225 , True , False , False , 1.229011837353884e-25 , 7.908739927468438e-63
+HD 40956 , True , False , True , 5.044989801442062e-19 , 1.7019395637765742e-57
+KMT-2018-BLG-1292L , True , False , False , nan , nan
+Kepler-55 , False , False , False , nan , nan
+HIP 54373 , False , False , False , 5.516805099316634e-18 , 1.3939799917056407e-55
+Kepler-506 , True , False , False , 5.567077146673103e-14 , 6.229001359264612e-53
+CoRoT-17 , True , True , False , nan , nan
+KOI-1257 , True , False , True , nan , nan
+Kepler-1148 , True , False , False , nan , nan
+TOI-1601 , True , True , False , nan , nan
+Kepler-358 , False , False , False , nan , nan
+WASP-117 , True , False , False , 2.5081977156982288e-23 , 4.7575431834034785e-51
+Kepler-356 , False , False , False , nan , nan
+EPIC 201238110 , False , False , False , nan , nan
+Kepler-227 , False , False , False , nan , nan
+HD 213240 , True , False , True , 1.0070697662201858e-20 , 8.544641192682526e-55
+K2-52 , True , False , False , nan , nan
+Kepler-1165 , True , False , False , nan , nan
+Kepler-1249 , True , False , False , nan , nan
+HD 564 , True , False , True , 7.761815028173281e-16 , 2.5165724858611377e-52
+Kepler-427 , True , True , False , nan , nan
+Kepler-1121 , True , False , False , 9.17311099211696e-31 , 4.021477790554025e-47
+Kepler-1322 , True , False , False , nan , nan
+HAT-P-25 , True , True , False , 3.366175607711491e-22 , 1.18153605669366e-55
+Kepler-675 , True , False , False , nan , nan
+Kepler-805 , True , False , False , 5.464543356437584e-22 , 5.234828975178079e-42
+Kepler-1558 , True , False , False , nan , nan
+RR Cae , False , False , True , nan , nan
+Kepler-1487 , True , False , False , nan , nan
+Kepler-242 , False , False , False , nan , nan
+Kepler-1330 , True , False , False , nan , nan
+Kepler-1248 , True , False , False , nan , nan
+K2-193 , True , False , False , nan , nan
+Kepler-1066 , True , False , False , 1.4938124715574503e-09 , 2.3467478291817236e-56
+K2-271 , True , False , False , nan , nan
+Kepler-417 , True , False , False , nan , nan
+Kepler-782 , True , False , False , nan , nan
+Kepler-669 , True , False , False , nan , nan
+Kepler-789 , True , False , False , nan , nan
+WASP-162 , True , True , False , 7.965272822637884e-22 , 4.438877378717654e-56
+Kepler-1240 , True , False , False , nan , nan
+Kepler-1568 , True , False , False , nan , nan
+Kepler-867 , True , False , False , nan , nan
+K2-293 , True , False , False , nan , nan
+K2-131 , True , False , False , 8.726747685351126e-20 , 3.470897670653255e-57
+Kepler-1563 , True , False , False , nan , nan
+Kepler-277 , True , False , False , nan , nan
+HD 99706 , True , False , True , 6.125708470139113e-17 , 2.828513688008129e-69
+OGLE-2016-BLG-1195L , False , False , False , nan , nan
+MOA-2011-BLG-291L , False , False , False , nan , nan
+K2-194 , True , False , False , 2.0637259762946138e-06 , 7.1599123061243975e-09
+HD 142415 , True , False , True , 1.546132770974744e-14 , 3.1415363240711784e-54
+Kepler-1343 , True , False , False , nan , nan
+Kepler-930 , True , False , False , nan , nan
+Kepler-1019 , True , False , False , nan , nan
+Kepler-409 , True , False , False , 9.022281979707643e-19 , 1.4839284405426414e-50
+K2-276 , True , False , False , nan , nan
+HD 217107 , True , True , True , 3.3698229631561455e-14 , 1.8127938021475997e-48
+KMT-2018-BLG-1990L , False , False , False , nan , nan
+Kepler-1005 , True , False , False , nan , nan
+Kepler-779 , False , False , False , nan , nan
+HD 95872 , True , False , True , 1.420579728970929e-15 , 7.16890990158005e-54
+Kepler-727 , True , False , False , nan , nan
+CoRoT-28 , True , True , False , nan , nan
+Kepler-1239 , True , False , False , nan , nan
+HD 217786 , True , False , True , 3.9927379847744304e-17 , 2.7632191449835853e-48
+K2-222 , True , False , False , nan , nan
+HD 52265 , True , False , True , 3.8569740684667755e-12 , 1.955748461978444e-51
+HD 102329 , True , False , True , 1.773273954084136e-24 , 2.970282274008388e-62
+Kepler-1152 , False , False , False , nan , nan
+Kepler-1666 , True , False , False , nan , nan
+Kepler-359 , False , False , False , nan , nan
+Kepler-99 , True , False , False , 1.7655233910616422e-16 , 1.1628381579384747e-48
+Kepler-1290 , True , False , False , nan , nan
+K2-228 , True , False , False , 1.6623437332611726e-21 , 1.1067015920154701e-54
+Kepler-833 , False , False , False , nan , nan
+Kepler-678 , True , False , False , nan , nan
+Kepler-957 , True , False , False , nan , nan
+HIP 65891 , False , False , True , 4.213130380280593e-11 , 2.2456894710132538e-48
+Kepler-118 , False , False , False , nan , nan
+Kepler-1233 , True , False , False , nan , nan
+NGTS-4 , True , False , False , 1.1352097694274567e-20 , 1.9703751318425658e-61
+HD 27631 , True , False , True , nan , nan
+HD 212771 , True , False , True , 9.130489801244262e-18 , 4.3320633702580704e-55
+Kepler-1381 , True , False , False , nan , nan
+WASP-16 , True , False , False , 3.2309919916739168e-18 , 5.21891235345573e-57
+Kepler-771 , True , False , False , nan , nan
+HD 219415 , True , False , True , 1.4536396514609453e-17 , 4.933937853127196e-58
+Kepler-526 , True , False , False , 1.5589450074197478e-22 , 1.6587920941096364e-38
+Kepler-444 , True , False , False , 1.3528255278107936e-15 , 1.5325088022435669e-56
+Kepler-644 , True , False , False , nan , nan
+Kepler-1680 , True , False , False , nan , nan
+Kepler-781 , True , False , False , nan , nan
+Kepler-538 , True , False , False , 6.086270443143325e-16 , 1.5982200640002916e-51
+Kepler-331 , False , False , False , nan , nan
+WASP-113 , True , True , False , 9.441272331516309e-14 , 2.052969298399402e-28
+Kepler-1041 , True , False , False , nan , nan
+HD 143105 , True , True , False , 1.9793968912744115e-16 , 3.6256831075307e-57
+Kepler-1015 , True , False , False , nan , nan
+K2-122 , False , False , False , 4.55004533906727e-17 , 1.0345681849828107e-58
+HD 10697 , True , False , True , 3.567646480887184e-11 , 2.9220761083904677e-48
+PH2 , True , False , False , nan , nan
+Kepler-859 , True , False , False , nan , nan
+WASP-147 , True , True , False , 2.221040602830023e-11 , 8.488342576118141e-30
+HD 224693 , True , True , False , 1.4911343408954942e-21 , 1.28226205515518e-52
+Kepler-1701 , True , False , False , nan , nan
+Kepler-213 , False , False , False , nan , nan
+Kepler-1593 , True , False , False , nan , nan
+GJ 1148 , False , True , True , nan , nan
+XO-1 , True , False , False , 1.4563922692321274e-17 , 2.088824201865561e-55
+TOI-640 , True , True , False , nan , nan
+OGLE-2005-BLG-390L , False , False , False , nan , nan
+Kepler-642 , True , False , False , nan , nan
+Kepler-1102 , True , False , False , nan , nan
+Kepler-1068 , True , False , False , nan , nan
+HD 187123 , True , True , True , 1.849109312509318e-20 , 2.761615212471547e-54
+Kepler-1082 , True , False , False , nan , nan
+Kepler-206 , False , False , False , nan , nan
+Kepler-419 , True , False , True , nan , nan
+K2-21 , False , False , False , 4.961647722728157e-21 , 7.759966248070275e-48
+K2-53 , True , False , False , 0.00014209295959558276 , 1.6951583760637774e-44
+Kepler-1366 , False , False , False , nan , nan
+K2-163 , True , False , False , 2.3478706006372725e-20 , 1.994330929341353e-52
+MOA-2007-BLG-400L , False , False , False , nan , nan
+GJ 273 , False , False , False , nan , nan
+K2-308 , True , False , False , nan , nan
+WASP-64 , True , True , False , 5.540017004268357e-22 , 8.281958117882686e-63
+Kepler-1440 , True , False , False , nan , nan
+Kepler-1492 , True , False , False , nan , nan
+Kepler-337 , False , False , False , 4.720885849870319e-23 , 1.5922833646970234e-31
+Kepler-1633 , True , False , False , nan , nan
+MOA-2015-BLG-337L , False , False , False , nan , nan
+K2-34 , True , False , False , 1.479309544594983e-28 , 3.1729751344468204e-59
+Kepler-335 , False , False , False , nan , nan
+Kepler-286 , False , False , False , nan , nan
+HD 131664 , True , False , True , 4.429530294191688e-17 , 1.0732053668887803e-55
+OGLE-2013-BLG-0132L , False , False , False , nan , nan
+Kepler-1206 , True , False , False , nan , nan
+HD 32518 , True , False , True , 1.330518394995742e-23 , 4.2628866141179794e-61
+Kepler-603 , True , False , False , nan , nan
+Kepler-1154 , True , False , False , nan , nan
+Kepler-47 , True , False , False , nan , nan
+HD 143361 , True , False , True , 4.5248422285249456e-13 , 8.5423646485188565e-47
+OGLE-2012-BLG-0026L , True , False , False , nan , nan
+Kepler-1006 , True , False , False , nan , nan
+Kepler-564 , True , False , False , nan , nan
+HD 171028 , True , False , True , 1.6993227163983706e-16 , 1.6375196149849064e-52
+Kepler-255 , True , False , False , nan , nan
+Kepler-950 , True , False , False , nan , nan
+HD 23472 , True , False , False , 1.6285844556598677e-14 , 8.280252625528858e-52
+Kepler-878 , True , False , False , nan , nan
+Kepler-960 , True , False , False , nan , nan
+AB Pic , False , False , False , 1.212293334871046e-16 , 5.270196293083979e-58
+HD 190360 , True , False , True , 5.663264452692873e-17 , 3.2415391643040185e-57
+K2-201 , True , False , False , nan , nan
+Kepler-840 , True , False , False , nan , nan
+HD 181234 , True , False , True , 6.300871956233325e-22 , 6.3208863584835185e-52
+Kepler-246 , False , False , False , nan , nan
+Kepler-1565 , True , False , False , nan , nan
+WASP-178 , False , True , False , nan , nan
+Kepler-235 , False , False , False , nan , nan
+Kepler-280 , False , False , False , nan , nan
+Kepler-250 , False , False , False , nan , nan
+HD 192263 , False , True , False , 9.96776876746074e-15 , 5.1484283615536163e-51
+Kepler-445 , False , False , False , nan , nan
+Kepler-494 , True , False , False , nan , nan
+K2-54 , False , False , False , nan , nan
+HD 148164 , True , False , True , 1.4063334694968048e-13 , 9.176051612534138e-49
+Kepler-555 , True , False , False , nan , nan
+Kepler-1688 , False , False , False , nan , nan
+MOA-2011-BLG-262L , False , False , False , nan , nan
+WASP-166 , True , False , False , 6.314352610929311e-21 , 1.8313721162944263e-53
+Kepler-1070 , True , False , False , nan , nan
+Kepler-1481 , True , False , False , nan , nan
+HD 141399 , True , False , True , 1.6602255264578028e-16 , 2.8779027886673793e-59
+Kepler-620 , True , False , False , nan , nan
+WASP-63 , True , False , False , 4.054556680830668e-18 , 1.3134019023111224e-54
+Kepler-1603 , True , False , False , nan , nan
+HD 160691 , True , False , True , nan , nan
+Kepler-746 , True , False , False , nan , nan
+HW Vir , False , False , True , nan , nan
+HAT-P-11 , True , False , True , 6.704447292930488e-18 , 1.3811056312249612e-55
+MOA-2009-BLG-266L , False , False , False , nan , nan
+MOA-bin-29 , False , False , False , nan , nan
+WASP-91 , True , True , False , 4.0257664256537567e-17 , 1.8621020514405115e-55
+Kepler-273 , False , False , False , nan , nan
+Kepler-1007 , True , False , False , nan , nan
+K2-12 , True , False , False , 2.7210964277117728e-24 , 2.860242137094384e-63
+Kepler-1175 , True , False , False , nan , nan
+HD 75784 , True , False , True , 1.1292273123710687e-17 , 8.249807708627365e-56
+Kepler-1533 , True , False , False , nan , nan
+HD 82886 , False , False , True , 1.480115060790775e-15 , 2.335407895873612e-55
+HD 13189 , False , False , True , 6.743783866157702e-19 , 1.167567890444666e-34
+Kepler-1512 , True , False , False , 5.537507419923735e-19 , 1.3440013907163278e-48
+16 Cyg B , True , False , True , 2.8756852928833394e-16 , 9.096993204042307e-54
+Kepler-1207 , True , False , False , nan , nan
+Kepler-1164 , True , False , False , nan , nan
+K2-289 , True , False , False , nan , nan
+Kepler-1474 , True , False , False , nan , nan
+K2-25 , False , False , False , nan , nan
+KELT-21 , True , True , False , nan , nan
+HD 102195 , True , True , False , 1.3608921189483657e-15 , 5.868782138986531e-54
+GJ 1132 , False , False , False , nan , nan
+HD 117618 , True , True , False , 4.074002871949993e-15 , 1.1567046872206473e-54
+HD 219077 , True , False , True , 3.008394061081722e-16 , 1.195048809115276e-57
+K2-174 , True , False , False , 6.800458132936788e-14 , 1.2330023822832264e-52
+Kepler-1344 , True , False , False , nan , nan
+Kepler-474 , True , False , False , nan , nan
+Kepler-775 , True , False , False , nan , nan
+Kepler-1584 , True , False , False , nan , nan
+GJ 687 , False , False , False , nan , nan
+Kepler-500 , True , False , False , nan , nan
+GJ 96 , False , False , False , 1.6007961859632724e-13 , 1.1161509264490371e-54
+Kepler-431 , True , False , False , 2.759398147157952e-34 , 8.447867082828179e-57
+HD 23079 , True , False , True , 2.476032326995973e-15 , 1.7489684723741238e-50
+WASP-68 , True , False , False , 4.8721625123771765e-24 , 3.206584927783845e-50
+WASP-45 , True , True , False , 6.761012044416378e-14 , 1.5946934652918005e-57
+GJ 3341 , False , False , False , 3.577875318405047e-13 , 3.983336371049839e-56
+CoRoTID 223977153 , True , False , False , nan , nan
+Kepler-1466 , True , False , False , nan , nan
+Kepler-316 , False , False , False , nan , nan
+OGLE-2018-BLG-1269L , True , False , False , nan , nan
+Kepler-74 , True , True , False , nan , nan
+HATS-2 , True , True , False , nan , nan
+Kepler-1146 , True , False , False , nan , nan
+Kepler-524 , True , False , False , nan , nan
+Kepler-787 , False , False , False , nan , nan
+Kepler-33 , True , False , False , nan , nan
+HATS-5 , True , True , False , 8.831060558309552e-21 , 6.521719954105966e-60
+Kepler-1493 , True , False , False , nan , nan
+Kepler-858 , True , False , False , 1.9693099781319732e-16 , 1.0202871899873625e-47
+Kepler-900 , True , False , False , nan , nan
+LP 791-18 , False , False , False , nan , nan
+WASP-144 , True , True , False , 7.990298794270759e-28 , 2.3857789495944655e-59
+HD 16175 , True , False , True , 6.702681031999551e-11 , 6.665993739534961e-54
+Kepler-682 , True , False , False , nan , nan
+Kepler-1566 , True , False , False , nan , nan
+Kepler-1523 , True , False , False , nan , nan
+K2-206 , True , False , False , 5.07303419920636e-34 , 4.010102688098734e-64
+Kepler-348 , False , False , False , 4.762061785013196e-19 , 2.8789341419413954e-37
+Kepler-1465 , True , False , False , nan , nan
+HD 63433 , True , False , False , 1.8740746048619594e-10 , 8.212894739639456e-50
+HD 24085 , True , False , False , 3.5513366638096196e-15 , 5.006113270672262e-53
+Kepler-380 , False , False , False , nan , nan
+EPIC 212424622 , True , False , False , nan , nan
+K2-74 , True , False , False , 1.4544640179512344e-19 , 4.197301438000858e-48
+WASP-67 , True , False , False , 1.8314493222800857e-18 , 2.574067791830812e-57
+Kepler-897 , True , False , False , nan , nan
+Kepler-193 , False , False , False , nan , nan
+Kepler-496 , True , False , False , nan , nan
+K2-44 , True , False , False , 8.60998457634256e-14 , 4.9583638143996505e-21
+Kepler-1353 , True , False , False , nan , nan
+K2-16 , False , False , False , nan , nan
+HD 206610 , True , False , True , 1.1800489080124517e-26 , 8.130419708796872e-62
+Kepler-1186 , True , False , False , nan , nan
+Kepler-942 , True , False , False , 6.428235624580892e-20 , 3.49047747126429e-52
+HD 7449 , True , False , True , 3.0856318728291643e-10 , 4.630078608113224e-48
+TIC 237913194 , True , True , False , 1.8474806306295703e-31 , 7.64119316793707e-61
+Kepler-1504 , True , False , False , nan , nan
+Kepler-281 , False , False , False , nan , nan
+Kepler-1294 , True , False , False , nan , nan
+GJ 682 , False , False , False , nan , nan
+K2-24 , True , False , False , 9.804669498139413e-05 , 7.918109430993204e-46
+51 Peg , True , True , False , 5.952908806704198e-17 , 4.0732051676076617e-57
+HD 1690 , True , False , True , 0.14920484566380687 , 0.0005799892450075728
+TOI-1266 , False , False , False , 1.807899951818554e-14 , 9.094382871852958e-50
+Kepler-829 , True , False , False , nan , nan
+HATS-58 A , True , True , False , 1.0566885880069554e-09 , 1.5618025858292506e-26
+K2-149 , False , False , False , nan , nan
+Kepler-1184 , True , False , False , nan , nan
+EPIC 201757695 , True , False , False , nan , nan
+Kepler-580 , False , False , False , nan , nan
+K2-146 , False , False , False , nan , nan
+NGTS-13 , True , True , False , nan , nan
+Kepler-1607 , True , False , False , nan , nan
+K2-216 , True , False , False , 6.680066139065973e-18 , 1.4640931768797108e-53
+Kepler-706 , True , False , False , nan , nan
+Kepler-116 , False , False , False , nan , nan
+HD 14787 , True , False , True , 9.992655364624278e-19 , 9.889617863982078e-59
+HAT-P-30 , True , False , False , 4.606979463256338e-15 , 1.19179910907062e-60
+Kepler-1550 , True , False , False , nan , nan
+Kepler-615 , True , False , False , nan , nan
+Kepler-1642 , True , False , False , nan , nan
+Kepler-1324 , True , False , False , nan , nan
+Kepler-1634 , True , False , False , nan , nan
+Kepler-1453 , True , False , False , nan , nan
+HD 70642 , True , False , True , 1.3108149163475823e-15 , 7.882835581588613e-54
+Kepler-205 , False , False , False , 9.641551450611925e-17 , 2.1411152346283887e-44
+Kepler-144 , False , False , False , 6.082395700064552e-19 , 8.634593265727445e-55
+Kepler-695 , True , False , False , nan , nan
+24 Sex , True , False , True , 8.677914684786225e-15 , 2.197217772402176e-47
+Kepler-592 , True , False , False , nan , nan
+Kepler-1040 , True , False , False , nan , nan
+Kepler-1536 , True , False , False , nan , nan
+Kepler-397 , False , False , False , nan , nan
+K2-9 , False , False , False , nan , nan
+Kepler-298 , False , False , False , nan , nan
+Kepler-1571 , True , False , False , nan , nan
+Kepler-990 , True , False , False , nan , nan
+K2-208 , True , False , False , 6.381284575664443e-28 , 9.659731739850576e-57
+Kepler-1118 , True , False , False , nan , nan
+Kepler-1046 , True , False , False , nan , nan
+HIP 67522 , True , False , False , 6.323921775353841e-05 , 7.245180388648214e-45
+Kepler-53 , True , False , False , nan , nan
+K2-91 , False , False , False , nan , nan
+K2-283 , True , False , False , nan , nan
+TOI-892 , True , True , False , 8.736311679764822e-12 , 8.218255418333372e-51
+GJ 3512 , False , False , True , nan , nan
+Kepler-85 , True , False , False , nan , nan
+HD 202206 , True , False , True , 1.2417802271697099e-20 , 1.3946426074246926e-55
+Kepler-1653 , True , False , False , nan , nan
+Kepler-996 , True , False , False , nan , nan
+14 And , False , False , True , 2.3667499969016013e-16 , 3.438483278464571e-57
+Kepler-435 , True , True , False , nan , nan
+WASP-92 , True , True , False , nan , nan
+Kepler-1417 , True , False , False , nan , nan
+HD 68988 , True , True , False , nan , nan
+Kepler-310 , False , False , False , nan , nan
+Kepler-1373 , True , False , False , nan , nan
+Kepler-1359 , True , False , False , nan , nan
+Kepler-1142 , True , False , False , nan , nan
+GJ 3942 , False , False , False , 3.990885003705107e-15 , 1.0344564824555371e-57
+K2-168 , True , False , False , 3.593467863670784e-24 , 1.8501118300956168e-57
+CoRoT-1 , True , False , False , nan , nan
+NN Ser , False , False , False , nan , nan
+Kepler-1031 , True , False , False , nan , nan
+K2-10 , True , False , False , 4.149685411399339e-28 , 1.4571658838851944e-63
+Kepler-1671 , True , False , False , nan , nan
+Kepler-863 , True , False , False , nan , nan
+Kepler-166 , True , False , False , nan , nan
+Kepler-1590 , True , False , False , nan , nan
+KELT-20 , True , True , False , nan , nan
+Kepler-163 , False , False , False , nan , nan
+HIP 65 , True , True , False , 1.9865215438581345e-14 , 8.223984676132262e-52
+HD 167042 , True , False , True , 2.0029482523429014e-14 , 3.984140061189576e-56
+Kepler-1238 , True , False , False , nan , nan
+HIP 35173 , True , False , False , 9.70139557652944e-14 , 8.644156806502766e-52
+HD 33142 , True , False , True , 2.469725395340376e-16 , 1.789749390590067e-54
+K2-7 , True , False , False , nan , nan
+K2-14 , False , False , False , nan , nan
+Kepler-96 , True , False , False , 4.481720762885146e-18 , 7.2050562501974e-53
+Kepler-1532 , True , False , False , nan , nan
+HD 180053 , True , False , True , 1.2957448144881195e-17 , 9.740490659369808e-53
+Kepler-1080 , True , False , False , nan , nan
+TOI-776 , False , False , False , 2.893845048394306e-17 , 8.217885498596462e-55
+Kepler-1029 , True , False , False , nan , nan
+Kepler-1287 , True , False , False , nan , nan
+Kepler-398 , True , False , False , nan , nan
+K2-246 , True , False , False , nan , nan
+Kepler-133 , False , False , False , 4.824848595934397e-20 , 1.160709621612475e-37
+DP Leo , False , False , True , nan , nan
+Kepler-732 , False , False , False , nan , nan
+K2-245 , True , False , False , 1.3862287651697778e-08 , 7.631038126089961e-22
+CoRoT-23 , True , True , False , nan , nan
+WTS-2 , True , True , False , nan , nan
+HD 19994 , True , False , True , 1.0108168126909845e-09 , 2.3209391868756843e-56
+Kepler-1351 , True , False , False , nan , nan
+Kepler-873 , True , False , False , nan , nan
+HD 81688 , False , False , True , 3.200815137162705e-16 , 1.2457749640516954e-57
+Kepler-1093 , True , False , False , nan , nan
+Kepler-357 , False , False , False , nan , nan
+Kepler-796 , True , False , False , 2.5664963656018865e-08 , 3.865900107705684e-12
+HD 233832 , True , False , True , 6.330985400128845e-15 , 1.9746292722861285e-56
+Kepler-127 , False , False , False , 3.3781922782145574e-12 , 6.899632250764164e-50
+CoRoT-26 , True , True , False , nan , nan
+K2-220 , True , False , False , 6.205550902997309e-31 , 2.969637986988436e-54
+Kepler-315 , False , False , False , nan , nan
+KMT-2018-BLG-0029L , True , False , False , nan , nan
+ROXs 42 B , False , False , False , 0.0006887697426771338 , 1.0935874485859186e-40
+NGTS-2 , True , True , False , 1.4161294110799095e-24 , 2.0105712054549428e-47
+HD 16417 , True , False , False , 1.191524143389871e-09 , 6.977367906040716e-52
+EPIC 206215704 , False , False , False , nan , nan
+HD 180902 , True , False , True , 4.521981459892286e-18 , 4.244854005850916e-58
+Kapteyn , False , False , False , nan , nan
+Kepler-1410 , False , False , False , nan , nan
+HD 125595 , False , False , False , 1.0882008762246504e-15 , 1.9242707900377003e-57
+Kepler-575 , True , False , False , nan , nan
+Kepler-402 , False , False , False , 3.2662031798755373e-21 , 5.66152389500549e-41
+HAT-P-44 , True , True , True , nan , nan
+Kepler-462 , True , False , False , nan , nan
+Kepler-1489 , True , False , False , nan , nan
+Kepler-733 , True , False , False , nan , nan
+HD 104985 , False , False , True , 3.3001877016205413e-16 , 1.419534461940126e-53
+Kepler-1418 , True , False , False , nan , nan
+Kepler-893 , True , False , False , nan , nan
+Kepler-1346 , True , False , False , nan , nan
+Kepler-978 , True , False , False , 1.8861586773795718e-19 , 1.0211106519389373e-28
+HD 120084 , False , False , True , 8.144702055072214e-17 , 6.312026316079734e-56
+Kepler-1549 , True , False , False , nan , nan
+NGC 2682 YBP 401 , True , False , False , nan , nan
+Kepler-921 , True , False , False , nan , nan
+HD 202772 A , True , True , False , 1.7575183903009378e-19 , 2.667520083183606e-56
+Kepler-1409 , True , False , False , nan , nan
+SR 12 AB , False , False , False , nan , nan
+HD 20781 , True , False , False , nan , nan
+Kepler-262 , False , False , False , nan , nan
+Kepler-1151 , True , False , False , nan , nan
+K2-247 , True , False , False , nan , nan
+Kepler-618 , True , False , False , nan , nan
+Kepler-845 , True , False , False , nan , nan
+K2-196 , True , False , False , nan , nan
+HD 30856 , True , False , True , 5.270375778248819e-16 , 2.5937191494082314e-49
+Kepler-1518 , True , False , False , nan , nan
+Kepler-1423 , True , False , False , nan , nan
+Kepler-1158 , True , False , False , nan , nan
+CoRoT-21 , True , True , False , nan , nan
+K2-321 , False , False , False , nan , nan
+K2-286 , False , False , False , 6.266929658930184e-14 , 1.1956469104039221e-52
+Kepler-544 , True , False , False , nan , nan
+NGTS-14 A , True , False , False , nan , nan
+K2-85 , False , False , False , 8.40076855248871e-13 , 3.1468703235408354e-56
+Kepler-1245 , True , False , False , nan , nan
+Kepler-1402 , True , False , False , nan , nan
+Kepler-1502 , True , False , False , nan , nan
+Kepler-934 , True , False , False , nan , nan
+K2-148 , False , False , False , 3.0199145729791e-12 , 3.8866802620124824e-51
+WASP-38 , True , False , False , nan , nan
+HD 37605 , True , False , True , 1.6343746519735215e-14 , 5.235305719912698e-52
+HD 231701 , True , False , True , 9.528387855550603e-17 , 1.9946476451066413e-50
+TOI-954 , True , True , False , nan , nan
+Kepler-763 , True , False , False , nan , nan
+Kepler-1626 , True , False , False , nan , nan
+EPIC 249893012 , True , False , False , 1.549700210864443e-26 , 1.2791072290094088e-51
+KMT-2016-BLG-0212L , False , False , False , nan , nan
+Kepler-1217 , True , False , False , nan , nan
+Kepler-128 , True , False , False , 1.103757402167326e-25 , 2.471902386179168e-59
+mu Leo , True , False , True , nan , nan
+Kepler-740 , True , False , False , nan , nan
+Kepler-1021 , True , False , False , nan , nan
+HD 158038 , True , False , True , 2.589652836067718e-15 , 1.064331057823755e-52
+Kepler-1498 , True , False , False , nan , nan
+HATS-25 , True , True , False , nan , nan
+WASP-168 , True , True , False , 2.4374011246971524e-18 , 6.839337527266973e-51
+HD 80653 , True , False , False , 1.7083612024248782e-18 , 3.256869222024767e-54
+Kepler-1685 , True , False , False , nan , nan
+BD+15 2375 , True , False , True , 0.001425783091663857 , 0.011757622292150272
+Kepler-372 , False , False , False , nan , nan
+ups And , True , True , True , 1.8335605145742846e-15 , 5.375776287319067e-53
+Kepler-1612 , True , False , False , nan , nan
+K2-28 , False , False , False , nan , nan
+Kepler-209 , False , False , False , nan , nan
+TOI-132 , True , False , False , 4.9300254163477683e-26 , 8.64875231186859e-59
+Kepler-161 , False , False , False , nan , nan
+BD+03 2562 , True , False , True , nan , nan
+HD 190007 , True , False , False , 6.6494831505938036e-15 , 4.5469007268796084e-48
+Kepler-34 , True , False , True , nan , nan
+HD 192310 , True , False , False , 1.279152026876626e-15 , 4.9238179977088527e-51
+Kepler-389 , False , False , False , nan , nan
+K2-125 , False , False , False , nan , nan
+Kepler-125 , False , False , False , nan , nan
+Kepler-836 , True , False , False , nan , nan
+GJ 180 , False , False , False , 2.740047916127085e-14 , 3.534029528276733e-50
+Kepler-1120 , True , False , False , nan , nan
+Kepler-1394 , True , False , False , 4.203338447848379e-15 , 1.8862787534800597e-34
+Kepler-563 , True , False , False , nan , nan
+Kepler-724 , True , False , False , nan , nan
+HATS-69 , True , True , False , nan , nan
+Kepler-1599 , True , False , False , nan , nan
+Kepler-821 , True , False , False , nan , nan
+Kepler-905 , True , False , False , nan , nan
+MOA-2007-BLG-192L , False , False , False , nan , nan
+WASP-8 , True , False , True , 2.419058118678095e-22 , 8.920013712001267e-64
+Kepler-971 , True , False , False , nan , nan
+HD 175167 , True , False , True , 9.933282442404636e-19 , 5.089085535563903e-55
+HD 106315 , True , False , False , 3.220376360446966e-16 , 1.935154989018292e-55
+Kepler-1428 , True , False , False , nan , nan
+HD 203473 , True , False , True , 2.8514214864718307e-16 , 9.900970693703157e-60
+K2-291 , True , False , False , 2.2120048133713014e-16 , 5.5193908433605916e-52
+Kepler-1522 , True , False , False , nan , nan
+Kepler-1665 , True , False , False , nan , nan
+Kepler-491 , True , False , False , nan , nan
+Kepler-1095 , True , False , False , nan , nan
+Kepler-1698 , True , False , False , nan , nan
+CoRoT-2 , True , True , False , nan , nan
+HAT-P-2 , True , True , False , 3.599001685817957e-15 , 2.0398316473713172e-54
+Kepler-765 , True , False , False , nan , nan
+Kepler-598 , True , False , False , nan , nan
+MOA-2010-BLG-477L , False , False , False , nan , nan
+HATS-27 , True , True , False , 3.311920146794171e-08 , 9.620215781630853e-18
+Kepler-1398 , True , False , False , nan , nan
+Gl 686 , False , False , False , 1.1989074150467423e-16 , 1.4160983941747626e-51
+K2-102 , True , False , False , 4.6177795412839957e-08 , 2.4803196512795557e-48
+Kepler-659 , True , False , False , nan , nan
+Kepler-788 , True , False , False , nan , nan
+eps Ind A , True , False , True , nan , nan
+TOI-237 , False , False , False , nan , nan
+K2-264 , False , False , False , nan , nan
+Kepler-1224 , True , False , False , nan , nan
+K2-111 , True , False , False , 1.5711998107566936e-16 , 8.279766410057247e-54
+Kepler-297 , False , False , False , nan , nan
+GJ 317 , False , False , True , nan , nan
+Kepler-910 , True , False , False , 4.3187621644404905e-20 , 4.6260058885890655e-56
+Kepler-1008 , True , False , False , nan , nan
+EPIC 201170410 , False , False , False , nan , nan
+Kepler-400 , False , False , False , nan , nan
+Kepler-830 , True , False , False , nan , nan
+HD 39091 , True , False , True , 4.8831274198439926e-14 , 2.1998988928237004e-57
+HD 190984 , True , False , True , 5.109118593405066e-24 , 1.1469641219651494e-55
+K2-119 , True , False , False , nan , nan
+HD 45652 , True , False , True , 1.2559936415636015e-10 , 6.4771885525266265e-53
+Kepler-1339 , True , False , False , 5.590964928808533e-17 , 2.808335731002538e-54
+Kepler-831 , True , False , False , nan , nan
+TOI-824 , True , False , False , 1.4579479609567252e-12 , 5.917511778442828e-53
+Kepler-8 , True , True , False , nan , nan
+Kepler-987 , True , False , False , nan , nan
+CoRoT-31 , True , True , False , nan , nan
+WASP-35 , True , False , False , 2.428334179545805e-18 , 1.526594091016943e-60
+Kepler-65 , True , False , False , 1.6252283602178303e-14 , 1.0714057364744314e-46
+Kepler-1296 , True , False , False , nan , nan
+Kepler-1192 , True , False , False , nan , nan
+Kepler-758 , True , False , False , nan , nan
+Kepler-1452 , True , False , False , nan , nan
+Kepler-877 , True , False , False , nan , nan
+HAT-P-17 , True , False , True , 1.6527411922863464e-16 , 4.352807544235909e-53
+Kepler-1170 , True , False , False , nan , nan
+Kepler-962 , True , False , False , nan , nan
+HATS-36 , True , False , False , nan , nan
+HD 72892 , True , False , True , 4.9688577117966403e-14 , 8.558002351130246e-55
+Kepler-965 , True , False , False , nan , nan
+Kepler-977 , True , False , False , nan , nan
+Kepler-1261 , True , False , False , nan , nan
+Kepler-36 , True , False , False , 1.2952384148638772e-26 , 3.848320637040691e-59
+Kepler-152 , False , False , False , nan , nan
+Kepler-1282 , True , False , False , nan , nan
+Kepler-507 , True , False , False , 2.8111725974373538e-27 , 2.513805839352605e-56
+Kepler-1237 , True , False , False , nan , nan
+WASP-132 , True , True , False , 2.8474065527049063e-05 , 1.2748812060826625e-49
+Kepler-1321 , False , False , False , nan , nan
+Kepler-391 , False , False , False , 4.20181183553062e-09 , 7.909534535630241e-13
+HD 219134 , True , False , True , 3.624515637697072e-15 , 5.192131629395199e-51
+Kepler-847 , True , False , False , nan , nan
+Kepler-221 , False , False , False , nan , nan
+OGLE-2018-BLG-0740L , True , False , True , nan , nan
+Kepler-1253 , True , False , False , 1.323582195319997e-30 , 2.2399112274455163e-48
+K2-4 , False , False , False , nan , nan
+Kepler-982 , True , False , False , nan , nan
+Kepler-587 , True , False , False , nan , nan
+Kepler-1501 , True , False , False , nan , nan
+HATS-50 , True , True , False , nan , nan
+GJ 27.1 , False , False , False , 1.1766568369009529e-15 , 1.1318835702479006e-51
+HD 149026 , True , False , False , 5.697145315956804e-15 , 8.860189726828826e-59
+HD 92788 , True , False , True , 5.602622358820602e-15 , 1.5350428539401699e-52
+Kepler-1702 , True , False , False , nan , nan
+HD 89307 , True , False , True , 7.220811101567466e-17 , 6.371926034573413e-59
+Kepler-405 , False , False , False , nan , nan
+Kepler-1485 , True , False , False , nan , nan
+Kepler-860 , True , False , False , nan , nan
+Kepler-826 , True , False , False , nan , nan
+USco1556 A , False , False , False , nan , nan
+Kepler-916 , True , False , False , nan , nan
+Kepler-1475 , True , False , False , nan , nan
+Kepler-1385 , True , False , False , 7.58241023368964e-16 , 9.38163594651463e-28
+Kepler-677 , True , False , False , nan , nan
+Kepler-1035 , True , False , False , nan , nan
+K2-30 , True , True , False , nan , nan
+Kepler-550 , True , False , False , nan , nan
+HD 97048 , False , False , False , nan , nan
+HAT-P-1 , True , True , False , 4.36401988695375e-18 , 1.2255216373017322e-56
+Kepler-854 , True , False , False , nan , nan
+Kepler-560 , False , False , False , nan , nan
+Kepler-1166 , True , False , False , nan , nan
+HD 191939 , True , False , False , 1.8201218042589937e-17 , 1.0112757786707159e-54
+Kepler-1336 , True , False , False , nan , nan
+Kepler-406 , True , False , False , 3.830883283211187e-15 , 1.7359442731450616e-57
+Kepler-988 , False , False , False , nan , nan
+Kepler-1138 , True , False , False , nan , nan
+Kepler-1017 , True , False , False , nan , nan
+HATS-52 , True , True , False , nan , nan
+Kepler-676 , False , False , False , nan , nan
+Kepler-1028 , True , False , False , nan , nan
+Kepler-5 , True , True , False , nan , nan
+K2-329 , True , True , False , nan , nan
+Kepler-224 , False , False , False , nan , nan
+Kepler-881 , True , False , False , nan , nan
+Kepler-1323 , True , False , False , 2.9900763802751813e-33 , 2.0011185686201677e-52
+K2-261 , True , True , False , 3.862024689435834e-20 , 3.59606520400887e-57
+HD 210702 , True , False , True , 7.651568972661768e-16 , 6.286260592078885e-57
+Kepler-1610 , True , False , False , nan , nan
+NGTS-11 , True , False , True , 1.092489499610246e-24 , 4.233534291977412e-56
+Kepler-181 , False , False , False , nan , nan
+Kepler-212 , False , False , False , 5.343146367228394e-21 , 1.1304362003118175e-30
+TOI-1130 , False , True , False , 1.8548539094796384e-18 , 1.3676268106997188e-54
+Kepler-955 , True , False , False , nan , nan
+Kepler-352 , False , False , False , 6.561808744223067e-19 , 1.7238467987289387e-48
+Kepler-107 , True , False , False , 5.645155709183361e-32 , 2.3089307512414258e-57
+Kepler-238 , True , False , False , nan , nan
+WASP-18 , True , True , False , 6.248858982244845e-19 , 1.1028148503371755e-62
+HD 42012 , True , False , True , 5.3585852578560224e-11 , 2.4868467161644165e-54
+Kepler-1210 , True , False , False , nan , nan
+KELT-1 , True , True , False , 6.568739892741493e-26 , 3.155448623752473e-54
+K2-101 , True , False , False , nan , nan
+HIP 67537 , False , False , True , 5.258430199823101e-06 , 6.939572257695367e-52
+HD 152581 , True , False , True , 2.6978948403198774e-19 , 1.4223174726557162e-59
+Kepler-687 , True , False , False , nan , nan
+Kepler-1129 , True , False , False , nan , nan
+Kepler-1112 , True , False , False , nan , nan
+TOI-905 , True , True , False , 1.3254666834221789e-14 , 2.7951926275852794e-51
+Kepler-1244 , True , False , False , 3.8490134536390604e-06 , 5.058819850218162e-06
+KOI-55 , False , False , False , nan , nan
+HATS-29 , True , True , False , 2.9851477021421745e-33 , 3.349015705264607e-57
+K2-270 , True , False , False , nan , nan
+Kepler-1167 , True , False , False , nan , nan
+KELT-23 A , True , True , False , 1.4871532136943435e-14 , 9.576121543532223e-52
+Kepler-222 , False , False , False , nan , nan
+K2-213 , True , False , False , 1.8673307421606975e-23 , 3.46867772477962e-48
+Kepler-263 , False , False , False , nan , nan
+KOI-142 , True , False , False , nan , nan
+Kepler-871 , True , False , False , nan , nan
+Kepler-627 , True , False , False , nan , nan
+OGLE-2018-BLG-0596L , False , False , False , nan , nan
+HD 181342 , True , False , True , 1.5134444437378855e-19 , 5.606050944749059e-54
+HD 25015 , True , False , True , 2.1099360291522306e-11 , 9.678819493805151e-48
+HD 219828 , True , False , True , 1.3472346947182594e-17 , 1.3767977200510978e-55
+HD 38801 , True , False , True , 1.319997645911318e-15 , 2.1732831673722737e-56
+HATS-35 , True , True , False , 3.0894990193793523e-31 , 1.2943282230811762e-38
+HD 59686 A , True , False , True , nan , nan
+Kepler-43 , True , True , False , nan , nan
+Kepler-355 , False , False , False , nan , nan
+Kepler-882 , True , False , False , nan , nan
+Kepler-843 , True , False , False , nan , nan
+Kepler-1687 , False , False , False , nan , nan
+Kepler-1425 , True , False , False , nan , nan
+HD 14067 , False , False , True , 5.76489514643261e-18 , 1.49109746337009e-57
+4 UMa , True , False , True , 2.0314577930220034e-16 , 2.2658833527715056e-57
+Kepler-471 , True , False , False , nan , nan
+Kepler-104 , False , False , False , 9.99508731217469e-24 , 1.0611573231056492e-60
+Kepler-1606 , True , False , False , nan , nan
+Kepler-1656 , True , False , False , 7.39169245068133e-17 , 5.505236294288344e-50
+Kepler-1576 , True , False , False , nan , nan
+Kepler-226 , False , False , False , nan , nan
+Kepler-464 , True , False , False , 1.1729012697758353e-18 , 2.3368240305361455e-35
+K2-79 , True , False , False , 1.7703127993303498e-18 , 2.7449803753522396e-53
+Kepler-607 , True , False , False , nan , nan
+Kepler-129 , False , False , False , 1.0373293778241715e-23 , 8.083719638437671e-54
+HD 164509 , True , False , True , 4.1078932414823346e-18 , 3.511613653316662e-54
+Kepler-183 , False , False , False , nan , nan
+Kepler-798 , True , False , False , nan , nan
+K2-155 , False , False , False , 2.6692949111792278e-14 , 1.4995518902320916e-51
+Kepler-949 , True , False , False , nan , nan
+XO-7 , True , True , False , 2.2737518601327376e-20 , 1.5633939125980392e-57
+Kepler-313 , False , False , False , nan , nan
+Kepler-1209 , True , False , False , 5.90296483918921e-22 , 1.427127371971538e-53
+Kepler-1556 , True , False , False , nan , nan
+Kepler-1681 , False , False , False , nan , nan
+Kepler-155 , False , False , False , nan , nan
+NGTS-8 , True , True , False , nan , nan
+Kepler-566 , True , False , False , nan , nan
+Kepler-294 , False , False , False , nan , nan
+Kepler-510 , True , False , False , 2.271448376036495e-09 , 2.868621021665885e-60
+Kepler-1382 , True , False , False , nan , nan
+Kepler-1022 , True , False , False , nan , nan
+Kepler-1363 , True , False , False , nan , nan
+Kepler-1286 , True , False , False , nan , nan
+HD 33283 , True , True , False , 6.761855867344021e-15 , 4.539091118346121e-55
+Kepler-301 , False , False , False , nan , nan
+OGLE-TR-211 , True , True , False , nan , nan
+K2-63 , True , False , False , 9.010773381930363e-12 , 6.4254623917377015e-25
+HATS-3 , True , True , False , nan , nan
+HN Peg , True , False , False , 5.367949576405319e-17 , 3.277351942365577e-49
+K2-254 , True , False , False , nan , nan
+BD-17 63 , True , False , True , 1.289392810873456e-15 , 1.732648658323924e-52
+K2-320 , False , False , False , nan , nan
+Kepler-1136 , True , False , False , nan , nan
+K2-71 , False , False , False , nan , nan
+K2-151 , False , False , False , 4.237393114727185e-22 , 2.2070318918651587e-51
+Kepler-1076 , True , False , False , 7.481912837968041e-24 , 1.0852926705480046e-57
+Kepler-1334 , True , False , False , nan , nan
+Kepler-199 , False , False , False , nan , nan
+Ross 458 , False , False , False , 1.1729415244021628e-15 , 1.159927889299804e-54
+K2-195 , True , False , False , 9.171978564124051e-26 , 2.2708475323358164e-56
+Kepler-46 , True , True , True , nan , nan
+WASP-165 , True , True , False , 3.2584053385659655e-06 , 1.090996549958371e-11
+HD 129445 , True , False , True , 4.864819769168892e-16 , 5.359316965346037e-55
+HD 44219 , True , False , True , 3.4117524094161316e-11 , 9.054549446858336e-54
+Kepler-1395 , True , False , False , 1.0448453027520036e-25 , 4.4357635967054636e-55
+Kepler-77 , True , True , False , nan , nan
+Kepler-1420 , True , False , False , nan , nan
+Kepler-947 , True , False , False , nan , nan
+Kepler-545 , True , False , False , nan , nan
+WASP-141 , True , True , False , 9.609737239510256e-20 , 1.8014942676405112e-33
+HD 117207 , True , False , True , 9.014463396466064e-16 , 4.529236943064876e-59
+WASP-32 , True , False , False , 1.1092406721195114e-34 , 3.817936148616944e-62
+HD 38529 , True , True , True , 3.736743623494592e-09 , 2.239143639540988e-47
+Kepler-1444 , True , False , False , 2.1487358059652696e-10 , 1.1121957999918776e-58
+OGLE-2016-BLG-0613L AB , True , False , False , nan , nan
+Kepler-30 , True , False , True , nan , nan
+Kepler-7 , True , True , False , nan , nan
+WASP-175 , True , True , False , nan , nan
+K2-192 , True , False , False , 1.1059574243584418e-28 , 2.889013750836007e-60
+WASP-10 , True , True , False , 5.909186014978457e-19 , 1.3555453616156272e-53
+XO-6 , True , True , False , 1.8755325891562914e-14 , 2.1517724280697472e-58
+Kepler-1091 , True , False , False , nan , nan
+Kepler-820 , True , False , False , nan , nan
+BD+48 740 , True , False , True , 9.209378241943078e-22 , 8.356165725600565e-34
+K2-80 , True , False , False , 7.903577935028093e-15 , 1.4693757206556304e-51
+MXB 1658-298 , False , False , False , nan , nan
+K2-162 , True , False , False , 1.1447036219453905e-15 , 1.2088691446511068e-55
+MOA-2008-BLG-379L , False , False , False , nan , nan
+GJ 3779 , False , False , False , nan , nan
+K2-182 , True , False , False , 2.9372581880321243e-09 , 1.4584947012067205e-56
+Kepler-1631 , True , False , False , nan , nan
+Kepler-1434 , True , False , False , 1.8193001973862531e-16 , 1.1202314997409335e-33
+Kepler-578 , True , False , False , nan , nan
+Kepler-463 , True , False , False , 4.3975999709378194e-21 , 4.116372675282065e-55
+HIP 107773 , False , False , True , 4.183410974349394e-16 , 1.7543364316174747e-57
+EPIC 220674823 , True , False , False , 5.19307039172495e-34 , 6.635857523104193e-58
+HD 12661 , True , False , True , 2.180781237173256e-12 , 2.3528216858974245e-47
+HIP 91258 , True , True , False , 5.731348502558108e-19 , 1.750721025992514e-51
+Kepler-1104 , True , False , False , 2.313720402156655e-32 , 1.1167808485418954e-55
+Kepler-303 , False , False , False , nan , nan
+HAT-P-15 , True , False , False , 2.798811363875481e-22 , 8.705731839983714e-51
+Kepler-938 , True , False , False , nan , nan
+HATS-15 , True , True , False , nan , nan
+WASP-55 , True , False , False , 1.4708699464188842e-19 , 1.9533015054347377e-58
+Kepler-868 , True , False , False , nan , nan
+Kepler-939 , True , False , False , nan , nan
+TOI-451 , True , False , False , 9.737233716156305e-19 , 1.2049863813011406e-56
+Kepler-502 , True , False , False , nan , nan
+HAT-P-51 , True , True , False , nan , nan
+Kepler-236 , False , False , False , nan , nan
+Kepler-325 , False , False , False , nan , nan
+HD 108147 , True , True , False , 1.1372413800876342e-13 , 6.197160814339583e-59
+Kepler-1301 , True , False , False , nan , nan
+Kepler-718 , True , False , False , nan , nan
+Kepler-1354 , True , False , False , nan , nan
+HAT-P-68 , False , True , False , nan , nan
+eps Eri , True , False , False , nan , nan
+Kepler-1108 , True , False , False , nan , nan
+Kepler-1140 , True , False , False , nan , nan
+14 Her , True , False , True , 2.4776394429571763e-15 , 2.961161289650587e-54
+HD 162020 , False , True , False , 7.65477919206881e-18 , 9.729708778141584e-54
+Kepler-123 , False , False , False , nan , nan
+KMT-2016-BLG-2397L , False , False , False , nan , nan
+Kepler-353 , False , False , False , nan , nan
+OGLE-2017-BLG-0604L , True , False , False , nan , nan
+WASP-77 A , True , False , False , nan , nan
+OGLE-2015-BLG-0051L , False , False , False , nan , nan
+OGLE-2015-BLG-0954L , False , False , False , nan , nan
+Kepler-814 , True , False , False , nan , nan
+DMPP-1 , True , False , False , 4.086145423548477e-13 , 4.1655495291194386e-53
+Kepler-1349 , True , False , False , 4.1669460054236836e-24 , 5.558014020874233e-57
+HD 220197 , True , False , True , 1.504857437448187e-17 , 1.2738347026147846e-57
+HD 2952 , True , False , True , 3.4957040388146216e-20 , 4.9972919027668094e-54
+Kepler-1645 , True , False , False , nan , nan
+Kepler-350 , True , False , False , nan , nan
+Kepler-729 , True , False , False , nan , nan
+Kepler-1352 , True , False , False , nan , nan
+Kepler-25 , True , False , False , 1.5113532050873583e-17 , 1.2309346246557615e-57
+KELT-8 , True , False , False , 3.4642291850859437e-15 , 2.32767527753827e-42
+Kepler-1228 , True , False , False , nan , nan
+Kepler-232 , False , False , False , nan , nan
+Kepler-1183 , True , False , False , nan , nan
+Kepler-1256 , True , False , False , nan , nan
+Kepler-1509 , True , False , False , nan , nan
+HD 171238 , True , False , True , 6.077014010966413e-15 , 6.952266662764185e-59
+Kepler-646 , True , False , False , nan , nan
+HD 110082 , True , False , False , 4.211592472857975e-15 , 5.276160831376243e-54
+TYC 3667-1280-1 , True , False , True , 8.884242746244326e-27 , 8.14561161146483e-62
+WASP-114 , True , True , False , 5.392847704894554e-21 , 1.2791828186197773e-30
+HATS-13 , True , True , False , nan , nan
+TOI-564 , True , True , False , 3.860169288772283e-19 , 8.127340602955044e-56
+KOI-7892 , True , False , False , nan , nan
+Kepler-885 , True , False , False , 4.228813619647934e-14 , 6.406617870810721e-29
+Kepler-1421 , True , False , False , nan , nan
+HD 1397 , True , True , False , 1.2185603670325961e-15 , 2.4957310100042302e-55
+TOI-125 , True , False , False , 1.0259399466362979e-16 , 1.364169842162588e-59
+TOI-763 , True , False , False , 1.9640875716055287e-09 , 5.857947355674144e-57
+Kepler-309 , False , False , False , nan , nan
+Kepler-1638 , True , False , False , nan , nan
+Kepler-159 , False , False , False , nan , nan
+HAT-P-55 , True , True , False , nan , nan
+Kepler-717 , True , False , False , nan , nan
+OGLE-TR-111 , False , False , False , nan , nan
+HD 96127 , False , False , True , 4.664455238610168e-07 , 6.006220843809568e-12
+K2-6 , True , False , False , 3.459508930617006e-26 , 4.753774299945085e-62
+HAT-P-27 , True , True , False , 2.096193611166355e-18 , 5.423641660942659e-60
+Kepler-535 , True , False , False , nan , nan
+Kepler-1572 , True , False , False , nan , nan
+Kepler-1362 , True , False , False , nan , nan
+Kepler-80 , True , False , False , nan , nan
+Kepler-261 , False , False , False , nan , nan
+KPS-1 , True , True , False , nan , nan
+HD 173416 , True , False , True , 4.5352718933793335e-17 , 2.926894191020644e-48
+Kepler-562 , True , False , False , nan , nan
+Kepler-784 , True , False , False , nan , nan
+Kepler-846 , True , False , False , nan , nan
+Kepler-1231 , True , False , False , nan , nan
+Kepler-214 , False , False , False , nan , nan
+WASP-71 , True , False , False , 3.276229486368478e-28 , 7.070238698003288e-58
+Kepler-1277 , True , False , False , nan , nan
+Kepler-703 , True , False , False , nan , nan
+HIP 105854 , False , False , True , 1.1852254676322098e-17 , 1.8695846004896848e-60
+Kepler-661 , True , False , False , nan , nan
+HAT-P-46 , True , True , False , 6.455309976663657e-19 , 9.130037001256014e-47
+HD 92987 , True , False , True , 1.0803688067418289e-14 , 1.868275742026652e-51
+Kepler-1114 , True , False , False , nan , nan
+Kepler-1315 , True , False , False , nan , nan
+HD 217850 , True , False , True , 4.128282757189741e-17 , 4.155840646926177e-51
+HATS-57 , True , True , False , 6.935729043928648e-21 , 9.305007209621819e-65
+Kepler-975 , True , False , False , nan , nan
+Kepler-1380 , True , False , False , nan , nan
+Kepler-1311 , True , False , False , nan , nan
+TrES-1 , True , False , False , nan , nan
+EPIC 206024342 , True , False , False , nan , nan
+Kepler-1331 , True , False , False , nan , nan
+HATS-72 , True , False , False , nan , nan
+Kepler-321 , False , False , False , 2.36744938395915e-21 , 3.7377617594026898e-56
+Kepler-568 , False , False , False , nan , nan
+K2-284 , False , False , False , 7.318481848433383e-15 , 4.925122792560942e-56
+Kepler-1676 , False , False , False , nan , nan
+Kepler-251 , False , False , False , nan , nan
+HD 141937 , True , False , True , 1.1928923440713877e-14 , 1.0085314149068956e-59
+HD 103197 , True , False , False , 1.1786394041114594e-14 , 8.033814602796874e-53
+HD 216435 , True , False , True , 1.5108891740694973e-18 , 1.3480122406173288e-57
+HD 113538 , False , False , True , 1.8622600525625334e-15 , 3.387113339958377e-54
+Kepler-654 , True , False , False , nan , nan
+Kepler-596 , True , False , False , nan , nan
+HD 96992 , True , False , True , 4.811752888565229e-10 , 1.617922547515826e-27
+WASP-37 , True , True , False , 1.2062530326124188e-19 , 9.702031794151757e-41
+WASP-57 , True , True , False , nan , nan
+K2-138 , True , False , False , 5.189809329605775e-30 , 2.6565290052817855e-60
+K2-95 , False , False , False , nan , nan
+Kepler-1059 , True , False , False , nan , nan
+Kepler-1247 , True , False , False , nan , nan
+Kepler-1627 , True , False , False , nan , nan
+Kepler-1124 , False , False , False , nan , nan
+LHS 3844 , False , False , False , nan , nan
+rho CrB , True , False , True , 3.871248822084953e-15 , 1.3861752839730782e-53
+Kepler-895 , False , False , False , nan , nan
+K2-169 , True , False , False , 3.30291218397653e-24 , 3.031371978595523e-52
+TOI-172 , True , True , False , 8.12694697653299e-33 , 3.82971368903995e-57
+Kepler-777 , False , False , False , nan , nan
+NGTS-6 , True , True , False , nan , nan
+HD 6434 , True , True , False , 8.576095175098765e-18 , 8.649479602990632e-55
+Kepler-1243 , True , False , False , nan , nan
+Kepler-1510 , True , False , False , nan , nan
+1RXS J160929.1-210524 , True , False , False , nan , nan
+Kepler-1221 , True , False , False , nan , nan
+OGLE-2005-BLG-071L , False , False , False , nan , nan
+Kepler-489 , True , False , False , nan , nan
+WASP-118 , True , True , False , 4.088245506759179e-24 , 1.2699095186714487e-46
+HAT-P-9 , True , True , False , nan , nan
+Kepler-574 , True , False , False , nan , nan
+PSR B1620-26 , True , False , False , nan , nan
+Kepler-1505 , True , False , False , nan , nan
+Kepler-941 , True , False , False , nan , nan
+HD 207832 , True , False , True , 1.495962630636227e-19 , 7.416036967335325e-55
+WASP-148 , True , True , True , 4.95702114247942e-27 , 1.402303448668507e-53
+WASP-192 , True , True , False , 1.34886712789457e-32 , 3.2741704420990485e-58
+LTT 1445 A , False , False , False , nan , nan
+TOI-270 , False , False , False , nan , nan
+HATS-11 , True , False , False , nan , nan
+Kepler-827 , True , False , False , nan , nan
+TYC 4282-00605-1 , True , False , True , 1.1292866987296919e-17 , 2.6413680121729387e-58
+HATS-71 , False , True , False , nan , nan
+Kepler-1650 , False , False , False , nan , nan
+Kepler-84 , True , False , False , nan , nan
+WASP-87 , True , True , False , 5.258924665692058e-15 , 6.452927637233024e-54
+Kepler-1085 , True , False , False , nan , nan
+Kepler-296 , False , False , False , nan , nan
+Kepler-1342 , True , False , False , nan , nan
+Kepler-822 , True , False , False , nan , nan
+HD 330075 , False , True , False , 1.973162473278744e-12 , 2.084284668449073e-48
+V1298 Tau , True , False , False , nan , nan
+Kepler-1578 , True , False , False , nan , nan
+K2-38 , True , False , False , 7.127159072320988e-13 , 1.429300251906619e-52
+Kepler-674 , False , False , False , nan , nan
+HD 4308 , True , False , False , 3.0374134030497183e-21 , 6.667740686247116e-58
+HD 98649 , True , False , True , 2.7754364949306814e-18 , 5.674366997579507e-54
+Kepler-686 , True , False , False , nan , nan
+HATS-32 , True , True , False , nan , nan
+K2-58 , True , False , False , 2.0789800270063254e-27 , 1.480271278307063e-58
+Kepler-157 , True , False , False , nan , nan
+11 Com , False , False , True , 1.8766287102600275e-12 , 5.513761711101945e-51
+WASP-50 , True , True , False , 1.9820897707661917e-15 , 4.218246940845246e-59
+Kepler-619 , True , False , False , nan , nan
+CoRoT-3 , True , False , False , 1.4503573209781697e-08 , 6.5716444204440774e-21
+Qatar 7 , True , True , False , 1.0461179475765552e-10 , 9.25357943341095e-22
+Kepler-1061 , True , False , False , nan , nan
+HD 130322 , True , True , False , 1.3476187218111677e-15 , 1.5315427496633838e-54
+K2-31 , True , True , False , 3.6018918714018936e-05 , 1.3371234163907762e-43
+Kepler-980 , True , False , False , nan , nan
+Kepler-953 , True , False , False , nan , nan
+Kepler-23 , True , True , False , nan , nan
+Kepler-828 , True , False , False , nan , nan
+Kepler-126 , False , False , False , 2.5286934573174532e-20 , 2.489710473547964e-53
+Kepler-302 , False , False , False , nan , nan
+K2-263 , True , False , False , 5.881102177744998e-10 , 1.6058447798357017e-56
+Kepler-1397 , True , False , False , nan , nan
+EPIC 246851721 , True , True , False , 1.2137421242870443e-24 , 2.598474815749377e-57
+WASP-124 , True , True , False , 5.024435689904396e-19 , 1.6914878663357604e-36
+Kepler-1281 , True , False , False , nan , nan
+HD 2638 , True , True , False , 7.202859569769948e-16 , 1.8165090411998316e-56
+Kepler-1694 , True , False , False , nan , nan
+omi UMa , False , False , True , nan , nan
+HD 113337 , True , False , True , 2.0590853367997602e-19 , 6.0633353153016465e-56
+Kepler-149 , False , False , False , nan , nan
+OGLE-2012-BLG-0724L , False , False , False , nan , nan
+HD 76700 , True , True , False , 1.3231837551443602e-13 , 2.864210605441883e-56
+Kepler-1155 , True , False , False , nan , nan
+HATS-37 A , True , False , False , nan , nan
+K2-153 , False , False , False , nan , nan
+HAT-P-36 , True , True , False , 2.9614628237782728e-21 , 2.046499637254065e-59
+HD 4313 , True , False , True , 3.658308014702781e-15 , 1.539353241182135e-46
+Kepler-267 , False , False , False , nan , nan
+Kepler-1189 , True , False , False , nan , nan
+Kepler-799 , True , False , False , nan , nan
+Kepler-1067 , True , False , False , nan , nan
+BD+48 738 , True , False , True , 4.210924827119282e-10 , 1.8697080789456125e-13
+Kepler-838 , True , False , False , nan , nan
+TOI-122 , False , False , False , nan , nan
+HAT-P-31 , True , False , False , 1.7708667029416206e-09 , 9.672801145938404e-50
+HD 87883 , False , False , True , 4.263525724068823e-23 , 1.356504757412501e-58
+HD 113996 , True , False , True , 3.1335517038898865e-16 , 8.777047354770384e-49
+K2-158 , True , False , False , 5.160621552615174e-22 , 1.4974618509686573e-57
+Kepler-862 , True , False , False , nan , nan
+HAT-P-57 , False , False , False , 5.96666076274928e-19 , 2.975429115428066e-51
+HAT-P-3 , True , False , False , 1.1319054286234477e-22 , 2.769726314140213e-54
+Kepler-1412 , True , False , False , nan , nan
+OGLE-2012-BLG-0950L , False , False , False , nan , nan
+HD 101930 , False , False , True , 1.4956295486337727e-16 , 2.7646167714711265e-52
+HAT-P-29 , True , False , False , 1.872341047251249e-27 , 5.125581114690498e-58
+TOI-1338 , True , False , False , 1.542304038949989e-23 , 6.007240058176644e-59
+Kepler-237 , False , False , False , nan , nan
+EPIC 211822797 , False , False , False , nan , nan
+OGLE-2015-BLG-1670L , False , False , False , nan , nan
+HD 202696 , True , False , True , 5.117157832873519e-22 , 5.636457393689708e-57
+HD 158259 , True , False , False , 3.52038062935891e-15 , 6.830076064056932e-54
+Kepler-719 , True , False , False , nan , nan
+HD 238914 , True , False , True , nan , nan
+HIP 67851 , True , False , True , 1.3561922482555053e-14 , 5.111004193200153e-52
+HIP 107772 , False , False , False , 1.7734428784858507e-14 , 3.938045938947641e-50
+OGLE-2011-BLG-0251L , False , False , False , nan , nan
+Kepler-404 , False , False , False , nan , nan
+Kepler-739 , True , False , False , nan , nan
+Kepler-1630 , False , False , False , nan , nan
+WASP-33 , True , True , False , nan , nan
+Kepler-1199 , True , False , False , 2.3890353832325973e-24 , 6.265554929653205e-45
+HATS-12 , True , False , False , nan , nan
+K2-181 , True , False , False , 2.8122580653057433e-29 , 3.532145098119982e-69
+HIP 97233 , True , False , True , 3.366451298686584e-17 , 1.9882973276129442e-53
+Kepler-1176 , True , False , False , nan , nan
+HAT-P-21 , True , False , False , 3.192471640927716e-25 , 7.542597420310244e-61
+K2-191 , True , False , False , 2.453485802403317e-28 , 8.56408184079082e-60
+Kepler-284 , False , False , False , nan , nan
+K2-255 , True , False , False , nan , nan
+Kepler-532 , True , False , False , nan , nan
+WASP-158 , True , True , False , 5.375565418965836e-10 , 4.855349319196265e-16
+HD 81817 , False , False , True , nan , nan
+GJ 1252 , False , False , False , 3.315275914016607e-17 , 3.02376518998208e-49
+HD 125390 , True , False , True , 1.9262888642064314e-19 , 9.077060726844566e-60
+Kepler-896 , True , False , False , nan , nan
+HAT-P-39 , True , True , False , 5.264689385912169e-08 , 3.171128033572381e-19
+HD 17674 , True , False , True , 5.816936434552839e-10 , 1.9946612964132772e-54
+HD 5319 , True , False , True , 2.2054960649974646e-16 , 5.660696030457175e-48
+Kepler-381 , False , False , False , 1.9502584881530436e-15 , 2.608397000223352e-57
+Kepler-228 , False , False , False , nan , nan
+Kepler-752 , True , False , False , nan , nan
+K2-104 , False , False , False , nan , nan
+K2-130 , True , False , False , 1.396651326731376e-19 , 2.3567492144026498e-57
+HD 28254 , True , False , True , 3.562472147979088e-14 , 6.321107477423984e-55
+K2-295 , True , True , False , nan , nan
+K2-75 , True , False , False , 1.9375451586641423e-10 , 2.482392828761521e-12
+HD 72659 , True , False , True , 1.5663953611525827e-18 , 4.3983265425727734e-55
+KELT-7 , True , False , False , 1.743914428386824e-19 , 6.3883436221599615e-53
+Kepler-393 , False , False , False , nan , nan
+Kepler-1309 , True , False , False , nan , nan
+WASP-176 , True , True , False , 6.606227634708219e-20 , 5.1816698259527386e-27
+HATS-7 , True , False , False , 2.083932690364015e-19 , 9.813029392556135e-52
+Kepler-1211 , True , False , False , nan , nan
+Kepler-1329 , True , False , False , nan , nan
+YZ Cet , False , False , False , nan , nan
+K2-238 , True , True , False , nan , nan
+2MASS J22362452+4751425 , False , False , False , 2.274588154534368e-17 , 8.831487498240297e-58
+Proxima Cen , False , False , False , nan , nan
+HD 164604 , True , False , True , 1.779613087250453e-17 , 3.0311946977477153e-51
+K2-244 , True , False , False , 3.2319079728231565e-27 , 6.899875097952786e-62
+WASP-129 , True , True , False , 2.2155220384387297e-21 , 1.7272005574904432e-47
+WASP-69 , True , False , False , 2.40722260864466e-13 , 2.264820907009745e-53
+Kepler-198 , True , False , False , nan , nan
+Kepler-1514 , True , False , True , 3.73041734794687e-14 , 5.163091729988242e-53
+Kepler-1519 , True , False , False , nan , nan
+Kepler-189 , False , False , False , nan , nan
+HD 37124 , True , False , True , 8.58795583266024e-10 , 1.1765704861453428e-53
+MOA-2010-BLG-073L , False , False , False , nan , nan
+Kepler-1682 , True , False , False , nan , nan
+Kepler-100 , True , False , False , 3.3407880212612697e-12 , 1.691996220684755e-44
+Kepler-411 , True , False , False , 8.420728892391039e-15 , 2.197937890112534e-49
+Kepler-643 , True , False , False , nan , nan
+Kepler-1684 , True , False , False , nan , nan
+K2-11 , True , False , False , nan , nan
+Kepler-1587 , True , False , False , nan , nan
+HIP 41378 , True , False , False , 3.2119436422821235e-18 , 1.5249469077285806e-56
+Kepler-1297 , True , False , False , nan , nan
+Kepler-388 , False , False , False , nan , nan
+K2-90 , True , False , False , 8.56392668163476e-08 , 2.4269734456655644e-53
+Kepler-1255 , True , False , False , nan , nan
+Kepler-692 , True , False , False , nan , nan
+K2-99 , True , False , False , 9.553491851019165e-13 , 7.787204094211586e-17
+NGTS-5 , False , True , False , nan , nan
+GJ 2056 , False , False , False , 1.4706835322449093e-16 , 3.878510753803687e-47
+HAT-P-35 , True , True , False , 1.0906652861557926e-22 , 2.4412888793139562e-39
+GJ 422 , False , False , False , nan , nan
+HD 100546 , False , False , False , nan , nan
+HD 216437 , True , False , True , 1.9639127500598374e-13 , 1.3398007265595554e-56
+TYC 0434-04538-1 , True , False , True , 8.136907036831684e-12 , 1.1979518942269156e-26
+Kepler-1054 , True , False , False , nan , nan
+Kepler-1285 , True , False , False , 3.7014968673086025e-26 , 1.2593271900516044e-65
+Kepler-964 , True , False , False , nan , nan
+Gl 378 , False , False , False , 1.0516924545674332e-14 , 8.785265146528867e-50
+Kepler-1561 , True , False , False , nan , nan
+Kepler-461 , True , False , False , nan , nan
+Kepler-760 , True , False , False , nan , nan
+Kepler-1375 , True , False , False , nan , nan
+Kepler-1585 , True , False , False , nan , nan
+Kepler-689 , True , False , False , nan , nan
+K2-73 , True , False , False , 8.529602530166952e-32 , 2.3675538044703094e-57
+Kepler-891 , True , False , False , nan , nan
+K2-256 , True , False , False , nan , nan
+K2-239 , False , False , False , nan , nan
+Kepler-437 , True , False , False , nan , nan
+HATS-4 , True , True , False , 2.904265683636111e-20 , 4.842501338242059e-59
+K2-157 , True , False , False , 2.8770497554738086e-27 , 2.954705935594134e-54
+Kepler-653 , True , False , False , nan , nan
+HD 153950 , True , False , True , 2.2201972313404504e-16 , 6.234343836193891e-53
+Kepler-176 , True , False , False , nan , nan
+K2-199 , True , False , False , 7.460537657889917e-19 , 1.5954175953613124e-54
+Kepler-1111 , True , False , False , nan , nan
+Kepler-548 , True , False , False , nan , nan
+Kepler-1695 , True , False , False , nan , nan
+Kepler-694 , True , False , False , nan , nan
+MOA-2016-BLG-227L , False , False , False , nan , nan
+OGLE-2017-BLG-0373L , False , False , False , nan , nan
+WASP-119 , True , True , False , 5.640538869285199e-24 , 5.339225703986439e-50
+TrES-5 , True , True , False , nan , nan
+Kepler-1358 , True , False , False , nan , nan
+K2-147 , False , False , False , 1.2924624949590682e-17 , 5.944996153848613e-58
+Kepler-1609 , True , False , False , nan , nan
+Kepler-9 , True , False , False , nan , nan
+Kepler-984 , True , False , False , nan , nan
+Kepler-407 , True , False , False , 4.0513265980921506e-17 , 4.371101587126959e-50
+HD 34445 , True , False , True , 1.0248023940329231e-11 , 4.239319315659409e-50
+Qatar 4 , True , True , False , nan , nan
+MOA-2009-BLG-387L , False , False , True , nan , nan
+Kepler-1086 , True , False , False , nan , nan
+Kepler-1016 , True , False , False , nan , nan
+Kepler-170 , False , False , False , nan , nan
+HD 208487 , True , False , True , 2.0233984782136967e-17 , 2.1112490391581445e-51
+Kepler-117 , True , False , True , nan , nan
+Kepler-1319 , False , False , False , nan , nan
+Kepler-1162 , True , False , False , nan , nan
+Kepler-1497 , True , False , False , nan , nan
+HD 197037 , True , False , True , 1.1384520350729085e-15 , 2.960720376062311e-54
+Kepler-1117 , True , False , False , nan , nan
+HD 285507 , True , True , False , 1.9861787707988717e-17 , 5.739077770966236e-50
+Kepler-529 , True , False , False , nan , nan
+HD 102843 , True , False , True , 6.958382330927601e-19 , 2.0018972997369585e-55
+HD 4208 , True , False , True , 3.9725817602325405e-17 , 7.081245351970661e-57
+Kepler-1145 , True , False , False , nan , nan
+Kepler-1552 , True , False , False , nan , nan
+Kepler-1596 , True , False , False , nan , nan
+Kepler-1132 , True , False , False , nan , nan
+Kepler-879 , True , False , False , nan , nan
+Kepler-1357 , True , False , False , nan , nan
+K2-89 , False , False , False , 2.377238394906804e-12 , 7.2443068540324575e-50
+HD 139357 , True , False , True , 6.816419257181176e-13 , 7.974543006639478e-51
+Kepler-519 , True , False , False , 1.2585809207616187e-19 , 3.522037109152874e-48
+Kepler-616 , True , False , False , nan , nan
+Kepler-1002 , True , False , False , 2.68681293156469e-29 , 2.5543404550599944e-56
+HD 109246 , True , False , True , 1.8475639678042175e-18 , 5.3011899993032e-53
+GJ 480 , False , False , False , nan , nan
+CoRoT-13 , True , True , False , nan , nan
+Kepler-968 , True , False , False , nan , nan
+HD 102117 , True , True , False , 7.351090355756959e-16 , 1.587266033585216e-60
+Kepler-423 , True , True , False , nan , nan
+gam Cep , True , False , True , nan , nan
+HD 108863 , True , False , True , 3.9122456963723987e-19 , 1.0899798071426176e-54
+Kepler-1389 , True , False , False , nan , nan
+KELT-17 , True , True , False , nan , nan
+Kepler-1583 , True , False , False , 2.8607389475359426e-22 , 5.867488980486629e-58
+Kepler-635 , True , False , False , nan , nan
+K2-172 , True , False , False , 2.1970442488553336e-28 , 3.110527528559823e-52
+K2-243 , True , False , False , 3.014083812660967e-24 , 2.5411015341586564e-54
+Kepler-811 , True , False , False , nan , nan
+OGLE-2013-BLG-0102L , False , False , False , nan , nan
+Kepler-311 , False , False , False , nan , nan
+K2-61 , True , False , False , 3.0724655347825856e-16 , 2.5479018273195155e-42
+Kepler-1078 , True , False , False , nan , nan
+Kepler-217 , True , False , False , nan , nan
+Kepler-515 , True , False , False , nan , nan
+Kepler-384 , False , False , False , nan , nan
+HD 20794 , True , False , False , 1.1554027725418427e-18 , 6.129682988316508e-57
+Kepler-1216 , True , False , False , nan , nan
+Kepler-1387 , True , False , False , nan , nan
+Kepler-266 , False , False , False , nan , nan
+alf Tau , True , False , True , nan , nan
+Kepler-504 , False , False , False , nan , nan
+HIP 48714 , False , False , False , 1.4511878770382898e-14 , 1.787119349627529e-49
+Kepler-40 , True , True , False , nan , nan
+Kepler-136 , False , False , False , nan , nan
+EPIC 201841433 , True , False , False , nan , nan
+Kepler-1180 , True , False , False , nan , nan
+NGC 2682 YBP 1194 , True , False , False , nan , nan
+Kepler-909 , True , False , False , 1.1728822673177463e-15 , 1.924174573634918e-50
+Kepler-259 , False , False , False , nan , nan
+HD 216536 , True , False , True , 1.8923104970941962e-30 , 5.676285514236655e-57
+Kepler-1484 , True , False , False , nan , nan
+HAT-P-40 , True , False , False , 8.096804626663627e-27 , 2.1495309238530664e-53
+Kepler-1128 , True , False , False , nan , nan
+TOI-942 , True , True , False , 1.0500456496808618e-20 , 2.002353288820737e-50
+Kepler-147 , False , False , False , nan , nan
+Kepler-112 , False , False , False , nan , nan
+HATS-56 , True , True , False , nan , nan
+GJ 1214 , False , False , False , nan , nan
+Kepler-711 , True , False , False , nan , nan
+OGLE-2017-BLG-0406L , False , False , False , nan , nan
+HD 80606 , True , False , False , 1.5069745096791214e-15 , 6.260417133698806e-55
+Kepler-991 , False , False , False , nan , nan
+HD 45350 , True , False , True , 1.4807854363969542e-09 , 5.315300161936942e-50
+K2-129 , False , False , False , nan , nan
+Kepler-253 , False , False , False , nan , nan
+Kepler-1337 , True , False , False , nan , nan
+HD 79498 , True , False , True , 1.2936137924816684e-17 , 1.597533570123322e-57
+HD 98736 , True , False , True , 3.699377381349613e-17 , 5.5993679182807676e-49
+WASP-136 , True , True , False , 4.2012642188734076e-26 , 9.778558857608808e-59
+HD 181433 , True , False , True , 1.736103787331649e-16 , 2.0968500879261616e-48
+Kepler-21 , True , False , False , 4.756843559967743e-20 , 1.2718844223019426e-55
+Kepler-540 , True , False , False , 2.8693773948634077e-22 , 1.792234268429995e-53
+HD 214823 , True , False , True , 2.5035364523255125e-20 , 9.420726863131354e-53
+Kepler-1356 , True , False , False , nan , nan
+TOI-1333 , True , True , False , nan , nan
+Kepler-1229 , False , False , False , nan , nan
+Kepler-801 , False , False , False , nan , nan
+KELT-4 A , True , True , False , 1.3474810112760376e-25 , 1.69795806624884e-56
+nu Oph , False , False , True , nan , nan
+Kepler-1147 , True , False , False , nan , nan
+Kepler-981 , True , False , False , nan , nan
+Kepler-1546 , True , False , False , nan , nan
+Kepler-95 , True , False , False , 5.418739979396148e-29 , 8.951110961206423e-61
+Kepler-1467 , True , False , False , nan , nan
+GJ 4276 , False , False , False , nan , nan
+Kepler-1608 , True , False , False , nan , nan
+K2-282 , True , False , False , nan , nan
+WASP-54 , True , False , False , 3.218646339898982e-26 , 3.0084553393810125e-56
+Kepler-160 , False , False , False , nan , nan
+BD+20 2184 , True , True , False , 7.117899281404393e-08 , 6.5229473888062215e-52
+USco1621 A , False , False , False , nan , nan
+HD 103949 , True , False , False , 4.948290162107778e-18 , 4.981490688329314e-60
+HD 134987 , True , False , True , 1.2563042284667492e-18 , 9.58913715238841e-51
+Kepler-244 , False , False , False , nan , nan
+Kepler-707 , True , False , False , nan , nan
+HD 28678 , True , False , True , 1.2507918091621395e-16 , 1.2736520881576107e-54
+Kepler-919 , True , False , False , nan , nan
+HD 18015 , True , False , True , 4.424732108839696e-15 , 8.553920010563665e-61
+HR 8799 , True , False , True , nan , nan
+Kepler-385 , True , False , False , nan , nan
+2MASS J01033563-5515561 A , False , False , False , nan , nan
+K2-84 , True , False , False , 1.330849037085322e-18 , 1.1521098728259064e-59
+Kepler-121 , False , False , False , nan , nan
+Kepler-742 , True , False , False , nan , nan
+Kepler-1234 , True , False , False , nan , nan
+Kepler-24 , True , True , False , nan , nan
+MOA-2009-BLG-319L , False , False , False , nan , nan
+HAT-P-5 , True , False , False , 1.6609735531077296e-12 , 4.7742384324144827e-54
+K2-173 , True , False , False , 1.230301481741672e-18 , 2.927258202288278e-51
+Kepler-1491 , True , False , False , nan , nan
+Kepler-416 , True , False , False , nan , nan
+Kepler-855 , True , False , False , nan , nan
+kap And , False , False , False , nan , nan
+Kepler-940 , True , False , False , nan , nan
+K2-113 , True , False , False , nan , nan
+Kepler-1595 , True , False , False , nan , nan
+Kepler-1266 , True , False , False , nan , nan
+HD 175541 , True , False , True , 8.477630640080284e-21 , 1.0595316735755743e-48
+GJ 143 , True , False , False , 9.22499022656198e-14 , 2.1241612887703775e-49
+Kepler-1564 , True , False , False , nan , nan
+LHS 1140 , False , False , False , nan , nan
+NGTS-1 , False , True , False , nan , nan
+HD 147873 , True , False , True , 2.7428785234368368e-05 , 1.0466501006910288e-51
+HD 29021 , True , False , True , 1.7464161221070482e-14 , 1.767958620423152e-63
+OGLE-2016-BLG-1190L , True , False , True , nan , nan
+HAT-P-37 , True , True , False , nan , nan
+Kepler-776 , True , False , False , nan , nan
+CoRoT-18 , True , True , False , nan , nan
+Kepler-210 , False , False , False , nan , nan
+HD 221287 , True , False , True , 6.060902530712633e-18 , 2.446475461426109e-59
+HD 4113 , True , False , True , 6.0101579922969415e-18 , 6.0394439311608335e-59
+Kepler-1094 , True , False , False , nan , nan
+Kepler-547 , True , False , False , nan , nan
+HD 95086 , True , False , False , nan , nan
+Kepler-797 , True , False , False , nan , nan
+Qatar 10 , True , True , False , 1.2266559565534543e-22 , 4.878184760582137e-34
+Qatar 2 , True , True , False , 2.0271095717884343e-20 , 2.748092782406308e-58
+WASP-96 , True , True , False , 8.081011294239922e-34 , 1.363555939201653e-52
+Kepler-1305 , True , False , False , nan , nan
+PSR J2322-2650 , True , True , False , nan , nan
+HD 221420 , True , False , True , 2.74503779740632e-18 , 5.929975076457888e-56
+Kepler-1109 , True , False , False , nan , nan
+HATS-60 , True , True , False , 7.484700212495149e-14 , 1.678983394497894e-27
+Kepler-290 , False , False , False , nan , nan
+Kepler-441 , False , False , False , nan , nan
+Kepler-911 , True , False , False , 3.757895001898975e-20 , 7.2617125930436005e-40
+Kepler-886 , True , False , False , nan , nan
+Kepler-857 , True , False , False , nan , nan
+K2-279 , True , False , False , 8.094582212036424e-20 , 3.35018546037626e-59
+Kepler-361 , False , False , False , nan , nan
+K2-124 , False , False , False , nan , nan
+K2-46 , True , False , False , nan , nan
+Kepler-465 , True , False , False , 7.581816845262199e-23 , 6.376935115277966e-52
+Kepler-35 , True , False , False , nan , nan
+MOA-2010-BLG-328L , False , False , False , nan , nan
+Kepler-744 , True , False , False , nan , nan
+WASP-28 , True , True , False , 4.739152160118572e-29 , 1.1286610196192979e-62
+Kepler-869 , True , False , False , nan , nan
+Kepler-649 , True , False , False , nan , nan
+HATS-47 , False , True , False , nan , nan
+BD-08 2823 , True , False , True , 2.0233465107935546e-18 , 1.1070467119819608e-55
+Kepler-1226 , True , False , False , nan , nan
+WASP-70 A , True , True , False , 1.4751661625689223e-25 , 8.251301705484567e-59
+OGLE-2008-BLG-092L , True , False , False , nan , nan
+Kepler-1169 , True , False , False , nan , nan
+Kepler-1647 , True , False , True , nan , nan
+MOA-2016-BLG-319L , False , False , False , nan , nan
+K2-233 , True , False , False , 1.8361608281266884e-16 , 6.169509037730836e-49
+Kepler-1406 , True , False , False , nan , nan
+TOI-837 , True , False , False , 4.718056207826698e-06 , 5.184742699342039e-50
+bet UMi , True , False , True , nan , nan
+Kepler-20 , True , False , False , 8.212019373678594e-18 , 1.2580128830991244e-47
+Kepler-1454 , True , False , False , nan , nan
+Kepler-369 , False , False , False , nan , nan
+HATS-10 , True , True , False , 2.616911134442172e-27 , 1.4073848434573931e-55
+K2-252 , True , False , False , 2.2227065571844097e-23 , 8.441840359193807e-61
+Kepler-1471 , True , False , False , nan , nan
+K2-15 , True , False , False , nan , nan
+NGTS-3 A , True , True , False , nan , nan
+Kepler-1276 , True , False , False , 3.104296153440668e-23 , 1.5455824902074664e-52
+Kepler-403 , True , False , False , 6.141660174048157e-10 , 3.441658914974953e-17
+KMT-2017-BLG-1146L , False , False , False , nan , nan
+GJ 3138 , False , False , False , 6.4042510702780494e-09 , 4.0392966083877656e-51
+Kepler-641 , True , False , False , nan , nan
+Kepler-866 , True , False , False , nan , nan
+Kepler-1116 , True , False , False , nan , nan
+Kepler-31 , True , False , True , nan , nan
+HD 40979 , True , False , True , 9.052853815239838e-11 , 1.1662813360378756e-48
+Kepler-1318 , True , False , False , nan , nan
+Kepler-1553 , True , False , False , nan , nan
+HD 11977 , True , False , True , 8.307189184482908e-16 , 1.2662699441710206e-43
+K2-242 , False , False , False , nan , nan
+KOI-12 , True , True , True , 9.211499110763798e-17 , 7.82855331022066e-52
+Kepler-424 , True , True , True , nan , nan
+Kepler-809 , True , False , False , nan , nan
+TOI-561 , True , False , False , 2.6240739167208305e-14 , 1.291249573288861e-52
+Kepler-1361 , True , False , False , nan , nan
+Kepler-1190 , True , False , False , nan , nan
+KIC 5437945 , True , False , False , nan , nan
+Kepler-1539 , True , False , False , nan , nan
+Kepler-1455 , False , False , False , nan , nan
+Kepler-1586 , True , False , False , nan , nan
+Kepler-570 , True , False , False , nan , nan
+WASP-126 , True , False , False , 2.8907152394267615e-24 , 2.1200847441594168e-58
+HATS-34 , True , True , False , nan , nan
+WASP-76 , True , True , False , 2.0446058950431284e-25 , 5.961358847878166e-57
+HD 60532 , True , False , True , 5.2307528883339605e-14 , 2.929933810628663e-46
+Kepler-1404 , True , False , False , nan , nan
+SWEEPS-4 , True , True , False , nan , nan
+K2-72 , False , False , False , nan , nan
+WASP-181 , True , True , False , 1.6178868169907507e-21 , 6.136689638227317e-36
+HD 147018 , True , False , True , 1.1507426980899896e-13 , 4.562489945695933e-61
+Kepler-4 , True , False , False , 8.94280485027778e-28 , 3.1232698292311547e-55
+Kepler-637 , True , False , False , nan , nan
+Kepler-488 , True , False , False , nan , nan
+Kepler-1219 , True , False , False , nan , nan
+Kepler-1463 , True , False , False , nan , nan
+Kepler-973 , True , False , False , 4.3532647772739153e-16 , 2.615867973432432e-56
+KMT-2016-BLG-1836L , False , False , False , nan , nan
+HAT-P-26 , True , False , False , 3.86386863247387e-15 , 2.532222251648163e-60
+Kepler-1052 , True , False , False , nan , nan
+K2-49 , False , False , False , nan , nan
+Kepler-1414 , True , False , False , nan , nan
+Kepler-1646 , False , False , False , nan , nan
+Kepler-240 , False , False , False , nan , nan
+HATS-49 , True , True , False , nan , nan
+Kepler-472 , True , False , False , nan , nan
+Kepler-512 , True , False , False , 1.3052701691388905e-30 , 1.398835377548014e-51
+Kepler-693 , True , False , False , nan , nan
+DS Tuc A , True , False , False , nan , nan
+Kepler-927 , True , False , False , nan , nan
+Kepler-874 , True , False , False , nan , nan
+Kepler-1554 , True , False , False , nan , nan
+Kepler-907 , True , False , False , 6.134713912484654e-27 , 4.408570723923049e-54
+BD+20 594 , True , False , False , 5.128087631403236e-11 , 3.128100357262715e-52
+Kepler-1371 , True , False , False , nan , nan
+Kepler-204 , False , False , False , nan , nan
+HD 89744 , True , False , True , 1.167588457381452e-16 , 8.960961778566506e-53
+HD 220773 , True , False , True , 5.117130080189222e-15 , 1.8930650519801002e-53
+KOI-1599 , True , False , False , nan , nan
+Kepler-1185 , True , False , False , 1.7344834082605962e-23 , 3.305465806754812e-55
+K2-324 , False , False , False , nan , nan
+Kepler-119 , False , False , False , nan , nan
+Kepler-1051 , True , False , False , nan , nan
+Kepler-1507 , True , False , False , 3.934678198245667e-15 , 6.886786046923866e-49
+HAT-P-42 , True , True , False , 5.403519949418065e-25 , 3.2938380701242192e-52
+GJ 9066 , False , False , True , nan , nan
+K2-114 , True , False , False , nan , nan
+Kepler-196 , False , False , False , nan , nan
+Kepler-343 , False , False , False , nan , nan
+Kepler-490 , True , False , False , nan , nan
+Kepler-1063 , True , False , False , nan , nan
+WASP-145 A , True , True , False , 9.919475802314578e-16 , 1.6135423957520292e-57
+Kepler-1545 , True , False , False , nan , nan
+OGLE-2016-BLG-1067L , False , False , False , nan , nan
+Kepler-1130 , True , False , False , 8.772954899746277e-18 , 5.846971025306877e-54
+Kepler-1163 , True , False , False , 1.7427607511042675e-19 , 6.709667443507638e-51
+K2-277 , True , False , False , 8.661785860975715e-14 , 2.322700088267623e-53
+K2-60 , True , True , False , 1.7054230131911183e-15 , 7.353022619082918e-25
+BD+49 828 , True , False , True , 1.4335785322587308e-29 , 4.766233026421248e-57
+Kepler-1621 , True , False , False , nan , nan
+WASP-182 , True , False , False , 1.4403482168515142e-30 , 9.840551725343558e-55
+Kepler-1515 , True , False , False , nan , nan
+Kepler-320 , False , False , False , nan , nan
+Kepler-29 , True , False , False , nan , nan
+Kepler-770 , True , False , False , nan , nan
+Kepler-1557 , True , False , False , nan , nan
+K2-32 , True , False , False , 2.272002503177533e-10 , 1.4011450519718936e-50
+HD 103774 , True , True , False , 4.791992675241203e-16 , 5.2727971491179716e-55
+K2-45 , False , False , False , nan , nan
+Kepler-750 , True , False , False , nan , nan
+K2-197 , True , False , False , 1.4144624298354964e-24 , 6.842520827869053e-60
+GJ 3082 , False , False , False , 6.930407476170366e-14 , 2.2002049915000987e-58
+HD 26965 , True , False , False , 2.555047429898357e-13 , 3.435608840132731e-52
+Kepler-1460 , True , False , False , nan , nan
+Kepler-640 , True , False , False , nan , nan
+HATS-38 , True , False , False , 7.646886620681609e-28 , 5.6537936455296335e-59
+CT Cha , False , False , False , nan , nan
+Kepler-1506 , True , False , False , nan , nan
+WASP-172 , True , True , False , nan , nan
+Kepler-1400 , True , False , False , nan , nan
+Kepler-387 , False , False , False , nan , nan
+GJ 536 , False , False , False , 2.742922448077456e-16 , 4.955467173360149e-58
+GQ Lup , False , False , False , nan , nan
+Kepler-208 , False , False , False , nan , nan
+Kepler-234 , False , False , False , nan , nan
+Pr0211 , True , True , True , nan , nan
+K2-159 , True , False , False , 8.663428863841479e-19 , 8.842189485580605e-54
+Kepler-312 , False , False , False , nan , nan
+TOI-157 , True , True , False , 7.872418361089824e-17 , 2.3549206760777735e-52
+HATS-53 , True , True , False , nan , nan
+K2-69 , False , False , False , nan , nan
+Kepler-1458 , True , False , False , nan , nan
+Kepler-410 A , True , False , False , 3.2250653381026955e-15 , 3.2777941181229542e-52
+Kepler-473 , True , False , False , nan , nan
+WASP-171 , True , True , False , 6.420763623416265e-16 , 1.1261229581403419e-24
+Kepler-1651 , False , False , False , 1.743395074422281e-14 , 9.81242470959512e-55
+GJ 251 , False , False , False , nan , nan
+51 Eri , True , False , False , nan , nan
+Kepler-1580 , True , False , False , 5.093328814135196e-08 , 5.222730055553797e-10
+Kepler-418 , True , False , False , nan , nan
+Kepler-1535 , True , False , False , nan , nan
+Kepler-1087 , True , False , False , 1.438509292665699e-15 , 4.125189399449599e-60
+HD 220074 , False , False , True , 3.285234313205457e-20 , 5.758377916637832e-54
+Kepler-1131 , True , False , False , nan , nan
+Kepler-1038 , True , False , False , nan , nan
+Kepler-1430 , True , False , False , nan , nan
+HD 109271 , True , False , False , 1.5218577474616829e-19 , 1.7896337778027257e-54
+Kepler-684 , True , False , False , nan , nan
+Kepler-1278 , True , False , False , nan , nan
+Kepler-1614 , True , False , False , nan , nan
+KELT-9 , False , True , False , nan , nan
+GJ 433 , False , False , False , 1.6851487881726388e-15 , 2.865694269767484e-52
+Kepler-390 , False , False , False , nan , nan
+Kepler-1222 , True , False , False , nan , nan
+Kepler-1201 , True , False , False , nan , nan
+K2-87 , True , False , False , nan , nan
+Kepler-513 , True , False , False , nan , nan
+Kepler-1625 , True , False , False , nan , nan
+Kepler-841 , True , False , False , nan , nan
+Kepler-360 , False , False , False , nan , nan
+CoRoT-24 , True , False , False , nan , nan
+GJ 625 , False , False , False , nan , nan
+K2-150 , False , False , False , nan , nan
+TOI-628 , True , True , False , nan , nan
+55 Cnc , True , True , True , 1.0512918898568612e-13 , 6.321565388603642e-46
+HD 85512 , False , False , False , 6.897642231405372e-17 , 1.6737202395659253e-54
+Kepler-645 , True , False , False , nan , nan
+HATS-51 , True , True , False , 3.706474657023848e-11 , 5.347707171850395e-60
+HD 86264 , True , False , True , 1.6021245723144368e-20 , 2.714069243180139e-53
+PDS 70 , False , False , False , 1.5855965159602047e-05 , 1.8938819826552724e-48
+HD 125612 , True , False , True , 8.027723484553015e-16 , 2.3435896580043287e-55
+Kepler-1408 , True , False , False , 1.0117423306578967e-23 , 3.783946056269379e-46
+Kepler-98 , True , False , False , 3.874236360702558e-05 , 1.5096806349223193e-54
+WASP-21 , False , False , False , 2.040485334417681e-20 , 4.338852652334007e-55
+HD 39855 , True , False , False , 4.463077792270692e-17 , 3.611807247122225e-52
+Kepler-944 , True , False , False , nan , nan
+Kepler-1299 , True , False , False , nan , nan
+Kepler-1470 , True , False , False , nan , nan
+Kepler-485 , True , False , False , nan , nan
+Kepler-62 , False , False , False , nan , nan
+Kepler-342 , True , False , False , nan , nan
+Kepler-552 , True , False , False , nan , nan
+HD 72490 , True , False , True , 8.481747012128223e-21 , 8.100809785938033e-62
+Kepler-1026 , True , False , False , nan , nan
+Kepler-704 , True , False , False , nan , nan
+Qatar 5 , True , True , False , nan , nan
+GJ 676 A , True , False , True , 4.869005038547219e-17 , 3.777093201258434e-53
+K2-170 , True , False , False , 1.9922500441242788e-22 , 1.059133795371677e-48
+KMT-2016-BLG-2142L , False , False , False , nan , nan
+Kepler-1195 , True , False , False , nan , nan
+Kepler-1500 , True , False , False , nan , nan
+WD 0806-661 , False , False , False , nan , nan
+Kepler-413 , True , False , True , nan , nan
+HD 156846 , True , False , True , 1.241334945737733e-14 , 7.578846005066538e-54
+Kepler-1435 , True , False , False , nan , nan
+Kepler-483 , True , False , False , nan , nan
+GU Psc , False , False , False , nan , nan
+Kepler-1293 , True , False , False , nan , nan
+Kepler-963 , True , False , False , nan , nan
+UKIRT-2017-BLG-001L , True , False , False , nan , nan
+EPIC 206317286 , True , False , False , nan , nan
+Kepler-1451 , True , False , False , nan , nan
+ROXs 12 , True , False , False , 0.00012721960538277722 , 2.1412777858374595e-46
+HD 102365 , True , False , False , 5.601795566510973e-17 , 1.0664992163204278e-49
+Kepler-1464 , True , False , False , nan , nan
+Kepler-1537 , True , False , False , nan , nan
+Wendelstein-2 , True , True , False , nan , nan
+Kepler-285 , False , False , False , nan , nan
+HD 3651 , True , False , True , 1.9615915360392874e-21 , 2.6566482283712682e-48
+KMT-2017-BLG-1038L , False , False , False , nan , nan
+Kepler-1306 , True , False , False , nan , nan
+Kepler-1486 , True , False , False , nan , nan
+Kepler-531 , True , False , False , nan , nan
+Kepler-1317 , True , False , False , nan , nan
+Kepler-583 , True , False , False , nan , nan
+Kepler-864 , True , False , False , nan , nan
+KELT-19 A , True , True , False , nan , nan
+WASP-163 , True , True , False , 1.620340940874475e-20 , 5.971046021278458e-47
+GJ 887 , False , False , False , nan , nan
+HAT-P-4 , False , False , False , 4.704595031329805e-26 , 1.8942858388427464e-57
+HD 9174 , True , False , True , 9.514345256874495e-21 , 9.995914027286474e-57
+WASP-130 , True , True , False , 1.4104627754869038e-12 , 5.09351963622211e-56
+HD 68402 , True , False , True , 1.1155449281883419e-13 , 2.092954999167323e-54
+Kepler-853 , True , False , False , 7.922262217956383e-19 , 4.258214310016142e-40
+CoRoT-29 , True , True , False , nan , nan
+HD 221585 , True , False , True , 4.8195034018548194e-20 , 8.482438103559828e-54
+CoRoT-19 , True , True , False , nan , nan
+Kepler-333 , False , False , False , nan , nan
+K2-204 , True , False , False , nan , nan
+Kepler-497 , True , False , False , nan , nan
+K2-50 , False , False , False , nan , nan
+TOI-178 , False , False , False , 2.2401472482347214e-15 , 1.4921926515875686e-49
+XO-5 , True , True , False , 1.7240327236529506e-18 , 5.2145312839597054e-61
+Kepler-1520 , True , False , False , nan , nan
+Kepler-158 , False , False , False , nan , nan
+Kepler-1639 , True , False , False , nan , nan
+Kepler-447 , True , True , False , 1.2291493153493799e-21 , 1.620227536545405e-53
+CoRoT-12 , True , True , False , nan , nan
+WASP-53 , True , True , True , 1.218972855636785e-26 , 6.503628419349056e-58
+Kepler-453 , True , False , False , nan , nan
+WASP-82 , True , False , False , 8.780174214518554e-14 , 2.1488006804120695e-57
+Kepler-1263 , True , False , False , nan , nan
+Kepler-1303 , True , False , False , nan , nan
+Kepler-1534 , True , False , False , nan , nan
+Kepler-19 , True , False , False , 2.6882846627257417e-17 , 6.111593623703318e-52
+Kepler-701 , True , False , False , nan , nan
+Kepler-946 , True , False , False , nan , nan
+HD 94834 , True , False , True , 1.754314775770968e-10 , 3.413774806480444e-51
+HD 30177 , True , False , True , 1.132467903130326e-15 , 1.9066516909064863e-50
+Kepler-452 , True , False , False , nan , nan
+Kepler-1081 , True , False , False , nan , nan
+Kepler-993 , False , False , False , nan , nan
+Kepler-1178 , True , False , False , nan , nan
+K2-232 , True , True , False , nan , nan
+K2-140 , True , False , False , 2.637352003607702e-31 , 3.6872057518266206e-68
+Kepler-1388 , False , False , False , nan , nan
+Kepler-1212 , True , False , False , nan , nan
+Kepler-1335 , True , False , False , nan , nan
+Kepler-1620 , True , False , False , nan , nan
+Kepler-422 , True , True , False , nan , nan
+Kepler-918 , True , False , False , nan , nan
+OGLE-2017-BLG-1522L , False , False , False , nan , nan
+K2-47 , True , False , False , nan , nan
+Kepler-1669 , False , False , False , nan , nan
+Kepler-759 , True , False , False , nan , nan
+K2-154 , False , False , False , 6.451459295130444e-18 , 9.17005542313011e-50
+EPIC 211945201 , True , False , False , 1.4678857752660265e-06 , 6.338261867850037e-51
+HD 45364 , True , False , True , 5.428361567661379e-10 , 1.2345133015024834e-52
+HD 69830 , True , False , False , 1.468130019610089e-14 , 4.1849957290710995e-49
+WASP-49 , True , False , False , 1.20308658999871e-15 , 2.141205353112904e-55
+KELT-16 , True , True , False , 2.5288193248070652e-24 , 8.820965214567783e-61
+WASP-138 , True , True , False , nan , nan
+HD 110014 , False , False , True , 2.1547931353261477e-15 , 3.7735561629925645e-57
+HD 1666 , True , False , True , 3.7305063592340286e-22 , 5.528086417867662e-54
+Kepler-1300 , True , False , False , nan , nan
+Kepler-1376 , True , False , False , nan , nan
+Kepler-1214 , True , False , False , nan , nan
+Kepler-38 , True , False , True , nan , nan
+Kepler-1540 , True , False , False , nan , nan
+K2-156 , False , False , False , 1.557050907587767e-17 , 1.2687415493015132e-52
+Kepler-1347 , True , False , False , nan , nan
+V0391 Peg , False , False , True , nan , nan
+K2-166 , True , False , False , nan , nan
+HD 6718 , True , False , True , 5.759965376284477e-20 , 6.793770850287506e-54
+Kepler-1149 , True , False , False , nan , nan
+Kepler-1075 , False , False , False , nan , nan
+HD 95089 , True , False , True , 1.0190424913353782e-14 , 2.512649546418658e-50
+Kepler-1683 , True , False , False , nan , nan
+Kepler-937 , True , False , False , nan , nan
+Kepler-254 , False , False , False , nan , nan
+HD 81040 , True , False , True , 4.817816357501328e-12 , 8.463961471763877e-55
+Kepler-778 , True , False , False , nan , nan
+GJ 436 , False , False , False , nan , nan
+2MASS J01225093-2439505 , False , False , False , nan , nan
+Kepler-1700 , True , False , False , nan , nan
+Kepler-171 , False , False , False , nan , nan
+CoRoT-5 , True , True , False , nan , nan
+HD 126525 , True , False , True , 3.6284442871001115e-16 , 1.5367538870323194e-56
+WASP-74 , True , False , False , 2.821688814955191e-18 , 4.836145040229142e-49
+K2-161 , True , False , False , 0.07960160066912259 , 0.04239345711335307
+HD 215497 , True , False , True , 6.192512417769461e-20 , 1.0002444660142932e-51
+K2-184 , True , False , False , 1.0604321215329488e-19 , 8.8759242791822e-53
+KELT-6 , True , False , True , 1.3903007042589785e-24 , 5.5911433563132e-54
+Kepler-1399 , True , False , False , nan , nan
+Kepler-883 , True , False , False , nan , nan
+Kepler-260 , False , False , False , nan , nan
+WASP-81 , True , True , False , 6.677011882385788e-28 , 6.95178934209838e-53
+Kepler-354 , False , False , False , nan , nan
+HIP 70849 , False , False , True , 3.7414342660534715e-16 , 2.2083090910708852e-52
+Kepler-1018 , True , False , False , nan , nan
+Kepler-720 , True , False , False , nan , nan
+Kepler-736 , True , False , False , nan , nan
+Kepler-889 , True , False , False , nan , nan
+WASP-100 , True , False , False , nan , nan
+CoRoT-11 , True , True , False , 2.5362377309717085e-12 , 1.8842290767920073e-26
+Kepler-1597 , True , False , False , nan , nan
+Kepler-341 , False , False , False , nan , nan
+K2-3 , False , False , False , 3.4908087267053783e-15 , 3.562746676096973e-56
+Kepler-1624 , False , False , False , nan , nan
+CoRoT-8 , True , True , False , nan , nan
+KMT-2018-BLG-0748L , False , False , False , nan , nan
+HD 290327 , True , False , True , 3.218224516955116e-11 , 1.5519839987072697e-54
+NGTS-9 , True , True , False , 5.366290208371212e-14 , 2.6382636139741967e-24
+SWEEPS-11 , True , True , False , nan , nan
+Kepler-1014 , True , False , False , nan , nan
+Kepler-1636 , True , False , False , nan , nan
+WASP-184 , True , True , False , 4.3357187851101976e-11 , 1.1266145723753606e-14
+WASP-93 , True , True , False , 4.040838275897559e-17 , 1.8991179537583307e-53
+Kepler-728 , True , False , False , nan , nan
+HU Aqr , True , False , True , nan , nan
+HD 86226 , True , False , True , 1.2008802253649008e-17 , 1.821606969878632e-52
+Kepler-935 , True , False , False , nan , nan
+Kepler-655 , True , False , False , nan , nan
+HATS-62 , True , True , False , nan , nan
+OGLE-2013-BLG-1761L , False , False , False , nan , nan
+HD 106515 A , True , False , True , 6.793744634564344e-17 , 4.242042963791356e-56
+K2-139 , True , False , False , 1.7523155131065735e-20 , 3.630289513771885e-55
+Kepler-912 , True , False , False , nan , nan
+HAT-P-69 , True , True , False , nan , nan
+HIP 4845 , False , False , False , nan , nan
+Kepler-1252 , True , False , False , nan , nan
+Kepler-852 , True , False , False , nan , nan
+Kepler-865 , True , False , False , nan , nan
+Kepler-1011 , True , False , False , nan , nan
+Kepler-1141 , True , False , False , 1.643108352901715e-23 , 4.09823330845813e-63
+Kepler-1559 , True , False , False , nan , nan
+Kepler-1441 , True , False , False , nan , nan
+Kepler-1001 , True , False , False , nan , nan
+Kepler-794 , True , False , False , nan , nan
+HD 74156 , True , False , True , 2.241592229565766e-19 , 1.0866624866568452e-56
+Kepler-1673 , True , False , False , nan , nan
+GJ 504 , True , False , False , 1.3272445277197602e-18 , 5.297407160158868e-55
+Kepler-761 , True , False , False , nan , nan
+Kepler-666 , True , False , False , nan , nan
+Wolf 1061 , False , False , False , 1.6910533692603537e-13 , 2.9373062767968603e-49
+Kepler-162 , False , False , False , nan , nan
+TCP J05074264+2447555 , False , False , False , nan , nan
+Kepler-1392 , True , False , False , nan , nan
+HAT-P-14 , False , False , False , 2.46663866318582e-17 , 9.556753446506295e-56
+HD 42618 , True , False , False , 2.1313849479767855e-13 , 1.505007640055261e-51
+Kepler-958 , True , False , False , nan , nan
+Kepler-1689 , True , False , False , nan , nan
+Kepler-349 , False , False , False , nan , nan
+HD 50499 , True , False , True , 6.646200275785389e-16 , 1.5508148115676854e-59
+WASP-62 , True , False , False , 4.5383321927963185e-18 , 3.388798989816474e-54
+Kepler-1652 , False , False , False , nan , nan
+K2-240 , False , False , False , 3.1580719054030707e-16 , 5.163343281235359e-52
+Kepler-998 , True , False , False , nan , nan
+DENIS-P J082303.1-491201 , False , False , True , nan , nan
+Kepler-291 , False , False , False , nan , nan
+Kepler-1579 , True , False , False , nan , nan
+Kepler-282 , True , False , False , nan , nan
+Kepler-15 , True , True , False , nan , nan
+Kepler-589 , True , False , False , nan , nan
+OGLE-2012-BLG-0563L , False , False , False , nan , nan
+Kepler-929 , True , False , False , nan , nan
+Kepler-1403 , True , False , False , nan , nan
+Kepler-1649 , False , False , False , nan , nan
+Kepler-551 , False , False , False , nan , nan
+HD 38283 , True , False , True , 3.305066222004516e-14 , 7.769212934881608e-48
+Kepler-1476 , True , False , False , nan , nan
+K2-224 , True , False , False , 4.111456558848075e-23 , 1.4922838542518228e-54
+OGLE-2017-BLG-0173L , False , False , False , nan , nan
+Kepler-68 , True , False , False , 9.931035001717493e-16 , 9.597841449352358e-52
+tau Gem , False , False , True , 9.924239886028504e-24 , 3.4397957551319165e-59
+Kepler-216 , False , False , False , nan , nan
+Kepler-810 , True , False , False , nan , nan
+Kepler-326 , False , False , False , nan , nan
+Kepler-856 , True , False , False , nan , nan
+Kepler-690 , True , False , False , nan , nan
+OGLE-2012-BLG-0358L , False , False , False , nan , nan
+WASP-190 , True , True , False , 1.4119422516691512e-06 , 1.6810370172300898e-15
+Kepler-1273 , True , False , False , nan , nan
+Kepler-399 , False , False , False , nan , nan
+Kepler-56 , True , True , False , 1.6923244920540036e-06 , 4.7564408880795675e-16
+WASP-48 , True , False , False , 1.4520734560103688e-27 , 3.204913173654437e-58
+Kepler-1667 , True , False , False , nan , nan
+EPIC 212737443 , False , False , False , nan , nan
+HD 95338 , True , False , False , 7.838534321830454e-13 , 1.20905765992846e-50
+K2-160 , True , False , False , 1.4904882680723747e-26 , 1.827008177319203e-59
+Kepler-892 , True , False , False , nan , nan
+K2-315 , False , False , False , nan , nan
+K2-180 , True , False , False , nan , nan
+OGLE-TR-56 , False , False , False , nan , nan
+HD 51608 , True , False , False , 6.771457925846814e-12 , 5.560117591636389e-57
+BD-11 4672 , False , False , True , nan , nan
+HATS-31 , True , True , False , nan , nan
+HD 25171 , True , False , True , 8.798654403352283e-17 , 2.52721901626508e-54
+GJ 1061 , False , False , False , nan , nan
+Kepler-1064 , True , False , False , nan , nan
+HD 10647 , True , False , True , 2.473599393902491e-16 , 6.714128542622815e-53
+Kepler-1236 , True , False , False , nan , nan
+Kepler-1126 , True , False , False , nan , nan
+OGLE-2013-BLG-1721L , False , False , False , nan , nan
+Kepler-1628 , False , False , False , nan , nan
+Kepler-1312 , True , False , False , 1.688792169111011e-16 , 8.177058483835162e-48
+BD-13 2130 , False , False , True , 0.2163475689323511 , 5.2711772664930834e-17
+HD 30562 , True , False , True , 9.575954873103e-11 , 1.4824585803721137e-48
+Kepler-632 , True , False , False , nan , nan
+Kepler-1567 , True , False , False , nan , nan
+Kepler-1302 , True , False , False , nan , nan
+Kepler-374 , False , False , False , nan , nan
+Kepler-1125 , True , False , False , nan , nan
+Kepler-906 , True , False , False , nan , nan
+K2-133 , False , False , False , 4.7686934973148186e-11 , 2.142476984921881e-49
+GJ 674 , False , False , False , nan , nan
+HD 156668 , True , False , False , 7.071780560606512e-16 , 3.3848252564061375e-48
+Kepler-442 , False , False , False , nan , nan
+Kepler-492 , True , False , False , nan , nan
+K2-186 , True , False , False , 1.0817287053282537e-22 , 1.2985771974141654e-59
+OGLE-2015-BLG-1649L , False , False , False , nan , nan
+HAT-P-12 , True , True , False , 3.090754099390818e-23 , 8.051733497619458e-51
+HD 189733 , True , False , False , 5.939345089363676e-20 , 5.587168538928356e-53
+Kepler-1644 , True , False , False , nan , nan
+Kepler-278 , False , False , False , 5.924577887377279e-16 , 3.507380357084021e-51
+Kepler-861 , True , False , False , nan , nan
+Kepler-382 , False , False , False , nan , nan
+TOI-1235 , False , False , False , 1.2869827783218322e-18 , 3.742502671526376e-53
+Kepler-652 , True , False , False , nan , nan
+Kepler-527 , True , False , False , nan , nan
+Kepler-1291 , True , False , False , nan , nan
+TOI-251 , True , True , False , 4.834310251874092e-19 , 4.104715558270462e-54
+Kepler-681 , True , False , False , nan , nan
+Kepler-1027 , True , False , False , 1.4942981927226303e-23 , 1.1438474418455833e-62
+K2-128 , True , False , False , 9.343693244020073e-19 , 2.749462057134013e-53
+Kepler-803 , True , False , False , nan , nan
+HD 116029 , True , False , True , 2.2137277651407894e-15 , 4.378545002696844e-56
+Kepler-229 , False , False , False , nan , nan
+HAT-P-45 , True , True , False , 3.230031409833865e-20 , 4.305543579934844e-54
+WASP-11 , True , False , False , 7.803328857468323e-10 , 9.983343949589955e-60
+Kepler-1541 , True , False , False , nan , nan
+Kepler-1617 , True , False , False , nan , nan
+WASP-173 A , True , True , False , nan , nan
+HD 4917 , True , False , True , 1.323199300304526e-22 , 1.12187095390104e-57
+Kepler-140 , False , False , False , 1.6250741420741887e-26 , 1.7560383480970503e-49
+Kepler-1692 , True , False , False , nan , nan
+HD 150706 , True , False , True , 5.0136579077979885e-18 , 1.888047597837177e-51
+WASP-104 , True , True , False , nan , nan
+Kepler-1615 , True , False , False , nan , nan
+Kepler-378 , False , False , False , 6.785963746645088e-17 , 7.324500186589067e-53
+Kepler-837 , True , False , False , nan , nan
+HD 8326 , True , False , True , 2.0159712479566327e-12 , 2.284696762947463e-48
+K2-117 , False , False , False , nan , nan
+Kepler-945 , True , False , False , nan , nan
+GJ 328 , False , False , True , nan , nan
+Kepler-699 , True , False , False , nan , nan
+GJ 581 , False , False , False , nan , nan
+8 UMi , True , False , True , 4.518738427205615e-20 , 4.3281563395825054e-48
+K2-189 , True , False , False , 8.238967912441176e-20 , 4.229020027474311e-59
+K2-259 , True , False , False , nan , nan
+WD 1856+534 , False , True , False , nan , nan
+30 Ari B , True , False , True , 8.336081709083454e-13 , 4.8034438243318975e-49
+Kepler-477 , True , False , False , nan , nan
+NY Vir , False , False , False , nan , nan
+HATS-66 , True , True , False , nan , nan
+K2-110 , True , False , False , 9.107347445571027e-19 , 8.394588514639414e-63
+Kepler-685 , True , False , False , nan , nan
+Wolf 503 , False , False , False , 2.22061717816949e-16 , 3.92938300037522e-56
+HD 33564 , True , False , True , 2.0892900044739286e-12 , 2.858894467738714e-46
+CoRoT-14 , True , True , False , nan , nan
+HD 5583 , True , False , True , 3.4345382244341114e-23 , 1.0847539950790074e-62
+Kepler-1338 , True , False , False , nan , nan
+Kepler-1521 , True , False , False , 6.171206844132628e-21 , 1.0716751853687583e-51
+Kepler-1223 , True , False , False , nan , nan
+HD 215152 , True , False , False , 3.587595374377193e-13 , 3.249062833951304e-51
+HD 66428 , True , False , True , 2.3725993757150055e-18 , 1.4437386272082861e-56
+Kepler-569 , True , False , False , nan , nan
+WASP-180 A , True , True , False , 4.656575499289405e-24 , 2.851310322313783e-62
+DMPP-2 , True , True , False , 4.1768639229519073e-22 , 3.6100633861313233e-50
+K2-231 , True , False , False , 3.739169449623837e-13 , 2.5174191698901214e-66
+WASP-120 , True , True , False , 1.8507490843899715e-31 , 1.2141351454485753e-65
+Kepler-1083 , True , False , False , nan , nan
+KIC 5095269 , True , False , True , nan , nan
+HD 47366 , False , False , True , 8.352953330481164e-18 , 2.0101713933753686e-55
+KELT-3 , True , False , False , nan , nan
+XO-2 N , True , True , False , 8.748713707191313e-24 , 1.4405791228286475e-57
+LTT 9779 , True , False , False , 2.0398040411462748e-19 , 2.1728788780563189e-60
+Kepler-467 , True , False , False , nan , nan
+HD 13167 , True , False , True , 3.1324047730787935e-23 , 7.661567139536668e-63
+Kepler-1668 , True , False , False , nan , nan
+G 9-40 , False , False , False , nan , nan
+GJ 160.2 , False , False , False , 2.0015962559588432e-08 , 3.734445851491085e-48
+GJ 832 , False , False , True , 8.6945514381565e-15 , 8.123512434906515e-51
+Kepler-1298 , True , False , False , 1.1444922950637812e-22 , 1.1787550074401418e-48
+HATS-18 , True , True , False , nan , nan
+Kepler-1123 , True , False , False , nan , nan
+HD 210277 , True , False , True , 2.154451603191007e-15 , 3.0974271107945356e-53
+LHS 1815 , False , False , False , 1.9540011327430144e-14 , 2.0346277853041798e-46
+KELT-2 A , True , False , False , 2.498191972266316e-24 , 6.758406469850228e-53
+Kepler-1204 , True , False , False , nan , nan
+Kepler-174 , False , False , False , nan , nan
+GJ 9827 , False , False , False , nan , nan
+Kepler-976 , True , False , False , nan , nan
+K2-108 , True , False , False , nan , nan
+Kepler-972 , True , False , False , nan , nan
+HD 13908 , True , True , True , 9.101050943362193e-20 , 9.452132991540122e-55
+Qatar 8 , True , True , False , 2.0069711427124462e-22 , 9.135574792470775e-65
+XO-2 S , True , True , True , 2.4719984484885825e-19 , 4.157739679308757e-58
+Kepler-328 , True , False , False , nan , nan
+HD 159868 , True , False , True , 2.2382710173279954e-15 , 1.5869741405834802e-57
+Kepler-276 , True , False , False , nan , nan
+HATS-54 , True , True , False , nan , nan
+WASP-151 , True , True , False , 1.289243340895879e-15 , 1.1769749391731714e-29
+Kepler-832 , True , False , False , nan , nan
+WASP-52 , True , True , False , 1.2105992683232193e-15 , 3.0472686334901513e-56
+Kepler-63 , True , True , False , nan , nan
+Kepler-908 , True , False , False , 6.83418479924957e-14 , 6.12885127669009e-58
+HD 285968 , False , False , False , 1.4856299844106816e-14 , 1.4080811957014585e-51
+Kepler-45 , False , True , False , nan , nan
+Kepler-710 , True , False , False , nan , nan
+Kepler-890 , True , False , False , nan , nan
+Kepler-135 , False , False , False , nan , nan
+CoRoT-9 , True , False , True , nan , nan
+WASP-59 , True , True , False , 5.374239279563513e-22 , 1.854399204555267e-59
+Kepler-363 , False , False , False , nan , nan
+Kepler-567 , True , False , False , nan , nan
+Kepler-1328 , True , False , False , nan , nan
+HD 47186 , True , False , False , 3.436549660325936e-13 , 9.039439022156797e-48
+Kepler-1508 , True , False , False , nan , nan
+HD 208527 , True , False , True , 5.195404534801219e-28 , 4.435904455470104e-63
+Kepler-1049 , False , False , False , nan , nan
+Kepler-989 , True , False , False , nan , nan
+Kepler-1690 , True , False , False , nan , nan
+HATS-14 , True , True , False , nan , nan
+Kepler-165 , False , False , False , nan , nan
+Kepler-142 , False , False , False , nan , nan
+Kepler-747 , True , False , False , nan , nan
+Kepler-1182 , True , False , False , nan , nan
+TrES-2 , True , False , False , nan , nan
+Kepler-1047 , True , False , False , 3.3250664733880226e-11 , 2.4468653654601672e-17
+POTS-1 , False , True , False , nan , nan
+Kepler-662 , True , False , False , nan , nan
+K2-26 , False , False , False , nan , nan
+Kepler-1139 , True , False , False , nan , nan
+Kepler-823 , True , False , False , nan , nan
+K2-211 , True , False , False , 1.0200918213686472e-25 , 1.3829510393995907e-58
+Kepler-586 , True , False , False , nan , nan
+TrES-4 , True , False , False , nan , nan
+HD 3167 , True , False , False , 1.1318454797528345e-19 , 2.6312575135450925e-51
+tau Cet , True , False , False , nan , nan
+Kepler-966 , True , False , False , nan , nan
+Kepler-1058 , True , False , False , nan , nan
+WASP-19 , True , True , False , 9.51516061040495e-12 , 2.5855862843486688e-52
+Kepler-1268 , True , False , False , nan , nan
+HATS-8 , True , False , False , nan , nan
+CoRoT-4 , True , True , False , nan , nan
+K2-123 , False , False , False , nan , nan
+Kepler-672 , True , False , False , nan , nan
+HD 180314 , False , False , True , 4.636953931079313e-19 , 7.093818513450037e-52
+Kepler-1448 , True , False , False , nan , nan
+HD 187085 , True , False , True , 1.2920350448179943e-17 , 5.277168068319714e-50
+TOI-813 , True , False , False , 7.672510053444946e-20 , 1.693714212397384e-54
+HD 136418 , True , False , True , 1.9843918974987528e-15 , 4.1228930388092785e-54
+TAP 26 , True , True , False , 1.6694120342891134e-11 , 7.160005524766458e-56
+HATS-16 , True , True , False , nan , nan
+OGLE-2014-BLG-0124L , True , False , False , nan , nan
+Kepler-1447 , True , False , False , nan , nan
+Kepler-546 , True , False , False , nan , nan
+K2-251 , False , False , False , nan , nan
+HAT-P-41 , False , False , False , 1.1330093879123637e-19 , 1.8268786556214412e-47
+OGLE-2017-BLG-1375L , True , False , False , nan , nan
+Kepler-12 , True , True , False , nan , nan
+PSR J1719-1438 , True , True , False , nan , nan
+Kepler-1675 , True , False , False , nan , nan
+Kepler-709 , True , False , False , nan , nan
+HD 178911 B , True , False , True , nan , nan
+HD 83443 , True , True , False , 2.4775558703251397e-12 , 4.057354443683972e-59
+Qatar 9 , True , True , False , nan , nan
+K2-176 , True , False , False , 1.8595333282581948e-19 , 6.038771160521407e-57
+Kepler-1345 , True , False , False , nan , nan
+Kepler-1215 , True , False , False , nan , nan
+HATS-41 , True , True , False , 3.3194502763160138e-12 , 1.4888193210806882e-26
+Ross 128 , False , False , False , nan , nan
+HAT-P-19 , True , True , False , 2.3116404354354575e-23 , 3.5963578514118975e-55
+Kepler-185 , False , False , False , nan , nan
+GJ 876 , False , True , True , nan , nan
+HD 28185 , True , False , True , 3.821123967425512e-08 , 1.7397750822161255e-48
+6 Lyn , True , False , True , 2.058027054449378e-15 , 5.1613022497662785e-52
+HD 145377 , True , False , True , 1.4005928170367164e-17 , 1.2100396100331697e-59
+HD 183579 , True , False , False , 2.3116537730903905e-18 , 4.040806362640352e-57
+K2-290 , True , False , True , 8.239956711241039e-22 , 7.349533338518562e-55
+Kepler-379 , False , False , False , nan , nan
+Kepler-79 , True , False , False , nan , nan
+WASP-13 , True , False , False , 4.717646252515374e-19 , 2.37728032100571e-57
+Kepler-1602 , True , False , False , nan , nan
+Kepler-1280 , True , False , False , nan , nan
+Kepler-32 , False , True , False , nan , nan
+Kepler-612 , True , False , False , nan , nan
+Kepler-806 , True , False , False , 4.793351081470425e-13 , 8.281296675413435e-57
+bet Pic , True , False , True , nan , nan
+KMT-2019-BLG-1953L , False , False , False , nan , nan
+Kepler-1570 , True , False , False , nan , nan
+Kepler-748 , True , False , False , nan , nan
+Kepler-108 , False , False , False , nan , nan
+Kepler-177 , True , False , False , nan , nan
+GJ 649 , False , False , True , 4.971399100817995e-16 , 1.246210138911747e-52
+Kepler-1098 , True , False , False , nan , nan
+HD 154672 , True , False , True , 1.1528118644559308e-18 , 1.1947632855637886e-45
+HD 204941 , False , False , True , 3.225387112499499e-22 , 9.487735672824864e-51
+Kepler-172 , False , False , False , nan , nan
+HD 20782 , True , False , True , 1.1503542956004897e-11 , 3.1023373098574296e-55
+HATS-6 , False , True , False , nan , nan
+Kepler-1548 , True , False , False , nan , nan
+HD 200964 , True , False , True , nan , nan
+Kepler-1433 , True , False , False , nan , nan
+Kepler-1159 , True , False , False , nan , nan
+Kepler-330 , False , False , False , nan , nan
+Kepler-151 , False , False , False , nan , nan
+Kepler-454 , True , False , False , 2.8800860469688067e-16 , 3.991559655334398e-54
+WASP-44 , True , True , False , nan , nan
+Kepler-270 , False , False , False , nan , nan
+WASP-83 , True , True , False , nan , nan
+Kepler-542 , True , False , False , nan , nan
+KOI-351 , True , False , False , nan , nan
+HD 222582 , True , False , True , 1.8387385958326992e-14 , 3.433413809950122e-52
+Kepler-559 , True , False , False , nan , nan
+HIP 65426 , True , False , False , nan , nan
+HD 132406 , True , False , True , 5.733266197891569e-13 , 4.402095478546033e-50
+Kepler-1262 , True , False , False , nan , nan
+Kepler-842 , True , False , False , nan , nan
+OGLE-2006-BLG-109L , False , False , True , nan , nan
+HD 11506 , True , False , True , 9.845132192867197e-18 , 1.383251345932247e-55
+HD 43197 , True , False , True , 2.542465463347751e-17 , 2.1672188535896998e-64
+Kepler-146 , False , False , False , nan , nan
+HD 126614 , True , False , True , nan , nan
+Kepler-351 , True , False , False , nan , nan
+Kepler-722 , True , False , False , nan , nan
+Kepler-137 , False , False , False , 4.717164201527254e-18 , 5.351624076213737e-52
+Kepler-54 , False , False , False , nan , nan
+Kepler-339 , False , False , False , nan , nan
+Kepler-223 , True , False , False , nan , nan
+HD 209458 , True , False , False , 5.750771536805499e-20 , 3.6237564638483503e-51
+Kepler-584 , True , False , False , nan , nan
+WASP-157 , True , False , False , nan , nan
+Kepler-899 , True , False , False , nan , nan
+HR 810 , True , False , True , 1.0056556075140393e-13 , 9.664230396649555e-54
+Kepler-1368 , True , False , False , nan , nan
+K2-230 , True , False , False , 1.1626775604886363e-12 , 3.337282701342596e-16
+Kepler-1393 , True , False , False , nan , nan
+Kepler-1643 , True , False , False , nan , nan
+Kepler-1193 , True , False , False , 1.3718225601695726e-09 , 6.425703535432947e-17
+Kepler-1172 , True , False , False , nan , nan
+Kepler-414 , True , False , False , nan , nan
+Kepler-1396 , True , False , False , nan , nan
+K2-203 , True , False , False , 1.350609928368288e-16 , 6.175829862214275e-54
+K2-179 , True , False , False , 4.549463226873118e-17 , 3.5882068756760667e-51
+HATS-26 , True , True , False , 0.000409859053907112 , 1.0069284054894048e-08
+Kepler-439 , True , False , False , nan , nan
+Kepler-1637 , True , False , False , nan , nan
+Kepler-943 , True , False , False , nan , nan
+K2-227 , True , False , False , nan , nan
+Kepler-268 , False , False , False , nan , nan
+HATS-28 , True , True , False , nan , nan
+HATS-44 , True , True , False , nan , nan
+Kepler-480 , True , False , False , nan , nan
+HIP 63242 , True , False , True , 3.518585719411272e-10 , 7.566937806545069e-56
+kap CrB , True , False , True , 3.068268812590548e-16 , 8.480160931550872e-51
+Kepler-432 , True , False , True , 3.535108919708761e-11 , 1.765708639746617e-18
+Kepler-1073 , True , False , False , nan , nan
+Kepler-1310 , True , False , False , nan , nan
+IC 4651 9122 , False , False , True , nan , nan
+Kepler-755 , True , False , False , nan , nan
+HD 196885 A , True , False , True , 2.3922315398925364e-18 , 8.977293512737622e-54
+Kepler-109 , True , False , False , nan , nan
+Kepler-425 , True , True , False , nan , nan
+HATS-22 , True , True , False , 2.8465360995284353e-18 , 2.2785002406644114e-57
+Kepler-914 , True , False , False , nan , nan
+HD 216520 , True , False , False , 3.684618862394119e-16 , 4.1070610776726134e-51
+HD 13808 , True , False , False , 1.1655520565236809e-14 , 8.985491807382873e-50
+HD 46375 , True , True , False , 1.3960796132364865e-11 , 7.15433330312463e-50
+KMT-2017-BLG-0165L , True , False , False , nan , nan
+OGLE-2017-BLG-0482L , False , False , False , nan , nan
+Kepler-1623 , True , False , False , nan , nan
+WASP-187 , True , True , False , 5.322836169578591e-27 , 5.9249292046473705e-61
+HIP 38594 , False , False , False , nan , nan
+Kepler-143 , False , False , False , nan , nan
+Kepler-1686 , True , False , False , nan , nan
+Kepler-138 , False , False , False , 2.2435444023697773e-18 , 1.259065444487512e-53
+Kepler-1060 , True , False , False , nan , nan
+Kepler-1150 , True , False , False , nan , nan
+Kepler-576 , True , False , False , nan , nan
+Kepler-933 , True , False , False , nan , nan
+HD 96167 , True , False , True , 3.3493323770045116e-15 , 4.100042125649825e-47
+K2-29 , True , True , False , 2.0270500381416258e-14 , 6.62253643672805e-58
+Kepler-1115 , True , False , False , nan , nan
+NGC 2682 Sand 364 , False , False , True , nan , nan
+Kepler-558 , True , False , False , nan , nan
+Kepler-241 , False , False , False , nan , nan
+HAT-P-6 , True , False , False , 1.7785974533513366e-21 , 2.143169964007134e-55
+42 Dra , True , False , True , 7.174193723663091e-14 , 3.850797233536417e-58
+Kepler-329 , False , False , False , nan , nan
+Kepler-633 , True , False , False , nan , nan
+GJ 179 , False , False , True , nan , nan
+Kepler-1259 , True , False , False , nan , nan
+Kepler-673 , True , False , False , nan , nan
+WASP-153 , True , True , False , 6.561428485901595e-23 , 3.499588594276689e-31
+K2-217 , True , False , False , 5.458276146757141e-30 , 1.266547116471351e-54
+Kepler-1314 , False , False , False , nan , nan
+WASP-186 , True , True , False , 8.829314199003573e-25 , 1.0546451489224612e-62
+HD 27894 , True , True , True , 1.8099682519070538e-12 , 1.2674213050012241e-57
+HD 4732 , True , False , True , 1.3156409648914285e-16 , 1.5451970220570467e-53
+K2-115 , True , False , False , nan , nan
+Kepler-608 , True , False , False , nan , nan
+Kepler-522 , True , False , False , 2.7214629022148187e-23 , 9.869049311172769e-36
+Kepler-979 , True , False , False , nan , nan
+GJ 3470 , False , False , False , 8.996058399202277e-12 , 8.092477656521947e-52
+Kepler-621 , True , False , False , nan , nan
+HD 206255 , True , False , False , 3.773998002507947e-19 , 7.8452285768172e-51
+WASP-4 , True , True , False , 8.316485107309488e-27 , 8.913540921275595e-61
+Kepler-131 , True , False , False , 8.095604492649386e-16 , 6.936319218072661e-48
+K2-316 , False , False , False , nan , nan
+Kepler-884 , True , False , False , 2.826601934655042e-17 , 4.297807198194515e-50
+HD 100777 , True , False , True , 2.1827634917655797e-15 , 1.1051845099032146e-51
+Kepler-734 , True , False , False , nan , nan
+Kepler-60 , True , False , False , nan , nan
+KELT-14 , True , True , False , 3.4157121420692443e-10 , 1.041640092962958e-52
+K2-42 , True , False , False , nan , nan
+81 Cet , False , False , True , 7.98872775582074e-18 , 7.532207205965836e-64
+Kepler-518 , True , False , False , 6.925038104515872e-07 , 3.987349009547933e-49
+Kepler-595 , True , False , False , nan , nan
+Kepler-1551 , True , False , False , nan , nan
+WASP-131 , True , True , False , 3.6330567149381284e-19 , 4.95664652405347e-61
+Kepler-501 , True , False , False , nan , nan
+Kepler-561 , True , False , False , nan , nan
+OGLE-2016-BLG-1227L , False , False , False , nan , nan
+Kepler-365 , False , False , False , nan , nan
+WASP-46 , True , True , False , 2.5901467322489676e-33 , 1.4248905542798056e-54
+47 UMa , True , False , True , 8.423189184217453e-16 , 1.8471910648162218e-52
+Kepler-191 , True , False , False , nan , nan
+Kepler-233 , False , False , False , nan , nan
+MOA-2011-BLG-028L , True , False , False , nan , nan
+OGLE-2018-BLG-1700L , False , False , False , nan , nan
+HATS-33 , True , True , False , 1.3448735188399251e-21 , 2.187786146416645e-55
+Kepler-749 , True , False , False , nan , nan
+WASP-66 , True , False , False , 3.6538288946280344e-17 , 6.433234320748124e-48
+Kepler-834 , True , False , False , nan , nan
+Kepler-368 , False , False , False , 1.188432919969738e-11 , 4.915761445386512e-24
+HD 107148 , True , False , True , 4.158269092513879e-18 , 4.4399077736943846e-54
+BD+20 274 , True , False , True , nan , nan
+Kepler-1160 , True , False , False , nan , nan
+HD 177565 , True , False , False , 1.986047799914066e-17 , 2.4929219722896582e-52
+K2-221 , True , False , False , 5.436193943618946e-24 , 1.5960176039526836e-63
+Kepler-428 , True , True , False , nan , nan
+Kepler-887 , True , False , False , 2.2941653969210217e-08 , 3.3394478574261937e-13
+LSPM J2116+0234 , False , False , False , nan , nan
+Kepler-1664 , False , False , False , nan , nan
+K2-65 , True , False , False , nan , nan
+Kepler-1106 , True , False , False , nan , nan
+WASP-161 , True , True , False , 3.0832897145083207e-26 , 3.64958582613305e-62
+HD 10442 , True , False , True , 2.7179007876587727e-16 , 1.5875190327208632e-50
+bet Cnc , True , False , True , nan , nan
+GJ 1265 , False , False , False , nan , nan
+K2-288 B , False , False , False , nan , nan
+TOI-540 , False , False , False , nan , nan
+HD 166724 , True , False , True , 8.688944982485787e-16 , 1.9113638942284826e-51
+Kepler-1265 , True , False , False , nan , nan
+Kepler-1307 , True , False , False , nan , nan
+KOI-217 , True , False , False , nan , nan
+HD 224538 , True , False , True , 1.112197882729164e-19 , 1.574895113779054e-48
+HD 108874 , True , False , True , 1.317877119951339e-15 , 2.5284738328869513e-59
+WASP-56 , True , False , False , 3.4370558981543294e-17 , 1.4754030593460528e-43
+Kepler-1407 , True , False , False , nan , nan
+HIP 12961 , False , False , True , nan , nan
+HD 164922 , True , False , True , 6.820880089094316e-16 , 1.0476210246522286e-55
+Kepler-245 , True , False , False , nan , nan
+K2-64 , True , False , False , nan , nan
+Kepler-591 , True , False , False , nan , nan
+Kepler-482 , True , False , False , nan , nan
+CoRoT-10 , True , True , False , nan , nan
+GJ 229 , False , False , False , 2.9901441299801037e-14 , 2.017942448242403e-49
+Kepler-1065 , True , False , False , nan , nan
+Kepler-600 , True , False , False , nan , nan
+Kepler-1036 , True , False , False , nan , nan
+HD 156279 , True , False , True , 7.542686737911048e-17 , 2.4587876814828164e-56
+Kepler-1327 , True , False , False , nan , nan
+HD 203030 , False , False , False , 2.1180444912567149e-16 , 6.155002339479303e-52
+Kepler-1105 , True , False , False , nan , nan
+Kepler-1069 , True , False , False , 3.856864428082127e-18 , 3.388330034328508e-30
+Kepler-293 , False , False , False , nan , nan
+eps Tau , False , False , True , nan , nan
+K2-116 , False , False , False , 4.840358625567577e-13 , 1.544026170778938e-50
+Kepler-1472 , True , False , False , nan , nan
+Kepler-606 , True , False , False , nan , nan
+Kepler-974 , False , False , False , nan , nan
+Kepler-248 , False , False , False , nan , nan
+HAT-P-66 , True , True , False , 0.0015083918828852072 , 0.028384088921152406
+Kepler-1100 , True , False , False , nan , nan
+K2-66 , True , False , False , 2.7782088690517994e-12 , 7.592508597802251e-22
+Kepler-52 , False , False , False , nan , nan
+HATS-64 , True , True , False , nan , nan
+WASP-1 , True , True , False , 1.0251440889432218e-31 , 2.006515060986313e-57
+K2-22 , False , True , False , nan , nan
+Kepler-115 , False , False , False , nan , nan
+WASP-78 , True , False , False , 5.7704612351464945e-06 , 3.690940318227207e-07
+K2-137 , False , True , False , nan , nan
+Kepler-1360 , True , False , False , nan , nan
+Kepler-180 , False , False , False , nan , nan
+Kepler-292 , False , False , False , nan , nan
+Kepler-83 , False , False , False , nan , nan
+LP 714-47 , False , False , False , 1.258370424616564e-14 , 4.9231985654271515e-50
+Kepler-1025 , True , False , False , nan , nan
+Kepler-1113 , True , False , False , nan , nan
+HD 99109 , True , False , True , 1.9556274049805458e-15 , 4.07448825733219e-52
+Kepler-103 , True , False , False , 5.202319554094617e-23 , 1.0113932243795558e-52
+HD 32963 , True , False , True , 3.202657411413525e-13 , 1.0975405358419264e-50
+K2-36 , True , False , False , 1.2065413069277848e-15 , 9.151877114742641e-52
+WASP-97 , True , False , False , 5.490431981940265e-19 , 3.796449416375369e-55
+Kepler-93 , True , False , False , 2.2413542499889413e-16 , 5.182280691485258e-53
+Kepler-1205 , True , False , False , nan , nan
+Kepler-647 , True , False , False , nan , nan
+HD 12648 , False , False , True , 3.6137354988418096e-18 , 1.0822858489572967e-57
+2MASS J02192210-3925225 , False , False , False , nan , nan
+GJ 163 , False , False , False , nan , nan
+Kepler-1526 , True , False , False , nan , nan
+K2-212 , False , False , False , 1.0257019404776152e-13 , 5.119698284162859e-53
+Kepler-1654 , True , False , True , nan , nan
+Kepler-638 , True , False , False , 1.7666112308539486e-05 , 1.0342424513499092e-09
+TOI-169 , True , True , False , 1.227074350255627e-25 , 6.050890192551424e-50
+WASP-15 , True , False , False , 1.0870853275681523e-19 , 6.591290607887899e-55
+OGLE-2015-BLG-0966L , False , False , False , nan , nan
+HD 63454 , False , True , False , 3.46331045812295e-11 , 3.792041954223021e-46
+KELT-12 , True , True , False , 4.1830783214578035e-22 , 1.5610151919946972e-54
+K2-223 , True , False , False , 3.781125730374786e-24 , 1.899422167727778e-55
+Kepler-265 , False , False , False , nan , nan
+HD 4760 , True , False , True , 1.1341760200805695e-13 , 5.8766802641562775e-24
+TOI-849 , True , False , False , 9.087772620434845e-31 , 1.3180405605336475e-58
+HD 88133 , True , True , False , 5.928392020899175e-20 , 3.799737687224262e-56
+Kepler-105 , True , False , False , 4.447068687430824e-28 , 2.8550342331192983e-54
+Kepler-1390 , True , False , False , nan , nan
+HATS-59 , True , True , True , nan , nan
+2MASS J19383260+4603591 , False , False , True , nan , nan
+Kepler-264 , False , False , False , nan , nan
+Kepler-813 , True , False , False , nan , nan
+HD 137388 , False , False , True , 1.3743816187891973e-11 , 4.0731666357497425e-54
+MASCARA-4 , True , True , False , nan , nan
+Kepler-415 , False , False , False , nan , nan
+Kepler-111 , False , False , False , nan , nan
+Kepler-525 , True , False , False , nan , nan
+Kepler-967 , True , False , False , nan , nan
+K2-164 , True , False , False , 8.801964049922305e-17 , 1.3431008176938845e-37
+Kepler-1089 , False , False , False , nan , nan
+HD 132563 , True , False , True , nan , nan
+TOI-1728 , False , False , False , 2.6119607122741346e-19 , 6.330306568495637e-53
+K2-258 , True , False , False , nan , nan
+Kepler-1370 , True , False , False , nan , nan
+Kepler-970 , True , False , False , nan , nan
+Kepler-1202 , True , False , False , nan , nan
+Kepler-1513 , True , False , False , nan , nan
+Kepler-1257 , True , False , False , nan , nan
+HD 219666 , True , False , False , 2.411865802341031e-19 , 9.490185950088901e-62
+Kepler-1422 , True , False , False , nan , nan
+Kepler-521 , True , False , False , 7.514861012061297e-12 , 1.0742914104841547e-19
+Kepler-318 , False , False , False , nan , nan
+OGLE-2014-BLG-1760L , False , False , False , nan , nan
+Kepler-269 , False , False , False , nan , nan
+Kepler-1171 , True , False , False , nan , nan
+Kepler-1264 , True , False , False , nan , nan
+HD 45184 , True , False , False , 3.7576435860799946e-10 , 3.047242764441163e-50
+Kepler-1488 , True , False , False , nan , nan
+K2-68 , True , False , False , 1.785322297296908e-20 , 5.261900567301825e-50
+TOI-1478 , True , True , False , nan , nan
+WASP-47 , True , False , True , 6.310326577479258e-33 , 1.4001158970991227e-66
+Kepler-1181 , True , False , False , nan , nan
+WASP-12 , True , True , False , 2.9721121316237246e-23 , 2.140127895182876e-59
+Kepler-1056 , True , False , False , nan , nan
+WASP-156 , True , False , False , 5.80572863479351e-16 , 3.6004571487852706e-53
+Kepler-215 , False , False , False , nan , nan
+HD 106270 , True , False , True , 2.687013213117642e-14 , 1.2751330344355794e-52
+Kepler-1090 , True , False , False , nan , nan
+WASP-94 A , True , False , False , 3.1314335034284836e-19 , 1.9054964306208057e-58
+K2-280 , True , False , False , 3.3403845596807713e-25 , 6.550117128856043e-51
+WASP-140 , True , True , False , 4.4605007973077074e-20 , 2.1757184945790165e-54
+Kepler-768 , True , False , False , nan , nan
+Kepler-904 , True , False , False , nan , nan
+HIP 5158 , True , False , True , 9.734694815264732e-13 , 8.376717303553391e-54
+HD 170469 , True , False , True , 2.1232609124356054e-14 , 2.745618139748496e-58
+Kepler-6 , True , True , False , 1.2247898099996254e-22 , 1.7358089148126018e-55
+Kepler-1009 , False , False , False , nan , nan
+Kepler-364 , False , False , False , nan , nan
+Kepler-421 , True , False , False , nan , nan
+Kepler-377 , False , False , False , nan , nan
+Kepler-1039 , True , False , False , nan , nan
+EPIC 201497682 , True , False , False , nan , nan
+HD 55696 , True , False , True , 4.999375958841357e-14 , 3.2796176293218014e-54
+K2-152 , False , False , False , nan , nan
+Kepler-436 , True , False , False , nan , nan
+Kepler-983 , True , False , False , nan , nan
+K2-118 , True , False , False , nan , nan
+Kepler-1456 , False , False , False , nan , nan
+WASP-23 , True , True , False , 8.090713318329987e-12 , 6.344932920783298e-52
+Kepler-839 , True , False , False , nan , nan
+KIC 9663113 , True , False , False , nan , nan
+Kepler-476 , True , False , False , nan , nan
+Kepler-258 , False , False , False , nan , nan
+Kepler-1275 , True , False , False , nan , nan
+Kepler-295 , False , False , False , nan , nan
+K2-266 , False , False , False , 1.7595256079645157e-17 , 5.51483814411029e-55
+MOA-2013-BLG-220L , True , False , False , nan , nan
+OGLE-2011-BLG-0173L , False , False , False , nan , nan
+WASP-107 , False , False , False , 2.0113009714123438e-17 , 3.5453972092023707e-57
+Kepler-571 , True , False , False , nan , nan
+Kepler-498 , True , False , False , nan , nan
+Kepler-754 , True , False , False , nan , nan
+Kepler-1003 , True , False , False , nan , nan
+Kepler-1432 , True , False , False , nan , nan
+Kepler-67 , True , False , False , nan , nan
+WASP-34 , True , False , False , 9.236884874825583e-19 , 6.363307549060944e-56
+Kepler-774 , True , False , False , nan , nan
+K2-294 , True , False , False , 5.234290071043446e-25 , 1.2529897235903597e-53
+HD 5891 , True , False , True , 1.1610588270476186e-29 , 8.491469017570493e-63
+Kepler-1153 , True , False , False , nan , nan
+K2-27 , True , False , False , 1.0586913536326457e-22 , 2.3522979103025557e-53
+Kepler-148 , True , False , False , nan , nan
+Kepler-1340 , True , False , False , nan , nan
+Kepler-1562 , True , False , False , nan , nan
+Kepler-1137 , True , False , False , 4.5047749300873356e-09 , 2.473258078204345e-10
+K2-323 , False , False , False , nan , nan
+Kepler-386 , False , False , False , nan , nan
+Kepler-812 , True , False , False , nan , nan
+K2-317 , False , False , False , nan , nan
+Kepler-825 , True , False , False , nan , nan
+Kepler-76 , True , True , False , nan , nan
+Kepler-256 , False , False , False , nan , nan
+Kepler-1661 , True , False , False , nan , nan
+HD 35759 , True , False , True , 2.1483015275291215e-23 , 5.363387256119513e-57
+HD 163607 , True , False , True , 1.7957225539721456e-16 , 6.929009378878638e-53
+KMT-2016-BLG-1107L , False , False , False , nan , nan
+HD 41004 B , False , False , False , nan , nan
+Kepler-1197 , True , False , False , nan , nan
+Kepler-1332 , True , False , False , nan , nan
+HAT-P-23 , False , False , False , 4.919858196893216e-28 , 4.668580786190246e-60
+Kepler-366 , False , False , False , nan , nan
+Kepler-541 , True , False , False , nan , nan
+K2-167 , True , False , False , 1.5096743407912967e-25 , 6.869287431937737e-62
+WASP-127 , True , True , False , 2.5969277412676104e-22 , 1.6136015263898502e-54
+Kepler-783 , True , False , False , nan , nan
+Kepler-319 , False , False , False , nan , nan
+Kepler-1450 , True , False , False , nan , nan
+Kepler-42 , False , False , False , nan , nan
+EPIC 212587672 , True , False , False , nan , nan
+Kepler-1133 , True , False , False , nan , nan
+Kepler-305 , True , False , False , nan , nan
+Kepler-495 , True , False , False , nan , nan
+Kepler-743 , True , False , False , 6.489346255029711e-19 , 2.944121360854772e-53
+WASP-95 , True , False , False , 1.4048291153898904e-22 , 1.3533537720639184e-63
+Kepler-1517 , True , False , False , nan , nan
+Kepler-434 , True , True , False , nan , nan
+HD 213885 , True , False , False , 2.002752304832899e-17 , 9.749690730224794e-48
+HD 176986 , True , False , False , 7.67779438141168e-19 , 6.5207802999804e-58
+L 168-9 , False , False , False , nan , nan
+WASP-94 B , True , True , False , 1.22944441474379e-19 , 3.3105506162375098e-49
+Kepler-1161 , False , False , False , nan , nan
+K2-8 , True , False , False , nan , nan
+UZ For , True , False , True , nan , nan
+Kepler-1457 , True , False , False , nan , nan
+HD 73526 , True , False , True , 5.588435807456841e-18 , 4.547298208268762e-55
+OGLE-TR-113 , True , True , False , nan , nan
+WASP-123 , True , True , False , 2.111081571106669e-15 , 3.829788822826157e-55
+Kepler-82 , True , False , False , nan , nan
+Kepler-1529 , True , False , False , nan , nan
+HD 104067 , False , False , True , 8.414075148749463e-19 , 3.8191497399398133e-57
+Kepler-1480 , True , False , False , nan , nan
+Kepler-1173 , True , False , False , nan , nan
+BD+15 2940 , True , False , True , 8.2533184806460605e-22 , 6.841078060923847e-47
+Kepler-712 , True , False , False , nan , nan
+Kepler-1267 , True , False , False , nan , nan
+Kepler-800 , True , False , False , nan , nan
+Kepler-314 , False , False , False , nan , nan
+Kepler-1655 , True , False , False , nan , nan
+Kepler-1616 , True , False , False , nan , nan
+HD 240237 , False , False , True , 1.7861028111926024e-06 , 4.99810821478057e-13
+HATS-61 , True , True , False , nan , nan
+HD 20868 , False , False , True , 7.866993719899128e-13 , 2.141861814408487e-56
+MOA-2012-BLG-006L , False , False , False , nan , nan
+USco CTIO 108 , False , False , False , nan , nan
+KIC 3558849 , True , False , False , nan , nan
+Kepler-1629 , True , False , False , 2.2819289008368623e-13 , 5.574595868559577e-54
+HD 133131 A , True , False , True , 2.2548139647869525e-11 , 4.818636058301741e-53
+Kepler-188 , False , False , False , nan , nan
+Kepler-664 , True , False , False , nan , nan
+Kepler-1419 , True , False , False , nan , nan
+K2-105 , True , False , False , 7.671225866017024e-08 , 5.1508887849458145e-51
+Kepler-622 , False , False , False , nan , nan
+HD 179079 , True , False , False , 1.559761915450635e-19 , 2.0975239137081683e-49
+Kepler-630 , True , False , False , nan , nan
+HD 154345 , True , False , True , 1.5540063864895895e-16 , 1.7304898862488527e-50
+K2-175 , True , False , False , 1.2228508205732952e-22 , 2.4791996152208957e-49
+VHS J125601.92-125723.9 , False , False , False , nan , nan
+HD 103720 , True , True , False , 6.202113193951212e-19 , 1.1961279209010037e-53
+Kepler-1177 , True , False , False , nan , nan
+HD 4203 , True , False , True , 1.4395689097684893e-24 , 4.646302859313121e-57
+Kepler-1101 , True , False , False , nan , nan
+Kepler-731 , True , False , False , nan , nan
+Kepler-753 , False , False , False , nan , nan
+HD 181720 , True , False , True , 1.021058590297194e-15 , 4.32223823595159e-53
+HD 24040 , True , False , True , 4.686989307464814e-10 , 3.553797122936409e-52
+Kepler-1103 , True , False , False , nan , nan
+Kepler-446 , False , False , False , nan , nan
+HD 114386 , False , False , True , 1.400671686961617e-15 , 1.8571630860852243e-52
+Kepler-1575 , True , False , False , nan , nan
+Kepler-247 , False , False , False , nan , nan
+K2-248 , True , False , False , nan , nan
+K2-136 , True , False , False , 9.13517055776778e-08 , 2.335210364753898e-55
+HD 73267 , True , False , True , 7.674493645668105e-23 , 3.4446990816822492e-53
+HAT-P-52 , True , True , False , nan , nan
+HD 66141 , True , False , True , nan , nan
+Kepler-336 , False , False , False , nan , nan
+Kepler-211 , False , False , False , nan , nan
+Qatar 1 , True , True , False , nan , nan
+HAT-P-65 , True , True , False , nan , nan
+Kepler-484 , True , False , False , 4.421019413254474e-21 , 2.782782543354704e-56
+K2-318 , False , False , False , nan , nan
+Kepler-780 , True , False , False , nan , nan
+Kepler-1024 , True , False , False , nan , nan
+HD 238090 , False , False , False , 3.3765161828502634e-14 , 2.571369632244412e-53
+KIC 10001893 , False , False , False , nan , nan
+Kepler-651 , True , False , False , nan , nan
+Kepler-412 , True , True , False , nan , nan
+HIP 78530 , False , False , False , nan , nan
+DH Tau , False , False , False , nan , nan
+Kepler-499 , True , False , False , nan , nan
+HD 96063 , True , False , True , 3.48759774257149e-14 , 3.735546923093104e-56
+GJ 411 , False , False , False , nan , nan
+Kepler-395 , False , False , False , nan , nan
+Kepler-1372 , True , False , False , nan , nan
+K2-237 , True , True , False , 3.4482123124754307e-18 , 2.593472630083906e-57
+Kepler-818 , True , False , False , nan , nan
+Kepler-150 , True , False , False , nan , nan
+Kepler-200 , False , False , False , nan , nan
+K2-287 , True , True , False , 3.0263107750278975e-07 , 1.4761415423680519e-43
+HD 188015 , True , False , True , 5.530328684102561e-15 , 1.899887654032132e-59
+HD 142022 A , True , False , True , 1.5004044217533446e-18 , 5.28128370199011e-52
+HD 190647 , True , False , True , 3.4923984729043365e-20 , 6.865587195761592e-60
+Kepler-1213 , True , False , False , nan , nan
+HD 109749 , True , True , False , 4.0960514239811684e-17 , 5.886306446095492e-53
+Kepler-1341 , True , False , False , nan , nan
+Kepler-1203 , False , False , False , nan , nan
+HD 62509 , False , False , False , nan , nan
+HATS-9 , True , False , False , nan , nan
+HATS-40 , True , True , False , nan , nan
+WASP-80 , False , True , False , 2.1246825285900053e-23 , 1.4600937891725313e-48
+Kepler-486 , True , False , False , nan , nan
+Kepler-636 , True , False , False , nan , nan
+KOI-3680 , True , False , True , nan , nan
+WASP-31 , True , True , False , 4.688194631954854e-16 , 7.329528824969965e-46
+Kepler-648 , True , False , False , nan , nan
+Kepler-656 , True , False , False , nan , nan
+Kepler-1048 , True , False , False , nan , nan
+Kepler-1379 , True , False , False , nan , nan
+MOA-2011-BLG-322L , False , False , False , nan , nan
+OGLE-TR-182 , True , True , False , nan , nan
+HD 97658 , True , False , False , 5.150559927029096e-14 , 7.062144559885657e-51
+OGLE-2003-BLG-235L , False , False , False , nan , nan
+Kepler-623 , True , False , False , nan , nan
+Kepler-629 , True , False , False , nan , nan
+24 Boo , True , True , False , 4.683702033721771e-10 , 4.363859142027088e-52
+Kepler-481 , True , False , False , nan , nan
+WASP-174 , True , True , False , 5.332316844011974e-20 , 3.6769690795478005e-52
+Kepler-557 , True , False , False , nan , nan
+K2-326 , False , False , False , nan , nan
+GJ 3323 , False , False , False , nan , nan
+Kepler-175 , False , False , False , nan , nan
+Kepler-1678 , True , False , False , nan , nan
+Kepler-479 , True , False , False , nan , nan
+WASP-90 , True , True , False , nan , nan
+NGC 2682 Sand 978 , True , False , False , nan , nan
+Kepler-1569 , True , False , False , nan , nan
+Kepler-1530 , True , False , False , nan , nan
+K2-219 , True , False , False , 3.224959897197249e-33 , 6.440594063618003e-68
+HD 85390 , True , False , False , 2.7997724835163844e-14 , 6.732254198835218e-51
+Qatar 3 , True , True , False , 6.834582928305734e-09 , 1.7142851849781003e-21
+Kepler-902 , True , False , False , nan , nan
+Kepler-94 , True , False , False , 5.302180005723873e-16 , 2.686342676086926e-52
+K2-209 , True , False , False , 1.890534732111192e-20 , 1.4188543771290177e-62
+Kepler-1589 , True , False , False , nan , nan
+K2-107 , True , False , False , nan , nan
+K2-70 , True , False , False , nan , nan
+Kepler-1503 , True , False , False , nan , nan
+Kepler-1269 , True , False , False , nan , nan
+HD 12484 , True , False , True , 1.8352213522242688e-13 , 6.938981941225059e-45
+Kepler-1384 , True , False , False , nan , nan
+Kepler-50 , True , False , False , 1.745159580413353e-18 , 8.533881930222191e-56
+Kepler-257 , False , False , False , nan , nan
+Kepler-306 , False , False , False , nan , nan
+OGLE-2013-BLG-0911L , False , False , False , nan , nan
+Kepler-726 , True , False , False , nan , nan
+HIP 79098 AB , False , False , False , nan , nan
+Kepler-1033 , True , False , False , nan , nan
+Kepler-1220 , True , False , False , nan , nan
+K2-18 , False , False , False , nan , nan
+Kepler-231 , False , False , False , nan , nan
+K2-83 , False , False , False , nan , nan
+Kepler-1482 , True , False , False , nan , nan
+Kepler-1055 , True , False , False , nan , nan
+Kepler-1574 , True , False , False , nan , nan
+ome Ser , False , False , True , 1.2882463146480255e-15 , 7.596346443084571e-55
+Kepler-1386 , True , False , False , nan , nan
+Kepler-323 , False , False , False , nan , nan
+WASP-22 , True , False , False , 9.004459155022853e-25 , 2.729423360648461e-64
+Kepler-203 , False , False , False , nan , nan
+K2-39 , False , False , False , 1.405686755292964e-36 , 7.064505612614982e-58
+Kepler-903 , True , False , False , nan , nan
+GJ 357 , False , False , False , nan , nan
+K2-97 , True , False , False , 0.00042510042287486195 , 7.286303000829881e-07
+HIP 14810 , True , True , True , 1.7993419693323043e-13 , 1.1978033676611509e-49
+TRAPPIST-1 , False , False , False , nan , nan
+HD 82943 , True , False , True , 5.836726545457193e-17 , 3.337757298518078e-50
+Kepler-401 , True , False , False , nan , nan
+CI Tau , True , False , False , nan , nan
+K2-205 , True , False , False , 1.2341644509849194e-19 , 1.4573587296097247e-37
+HD 148156 , True , False , True , 2.331149875008831e-19 , 6.195990848345905e-53
+Kepler-308 , False , False , False , nan , nan
+WASP-85 A , True , True , False , 9.832366931742039e-14 , 2.8947671463029274e-53
+Kepler-324 , False , False , False , nan , nan
+Kepler-1122 , True , False , False , nan , nan
+Kepler-994 , False , False , False , nan , nan
+HD 106252 , True , False , True , 3.2335520694557853e-19 , 1.8995736112181405e-55
+KIC 5951458 , True , False , False , 2.6362037619429573e-17 , 2.8317600556971735e-26
+GJ 3634 , False , False , False , nan , nan
+HAT-P-67 , True , True , False , 3.855336688078401e-20 , 9.886670634343382e-48
+Kepler-625 , True , False , False , nan , nan
+HAT-P-43 , True , True , False , nan , nan
+Kepler-1411 , True , False , False , nan , nan
+K2-121 , True , False , False , 1.3739963725697754e-06 , 1.9803365250633826e-52
+OGLE-2014-BLG-1722L , False , False , False , nan , nan
+HD 168746 , True , True , False , 4.070478225933967e-17 , 1.1898656847266538e-49
+Kepler-1088 , True , False , False , 1.699614163282695e-17 , 6.127292404940755e-57
+Kepler-844 , False , False , False , nan , nan
+HAT-P-38 , True , True , False , 2.2557661636395784e-24 , 2.776600281775315e-61
+CoRoT-7 , True , False , False , 4.1655345951307287e-19 , 1.095979924174879e-54
+Kepler-371 , False , False , False , nan , nan
+GJ 3998 , False , False , False , 1.2284575004970089e-12 , 3.8150716322840064e-53
+EPIC 212297394 , True , False , False , nan , nan
+Kepler-218 , True , False , False , nan , nan
+EPIC 206042996 , False , False , False , nan , nan
+Kepler-1365 , True , False , False , nan , nan
+HD 111591 , True , False , True , 1.04046280505514e-13 , 6.979790353385833e-53
+Kepler-585 , True , False , False , nan , nan
+HD 16141 , True , False , True , 6.502156222857107e-14 , 1.0652124164203441e-50
+WASP-3 , True , False , False , 2.5548990668319183e-14 , 2.5173717286464593e-60
+Kepler-1524 , True , False , False , nan , nan
+Kepler-345 , False , False , False , nan , nan
+Kepler-75 , True , True , False , nan , nan
+NSVS 14256825 , False , False , True , nan , nan
+Kepler-1135 , True , False , False , nan , nan
+Kepler-1478 , True , False , False , nan , nan
+K2-37 , True , False , False , 4.142743756162382e-09 , 7.723207613781572e-45
+Kepler-1246 , True , False , False , nan , nan
+WASP-170 , True , True , False , 1.5783130665268446e-22 , 5.174088557545225e-59
+KOI-94 , True , True , False , nan , nan
+OGLE-2018-BLG-1011L , False , False , False , nan , nan
+HATS-46 , True , True , False , nan , nan
+BD+14 4559 , False , False , True , 2.1392610236731176e-22 , 2.290502564845213e-44
+HD 142 , True , False , True , 1.3111183412045637e-16 , 1.2950708958502165e-50
+Kepler-344 , False , False , False , nan , nan
+Kepler-959 , True , False , False , 1.4103078818018896e-07 , 2.1486200815417105e-15
+Kepler-1601 , True , False , False , nan , nan
+Kepler-1254 , True , False , False , nan , nan
+WASP-133 , True , True , False , 1.510162335299501e-17 , 1.8090494816514844e-26
+Kepler-769 , True , False , False , nan , nan
+K2-48 , True , False , False , nan , nan
+K2-322 , False , False , False , nan , nan
+Kepler-697 , True , False , False , nan , nan
+LkCa 15 , False , False , False , nan , nan
+HD 23596 , True , False , True , 7.726097760402318e-12 , 1.292889592576071e-53
+Kepler-670 , True , False , False , nan , nan
+Teegarden's Star , False , False , False , nan , nan
+HD 222155 , True , False , True , 1.8724413609876723e-11 , 1.6490800364636459e-52
+Kepler-948 , True , False , False , nan , nan
+Kepler-1191 , True , False , False , nan , nan
+WASP-17 , False , False , False , nan , nan
+Kepler-1697 , True , False , False , nan , nan
+Kepler-969 , True , False , False , nan , nan
+Kepler-667 , True , False , False , nan , nan
+Kepler-1279 , True , False , False , nan , nan
+Wendelstein-1 , False , True , False , nan , nan
+WASP-6 , False , False , False , 9.402267224449687e-26 , 3.123059754277413e-55
+Kepler-898 , False , False , False , nan , nan
+Kepler-573 , True , False , False , nan , nan
+Kepler-1348 , True , False , False , nan , nan
+Kepler-470 , True , False , False , 4.352828036464708e-11 , 7.67433403492554e-17
+Kepler-1179 , True , False , False , nan , nan
+Kepler-1544 , True , False , False , nan , nan
+Kepler-275 , False , False , False , nan , nan
+HD 106906 , True , False , False , nan , nan
+Kepler-1044 , True , False , False , nan , nan
+Kepler-1316 , True , False , False , nan , nan
+HD 216770 , True , False , True , 3.8695848417397737e-19 , 5.208657500079985e-56
+WASP-160 B , True , True , False , 8.962587438695899e-21 , 3.005901561290665e-56
+Kepler-1598 , True , False , False , nan , nan
+Kepler-679 , True , False , False , nan , nan
+Kepler-322 , False , False , False , nan , nan
+HD 31253 , True , False , True , 4.294480542142318e-11 , 4.022504428351096e-50
+Kepler-274 , False , False , False , nan , nan
+Kepler-190 , False , False , False , nan , nan
+WASP-185 , True , True , False , 1.610722068328112e-19 , 2.6571414835770784e-49
+Kepler-611 , True , False , False , nan , nan
+WASP-58 , True , False , False , 3.666806707440996e-19 , 8.733618575564473e-60
+Kepler-11 , True , False , False , nan , nan
+Kepler-952 , True , False , False , nan , nan
+K2-165 , True , False , False , 4.1621863267673377e-16 , 4.244004118122872e-55
+GJ 849 , False , False , True , nan , nan
+CoRoT-30 , True , True , False , nan , nan
+Kepler-1413 , True , False , False , nan , nan
+Kepler-110 , False , False , False , 5.165400259883837e-25 , 8.758932257700289e-47
+CoRoT-6 , True , True , False , nan , nan
+Kepler-520 , True , False , False , 1.0541910540820665e-11 , 3.797668631779636e-23
+Kepler-807 , True , False , False , nan , nan
+TOI-163 , True , True , False , 1.9510046541184397e-14 , 2.914162405459064e-54
+HAT-P-50 , True , True , False , 6.604365201774993e-23 , 1.5765297141089218e-40
+EPIC 248847494 , True , False , True , 0.00027488414298662144 , 1.022403283539852e-09
+Kepler-696 , True , False , False , nan , nan
+WASP-89 , True , True , False , 9.589040476852003e-32 , 1.5966860671941039e-59
+Kepler-1449 , True , False , False , nan , nan
+CoRoT-22 , True , False , False , nan , nan
+Kepler-1613 , True , False , False , nan , nan
+Kepler-1020 , True , False , False , nan , nan
+K2-273 , True , False , False , nan , nan
+Gl 49 , False , False , False , 2.10385680262736e-15 , 6.9118228566909845e-50
+OGLE-2008-BLG-355L , False , False , False , nan , nan
+PSR B0329+54 , True , False , False , nan , nan
+HATS-55 , True , True , False , 2.299064666188521e-16 , 3.6962121701320714e-38
+WASP-39 , True , True , False , 9.429259560711735e-20 , 3.9534473955687935e-61
+HD 33844 , True , False , True , 6.656025131059701e-15 , 1.1322247940229355e-51
+HD 70573 , True , False , True , 1.7968534491311495e-20 , 5.235863817804648e-52
+Kepler-346 , False , False , False , nan , nan
+HD 93083 , True , False , True , 2.1917736044928028e-20 , 1.3575034815329306e-49
+Kepler-271 , True , False , False , nan , nan
+WASP-14 , True , False , False , 1.3673133882313782e-19 , 6.578797012189025e-61
+75 Cet , False , False , True , 4.007025099258643e-21 , 2.754880580591607e-56
+Kepler-450 , True , False , False , nan , nan
+Kepler-1072 , True , False , False , nan , nan
+Kepler-1528 , True , False , False , nan , nan
+Kepler-539 , True , False , True , 1.06937387230911e-11 , 2.6874933346823603e-50
+BD-06 1339 , True , False , True , 3.9556097775856815e-17 , 3.1014003429939784e-50
+HD 145457 , True , False , True , 4.938386230981344e-18 , 2.527708525883035e-53
+Kepler-928 , True , False , False , nan , nan
+Kepler-22 , True , False , False , 8.232086931476044e-21 , 4.905328698771951e-53
+Kepler-824 , True , False , False , nan , nan
+Kepler-1313 , True , False , False , nan , nan
+Kepler-1000 , True , False , False , nan , nan
+Kepler-1119 , True , False , False , nan , nan
+KMT-2016-BLG-1397L , False , False , False , nan , nan
+Kepler-1134 , True , False , False , nan , nan
+Kepler-1208 , True , False , False , nan , nan
+Kepler-509 , True , False , False , 4.980740413334842e-17 , 1.8977643489072788e-54
+Kepler-741 , True , False , False , nan , nan
+Kepler-932 , True , False , False , nan , nan
+WASP-150 , True , True , False , 3.268990780498821e-13 , 7.634507234524729e-27
+HAT-P-33 , True , False , False , 1.573870657295607e-28 , 1.462557258123449e-60
+Kepler-102 , True , False , False , 2.1656743751873395e-16 , 2.9341628318838804e-48
+HD 118203 , True , True , False , 2.02591289356636e-12 , 3.5056020064448225e-53
+Kepler-153 , False , False , False , nan , nan
+Kepler-201 , False , False , False , nan , nan
+HATS-24 , True , True , False , 2.1549986298302623e-22 , 1.5815091989280901e-56
+KOI-1783 , True , False , False , nan , nan
+Kepler-554 , True , False , False , nan , nan
+Kepler-577 , True , False , False , nan , nan
+Lupus-TR-3 , True , True , False , nan , nan
+HD 211810 , True , False , True , 3.762893222797804e-15 , 3.872457481715685e-58
+Kepler-817 , True , False , False , nan , nan
+Kepler-1157 , True , False , False , nan , nan
+Kepler-516 , True , False , False , 6.114529460738701e-13 , 1.995558166388449e-36
+Kepler-396 , True , False , False , nan , nan
+Kepler-197 , False , False , False , 1.5836372457263056e-15 , 3.0526887656105017e-49
+Kepler-924 , True , False , False , nan , nan
+Kepler-1032 , True , False , False , nan , nan
+Kepler-1446 , True , False , False , 1.0469290184658337e-14 , 9.078735113865218e-54
+WASP-36 , True , True , False , 1.3326342076308261e-24 , 9.054894688554661e-58
+KIC 7917485 , True , False , False , nan , nan
+WASP-61 , True , False , False , 2.256289990746492e-25 , 3.522320530293719e-40
+Kepler-17 , True , True , False , nan , nan
+WASP-103 , True , True , False , 5.0546174498009275e-14 , 3.7138757640065637e-29
+Kepler-791 , True , False , False , nan , nan
+WASP-177 , True , True , False , 1.1722017371017843e-23 , 7.663093380845409e-59
+Kepler-154 , True , False , False , nan , nan
+Kepler-1284 , True , False , False , nan , nan
+Kepler-1641 , True , False , False , nan , nan
+Kepler-37 , True , False , False , 7.197208194962107e-21 , 6.395268157792906e-57
+Kepler-660 , True , False , False , nan , nan
+Kepler-1468 , True , False , False , nan , nan
+HD 110113 , True , False , False , 5.008871284567376e-09 , 3.06754739629764e-50
+HD 10180 , True , False , True , 1.7648326318826732e-15 , 1.2029518351600318e-46
+Kepler-243 , False , False , False , nan , nan
+Kepler-487 , True , False , False , nan , nan
+DE CVn , False , False , True , nan , nan
+Kepler-1499 , True , False , False , nan , nan
+GJ 338 B , False , False , False , 5.400395680657403e-15 , 1.0200142068617817e-46
+Kepler-1367 , False , False , False , nan , nan
+K2-120 , False , False , False , nan , nan
+Kepler-1581 , True , False , False , 9.752166275510889e-25 , 3.1240638742994926e-52
+CHXR 73 , False , False , False , nan , nan
+HR 858 , True , False , False , 8.040410503263224e-08 , 3.5211028693961505e-45
+HD 30669 , True , False , True , 5.913929896779576e-13 , 7.118139122170938e-52
+K2-178 , True , False , False , 2.5146792779040367e-17 , 8.844751608720716e-47
+Kepler-1250 , True , False , False , nan , nan
+HAT-P-22 , True , False , False , 1.984784250283532e-15 , 6.280585236488564e-53
+WASP-72 , False , False , False , 2.9584197968612e-18 , 8.971509026381808e-41
+Kepler-931 , True , False , False , nan , nan
+Kepler-715 , True , False , False , nan , nan
+WASP-183 , True , True , False , nan , nan
+Kepler-120 , False , False , False , nan , nan
+K2-257 , False , False , False , 7.2762484752594e-16 , 7.132250038630093e-58
+HD 75898 , True , False , True , 1.676905558808949e-16 , 3.7379969657501273e-53
+Kepler-173 , False , False , False , nan , nan
+Kepler-1107 , True , False , False , nan , nan
+L 98-59 , False , False , False , nan , nan
+Kepler-1057 , True , False , False , nan , nan
+Kepler-1547 , True , False , False , nan , nan
+HD 191806 , True , False , True , 7.036172987344006e-16 , 2.4631718407769948e-58
+Kepler-835 , True , False , False , nan , nan
+Kepler-1110 , True , False , False , nan , nan
+TOI-700 , False , False , False , nan , nan
+Kepler-553 , True , False , False , nan , nan
+Kepler-195 , False , False , False , nan , nan
+HD 50554 , True , False , True , 2.791326289783911e-14 , 2.780724201148332e-56
+HD 89345 , True , False , False , 4.299173126615162e-15 , 2.2234703139438106e-57
+Kepler-1369 , True , False , False , nan , nan
+HD 169830 , True , False , True , 3.626265777090169e-15 , 1.9652904308814292e-47
+Kepler-239 , False , False , False , nan , nan
+Kepler-1043 , True , False , False , nan , nan
+Kepler-549 , True , False , False , nan , nan
+Kepler-18 , True , False , False , nan , nan
+WTS-1 , True , True , False , nan , nan
+K2-260 , True , True , False , 8.21346515589817e-09 , 2.8202636181847367e-15
+Kepler-61 , False , False , False , nan , nan
+Kepler-657 , True , False , False , nan , nan
+HAT-P-28 , True , True , False , 4.887910070153758e-26 , 8.775774944904633e-56
+Kepler-785 , True , False , False , nan , nan
+HD 7199 , True , False , True , 2.1001611382779855e-17 , 1.4933842942583815e-53
+Kepler-1679 , True , False , False , nan , nan
+Kepler-1555 , True , False , False , nan , nan
+Kepler-299 , False , False , False , nan , nan
+OGLE-TR-10 , True , True , False , nan , nan
+HIP 8541 , True , False , True , 3.0169880880377857e-24 , 1.7466813720731812e-53
+Kepler-1241 , True , False , False , nan , nan
+Kepler-475 , True , False , False , 2.514697830673162e-19 , 1.3605558003947887e-60
+WASP-99 , True , False , False , 4.901918847385497e-20 , 3.57324932741022e-54
+Kepler-756 , True , False , False , nan , nan
+WASP-75 , True , True , False , 2.8262020618332245e-31 , 5.282967887763436e-58
+Kepler-59 , True , False , False , nan , nan
+HD 332231 , True , True , False , 2.021485386199268e-18 , 1.5835242213282421e-56
+Kepler-440 , False , False , False , nan , nan
+HD 17156 , True , False , False , 1.4886240870965464e-19 , 7.11012337406975e-53
+HD 218566 , True , False , True , 3.610573796576409e-18 , 6.562208109666275e-57
+HD 87646 , True , True , False , 6.874024109463355e-16 , 1.805722932000377e-56
+WASP-25 , False , False , False , 1.6563493738927136e-21 , 1.2326480612808698e-51
+HD 8673 , True , False , True , nan , nan
+Kepler-999 , True , False , False , 6.602270522182397e-29 , 2.796416980676839e-53
+HD 5608 , True , False , True , 1.0137066781616376e-15 , 6.851226278380104e-54
+Kepler-901 , False , False , False , nan , nan
+BD-10 3166 , True , True , False , 3.626375669260374e-18 , 4.7546304763261906e-58
+HD 147379 , False , False , False , 5.0265104992086894e-17 , 9.65404357792707e-52
+HD 210193 , True , False , True , 6.491410753341082e-20 , 1.4065900671812183e-53
+K2-272 , True , False , False , nan , nan
+Kepler-92 , True , False , False , 2.0290469244656755e-27 , 4.097646374645534e-51
+iot Dra , True , False , True , nan , nan
+Kepler-698 , True , False , False , nan , nan
+Kepler-1077 , True , False , False , nan , nan
+HIP 71135 , False , False , False , 5.547949738111846e-16 , 1.2814527438677769e-54
+WISEP J121756.91+162640.2 A , False , False , False , nan , nan
+HD 233604 , True , False , True , 0.002756566720150233 , 0.004191432185722377
+Kepler-1289 , True , False , False , nan , nan
+K2-200 , True , False , False , 5.603712248286027e-22 , 1.1627583978650273e-55
+Kepler-745 , True , False , False , nan , nan
+Kepler-1232 , True , False , False , nan , nan
+TrES-3 , True , True , False , nan , nan
+Kepler-1230 , True , False , False , nan , nan
+HD 131496 , True , False , True , 1.7358214401151135e-17 , 7.348876368579797e-52
+HAT-P-24 , True , False , False , 2.078543252968384e-25 , 7.0544281989272795e-53
+K2-218 , True , False , False , 2.4229441141082533e-27 , 8.175479883788504e-47
+Kepler-792 , True , False , False , nan , nan
+HIP 65407 , True , True , True , 1.1459738028133012e-12 , 1.7301700463872976e-49
+HD 142245 , False , False , True , 4.158491987011909e-14 , 2.5676418703167823e-55
+HD 64114 , True , False , False , 1.5341910554700304e-14 , 5.870110567483476e-52
+Kepler-713 , True , False , False , nan , nan
+Kepler-762 , True , False , False , nan , nan
+EPIC 206032309 , False , False , False , nan , nan
+OGLE-2005-BLG-169L , False , False , False , nan , nan
+OGLE-2017-BLG-1140L , False , False , False , nan , nan
+HD 86081 , True , True , False , 3.5925151302307354e-16 , 3.38597350610538e-50
+Kepler-443 , True , False , False , nan , nan
+TOI-150 , True , True , False , 1.961881119016303e-19 , 9.035403220217889e-60
+Kepler-307 , True , False , False , nan , nan
+OGLE-2011-BLG-0265L , False , False , False , nan , nan
+MASCARA-1 , True , True , False , nan , nan
+WASP-26 , True , False , False , 3.552225782798364e-28 , 8.780494056640847e-56
+Kepler-1042 , True , False , False , nan , nan
+Kepler-1531 , True , False , False , nan , nan
+Kepler-590 , True , False , False , nan , nan
+KELT-15 , False , False , False , 3.811146387870222e-09 , 5.409543845767496e-56
+HAT-P-16 , True , True , False , 7.522733822739607e-21 , 1.8653510877051093e-55
+HAT-P-49 , False , False , False , 3.49277327016219e-15 , 5.0314797948160607e-51
+HATS-65 , True , True , False , 1.1955241929636265e-27 , 2.595621797243945e-67
+K2-132 , True , False , False , 1.33726498922439e-07 , 1.6916236300648e-15
+Kepler-289 , True , False , True , nan , nan
+Kepler-1013 , True , False , False , nan , nan
+Kepler-327 , False , False , False , nan , nan
+FU Tau , False , False , False , nan , nan
+HD 168443 , True , False , True , 4.723576058411887e-17 , 1.998123933031378e-57
+HD 21411 , True , False , True , 1.0184570746189662e-07 , 8.66336234512554e-60
+Kepler-97 , True , False , False , 1.7023088967649917e-24 , 2.2901917630695696e-55
+Kepler-605 , True , False , False , nan , nan
+Kepler-772 , True , False , False , nan , nan
+Kepler-139 , False , False , False , nan , nan
+Kepler-1473 , True , False , False , nan , nan
+WASP-42 , True , True , False , 2.808783416309433e-16 , 1.0603456846647174e-58
+KMT-2016-BLG-1820L , False , False , False , nan , nan
+Kepler-207 , False , False , False , nan , nan
+Kepler-582 , True , False , False , nan , nan
+HD 148427 , True , False , True , 2.8328228139968214e-15 , 1.144351197451129e-50
+Kepler-1469 , True , False , False , nan , nan
+HD 196050 , True , False , True , 5.063193448151988e-16 , 7.5996730920351e-55
+Kepler-1573 , True , False , False , nan , nan
+HD 155233 , True , False , True , 1.1866258209830687e-16 , 1.718275924253519e-50
+Kepler-114 , False , False , False , nan , nan
+Kepler-517 , True , False , False , 5.3043999766722776e-17 , 1.0080582061411414e-48
+WASP-24 , True , False , False , 1.0108417951472307e-20 , 3.733633933445327e-57
+Kepler-287 , False , False , False , nan , nan
+HD 177830 , True , False , True , 6.205781118578604e-16 , 3.02235656790422e-59
+Kepler-816 , True , False , False , nan , nan
+Kepler-1258 , True , False , False , nan , nan
+HD 17092 , False , False , True , 1.3901918297499246e-20 , 1.3127775201915359e-51
+Kepler-1632 , True , False , False , 1.3333684462820592e-14 , 8.188183085328231e-26
+HAT-P-18 , True , True , False , 8.135337497375102e-17 , 1.094840253296058e-52
+HD 1502 , True , False , True , 7.374230405932178e-20 , 4.1471195738628044e-58
+Kepler-1591 , True , False , False , nan , nan
+OGLE-2016-BLG-0263L , False , False , False , nan , nan
+HATS-42 , True , True , False , nan , nan
+HIP 109384 , True , False , True , 1.9046896373611523e-13 , 1.1420245043312433e-56
+MOA-2011-BLG-293L , True , False , False , nan , nan
+70 Vir , True , False , True , 3.873947380066708e-17 , 1.999493031873786e-52
+Kepler-1577 , True , False , False , nan , nan
+TOI-481 , True , True , False , 4.1601413668059317e-13 , 6.025876374108458e-47
+HD 196067 , True , False , True , 1.6040731043020206e-17 , 1.6923614521479058e-49
+KMT-2016-BLG-2364L , False , False , False , nan , nan
+HD 63765 , False , False , True , 5.6319231457367105e-15 , 4.420588694496439e-53
+Kepler-572 , True , False , False , nan , nan
+Kepler-808 , True , False , False , nan , nan
+HD 1605 , True , False , True , 2.865046210840944e-17 , 1.0271602677525825e-52
+K2-55 , True , False , False , 2.777838994316686e-20 , 8.741450629681704e-54
+Kepler-888 , True , False , False , nan , nan
+K2-269 , True , False , False , 4.509661123422776e-30 , 1.708709855369627e-62
+BD+20 2457 , False , False , True , nan , nan
+Kepler-1462 , True , False , False , nan , nan
+gam Lib , True , False , True , nan , nan
+HD 11964 , True , False , True , 4.4073547953331067e-11 , 1.046301187398266e-49
+2MASS J12073346-3932539 , False , False , False , nan , nan
+HD 31527 , True , False , False , 5.269197746685061e-09 , 8.007678325141712e-54
+HD 220689 , True , False , True , 5.977049205727878e-19 , 2.1198085849053895e-52
+WASP-88 , True , False , False , 1.3482344376386962e-19 , 1.7188776443776726e-28
+WASP-121 , True , True , False , 2.7449379314834346e-06 , 6.861859388279361e-52
+Kepler-449 , False , False , False , nan , nan
+Kepler-202 , False , False , False , nan , nan
+Kepler-613 , True , False , False , nan , nan
+Kepler-602 , True , False , False , nan , nan
+Kepler-954 , True , False , False , 3.645301993070089e-18 , 2.577057310751956e-48
+Kepler-716 , True , False , False , nan , nan
+HD 145934 , True , False , True , 6.678863600645584e-20 , 1.699541157952907e-58
+TOI-677 , True , True , False , nan , nan
+Kepler-579 , True , False , False , nan , nan
+Kepler-668 , True , False , False , nan , nan
+HATS-48 A , True , True , False , nan , nan
+K2-285 , True , False , False , 2.9368335878471474e-17 , 9.004233307164259e-54
+HD 111232 , True , False , True , 1.857307028832914e-13 , 1.5299329632429374e-50
+HD 20003 , True , False , False , 4.846801384595722e-14 , 7.882651289881299e-51
+Kepler-683 , True , False , False , nan , nan
+HAT-P-8 , True , False , False , 3.0734256465669056e-17 , 1.1066360323638012e-53
+K2-274 , True , False , False , nan , nan
+WASP-60 , True , False , False , 6.534117956331523e-30 , 2.13620987755015e-49
+Kepler-628 , True , False , False , nan , nan
+Kepler-179 , False , False , False , nan , nan
+HD 1461 , True , False , False , 1.3276012264411776e-18 , 3.1632409179074275e-55
+Kepler-565 , True , False , False , nan , nan
+K2-43 , False , False , False , nan , nan
+Kepler-106 , True , False , False , 9.670155223403372e-24 , 3.715543699410562e-56
+HD 195019 , True , True , False , 1.2823758289517072e-18 , 1.1847526958984889e-61
+Kepler-288 , False , False , False , nan , nan
+WASP-167 , True , True , False , 4.933167939798044e-22 , 1.174378755622384e-55
+HD 205739 , True , False , True , 1.8617143676848146e-16 , 2.4977940074480245e-56
+HD 11755 , True , False , True , 1.382707722400455e-25 , 2.9062385699537724e-57
+HD 75289 , True , True , False , 3.1020595863266636e-16 , 1.0388123059349904e-52
+Qatar 6 , True , True , False , 1.4263656669669657e-13 , 2.927396718631963e-51
+HATS-68 , True , True , False , 1.222124432127621e-06 , 1.3836942507076748e-16
+HD 95127 , False , False , True , 1.5748055519461878e-08 , 3.0580295405761353e-13
+Kepler-1383 , True , False , False , nan , nan
+HD 9446 , True , True , True , 2.6790229612123877e-12 , 2.155289273749302e-49
+Kepler-1292 , True , False , False , nan , nan
+Kepler-182 , False , False , False , nan , nan
+Kepler-537 , True , False , False , nan , nan
+HD 222076 , True , False , True , 6.822395414925438e-19 , 4.1375336456696195e-60
+Kepler-1168 , True , False , False , nan , nan
+Kepler-961 , True , False , False , nan , nan
+Kepler-594 , True , False , False , nan , nan
+HATS-70 , True , True , False , nan , nan
+OGLE-2007-BLG-349L A , False , False , True , nan , nan
+WASP-73 , False , False , False , 4.421312748843166e-31 , 6.30167403776407e-57
+TOI-216 , True , True , False , 2.1291217272871775e-19 , 4.25649509249554e-55
+Kepler-367 , False , False , False , 1.2839194308080788e-14 , 8.545599572674797e-54
+Kepler-1194 , True , False , False , nan , nan
+Kepler-1200 , True , False , False , nan , nan
+Kepler-1274 , True , False , False , 1.6911161397035947e-16 , 2.0953291980970878e-36
+HAT-P-56 , True , False , False , 2.0563907606142827e-29 , 6.017955748371163e-58
+HD 86950 , True , False , True , nan , nan
+Kepler-1461 , True , False , False , nan , nan
+Kepler-658 , False , False , False , nan , nan
+HD 108236 , True , False , False , 8.884687486847322e-12 , 2.0732145598210447e-54
+Kepler-219 , False , False , False , nan , nan
+HD 165155 , True , False , True , 6.192156129920534e-17 , 2.2419999883452595e-51
+HD 192699 , True , False , True , 6.158311105750921e-20 , 1.0041956821073127e-51
+GJ 3473 , False , False , False , nan , nan
+AU Mic , False , True , False , 1.9787800556814886e-17 , 8.319841915293361e-51
+Kepler-1326 , True , False , False , 3.5120949539233513e-14 , 1.1958916299339579e-29
+HD 136352 , True , False , False , 3.4550765409041746e-17 , 1.519369097379002e-55
+Kepler-1364 , True , False , False , nan , nan
+Kepler-433 , True , True , False , nan , nan
+Kepler-631 , True , False , False , nan , nan
+Kepler-225 , False , False , False , nan , nan
+HAT-P-70 , True , True , False , nan , nan
+Kepler-850 , True , False , False , nan , nan
+HD 90156 , True , False , False , 3.778652800895698e-18 , 1.5125455753245838e-50
+XO-4 , True , False , False , 4.272235444461247e-21 , 1.306596565467376e-58
+Kepler-249 , False , False , False , nan , nan
+Kepler-688 , True , False , False , nan , nan
+Kepler-523 , True , False , False , nan , nan
+HD 100655 , False , False , True , 4.701406779589284e-20 , 3.4983526939587044e-50
+Kepler-49 , False , False , False , nan , nan
+HD 49674 , True , False , False , 3.3050275438954915e-10 , 4.787268796371044e-51
+Kepler-493 , True , False , False , nan , nan
+Kepler-1588 , True , False , False , nan , nan
+Kepler-995 , True , False , False , nan , nan
+Kepler-757 , True , False , False , nan , nan
+Kepler-534 , True , False , False , nan , nan
+HD 47536 , False , False , True , 4.992026410715821e-18 , 2.7408566129070026e-51
+K2-86 , True , False , False , 8.872722661171979e-24 , 5.421913388964908e-52
+OGLE2-TR-L9 , True , True , False , nan , nan
+Kepler-141 , False , False , False , 4.1844224726139514e-13 , 1.421833756140449e-50
+HD 221416 , True , True , False , 1.1560634780633376e-17 , 8.193518591861332e-57
+HR 2562 , True , False , False , 2.304020461004415e-12 , 1.6204577811590598e-55
+Kepler-609 , True , False , False , nan , nan
+Kepler-735 , True , False , False , nan , nan
+91 Aqr , True , False , True , 6.940494584247899e-21 , 2.2484974988014765e-58
+Kepler-1355 , True , False , False , nan , nan
+Kepler-680 , True , False , False , nan , nan
+Kepler-1604 , True , False , False , nan , nan
+OGLE-2018-BLG-0677L , False , False , False , nan , nan
+Kepler-1333 , True , False , False , nan , nan
+Kepler-1426 , True , False , False , nan , nan
+Kepler-81 , False , False , False , nan , nan
+Kepler-167 , True , False , False , nan , nan
+NGC 2682 YBP 1514 , True , False , False , nan , nan
+HD 2039 , True , False , True , 2.4060286886484872e-17 , 5.8844743538977975e-59
+Kepler-78 , True , False , False , 4.793240246259694e-14 , 4.2272990941527025e-46
+WASP-139 , True , False , False , 3.030287265249591e-26 , 1.7054477661305238e-56
+HD 22781 , True , False , True , 1.4337226905490774e-11 , 3.1803190195137374e-53
+HD 149143 , True , True , False , 4.3315394866397774e-12 , 6.317407318115755e-51
+Kepler-44 , True , True , False , nan , nan
+Kepler-751 , True , False , False , nan , nan
+K2-319 , True , False , False , nan , nan
+Kepler-1037 , True , False , False , nan , nan
+Kepler-1416 , True , False , False , nan , nan
+Kepler-556 , True , False , False , nan , nan
+GSC 06214-00210 , True , False , False , 1.1338601933722488e-05 , 3.865845229383297e-50
+CFBDSIR J145829+101343 , False , False , True , nan , nan
+Kepler-1391 , True , False , False , nan , nan
+Kepler-1378 , True , False , False , nan , nan
+CoRoT-25 , True , True , False , nan , nan
+Kepler-1677 , True , False , False , nan , nan
+HATS-23 , True , True , False , nan , nan
+Kepler-1272 , True , False , False , nan , nan
+Kepler-926 , True , False , False , nan , nan
+2MASS J21402931+1625183 A , False , False , False , nan , nan
+K2-171 , True , False , False , 1.6695073897779745e-08 , 1.4576746355171867e-14
+Kepler-1611 , True , False , False , nan , nan
+K2-214 , True , False , False , 5.466007110754091e-24 , 7.074302937300231e-61
+Kepler-16 , False , False , True , 6.887075712936675e-20 , 1.8920771700977143e-56
+K2-100 , True , False , False , 1.6349464225258398e-07 , 4.014633842601371e-48
+K2-177 , True , False , False , 6.6855722390305585e-15 , 1.06212571005333e-30
+K2-207 , True , False , False , 7.668660836699683e-31 , 5.2597765877840146e-55
+Kepler-1693 , True , False , False , nan , nan
+GJ 685 , False , False , False , 1.453548308353914e-16 , 2.408193332727931e-49
+HD 183263 , True , False , True , 4.6038625070008004e-14 , 5.30211745542315e-51
+K2-17 , True , False , False , 7.663106562413532e-13 , 2.8826339857303128e-61
+Kepler-514 , True , False , False , 7.197774558903523e-22 , 3.377787143071153e-56
+GJ 15 A , False , False , False , 6.664184265219846e-16 , 2.4881481160192165e-52
+HATS-39 , True , True , False , 2.0103009880596257e-10 , 3.5295974470283224e-20
+eps CrB , True , False , True , nan , nan
+Kepler-708 , True , False , False , nan , nan
+Kepler-511 , True , False , False , 9.29293984868242e-14 , 4.5361354816558214e-26
+Kepler-1445 , True , False , False , 2.8389364094304974e-33 , 2.390684936848174e-54
+HD 152079 , True , False , True , 1.3584490766609719e-14 , 2.58192914160004e-52
+Kepler-478 , True , False , False , nan , nan
+psi 1 Dra B , True , False , True , nan , nan
+Kepler-187 , False , False , False , nan , nan
+K2-88 , False , False , False , nan , nan
+Kepler-1401 , True , False , False , nan , nan
+Kepler-1010 , True , False , False , nan , nan
+Kepler-438 , False , False , False , nan , nan
+Kepler-588 , True , False , False , nan , nan
+Kepler-1295 , True , False , False , nan , nan
+Kepler-1188 , True , False , False , nan , nan
+HR 5183 , True , False , True , 2.5435539398110197e-13 , 1.2461871428542193e-57
+Kepler-26 , False , False , False , nan , nan
+Kepler-985 , True , False , False , nan , nan
+HD 108341 , True , False , True , 6.119468144467549e-11 , 3.932044941589097e-48
+HD 102956 , True , True , False , 2.3023657103509765e-18 , 1.1078236655745248e-52
+KIC 10525077 , True , False , False , nan , nan
+Kepler-332 , False , False , False , nan , nan
+Kepler-624 , True , False , False , nan , nan
+Kepler-334 , False , False , False , 1.7334682124803768e-27 , 3.6185947050944644e-62
+Kepler-997 , True , False , False , 1.726952465273603e-21 , 1.3560248911580153e-53
+K2-250 , True , False , False , nan , nan
+Kepler-530 , True , False , False , nan , nan
+Kepler-1494 , True , False , False , nan , nan
+Kepler-426 , True , True , False , nan , nan
+TYC 8998-760-1 , True , False , False , 4.037043414993645e-12 , 2.316381817822708e-52
+Kepler-1699 , False , False , False , nan , nan
+Kepler-28 , True , True , False , nan , nan
+K2-5 , False , False , False , nan , nan
+HATS-67 , True , True , False , nan , nan
+K2-57 , False , False , False , nan , nan
+WASP-41 , True , False , True , 5.629897649408861e-17 , 3.64990752033782e-58
+Kepler-169 , False , False , False , nan , nan
+TYC 1422-614-1 , True , False , True , 0.0010098644563645287 , 0.004251723765029025
+Kepler-923 , True , False , False , nan , nan
+HD 211970 , False , False , False , 1.9223289890257493e-15 , 4.081051542700827e-53
+K2-265 , True , False , False , 2.773404956335967e-22 , 5.478008953356347e-58
+Kepler-1594 , True , False , False , nan , nan
+Kepler-700 , True , False , False , nan , nan
+K2-198 , True , False , False , 2.0645056888305465e-15 , 2.230697336967161e-55
+WASP-29 , True , False , False , 2.1667695291546275e-16 , 9.244761374152895e-52
+Kepler-1600 , True , False , False , nan , nan
+HD 154857 , True , False , True , 1.5083321798678855e-16 , 3.297979001258214e-51
+HD 99492 , False , False , False , 2.490498044268205e-15 , 3.483001121210288e-57
+Kepler-1582 , False , False , False , nan , nan
+Kepler-1405 , True , False , False , nan , nan
+Kepler-340 , False , False , False , nan , nan
+Kepler-58 , True , False , False , nan , nan
+Kepler-650 , True , False , False , nan , nan
+HAT-P-20 , True , True , False , 1.0589941406856491e-19 , 4.579940124533588e-50
+Kepler-1156 , True , False , False , nan , nan
+Kepler-66 , True , False , False , nan , nan
+HD 111998 , True , False , True , 6.569749222010796e-16 , 1.2653284921429428e-53
+V830 Tau , True , True , False , 1.7049147041624546e-08 , 1.4795553351770013e-53
+Kepler-317 , False , False , False , nan , nan
+Kepler-373 , False , False , False , nan , nan
+Kepler-804 , True , False , False , nan , nan
+K2-127 , True , False , False , nan , nan
+Kepler-738 , True , False , False , nan , nan
+HD 179949 , True , True , False , 1.788582683644895e-18 , 1.1245769161568308e-50
+K2-210 , True , False , False , 1.0768208576206966e-22 , 6.160660044057099e-57
+HD 76920 , True , False , True , 1.5890896223587546e-11 , 9.67985912259082e-55
+Kepler-1495 , True , False , False , nan , nan
+Kepler-394 , False , False , False , nan , nan
+Kepler-533 , True , False , False , nan , nan
+TOI-1899 , False , True , False , nan , nan
+Kepler-1374 , True , False , False , nan , nan
+Kepler-1127 , True , False , False , nan , nan
+alf Ari , True , False , True , nan , nan
+Kepler-1436 , True , False , False , nan , nan
+HD 102272 , True , False , True , 1.680744197739752e-14 , 2.350844495597985e-42
+HD 204313 , True , False , True , 9.68528845845026e-16 , 6.856766438050582e-52
+K2-98 , True , False , False , 5.91580277248849e-13 , 3.0018812834173333e-28
+Kepler-51 , True , False , False , nan , nan
+Kepler-951 , True , False , False , nan , nan
+Kepler-408 , True , False , False , 6.955798560053037e-17 , 1.2332502680042736e-52
+HD 15337 , True , False , False , 7.899759284723062e-15 , 1.0514714304604469e-55
+HD 158996 , True , False , True , 2.1622367668223133e-20 , 7.371056400652093e-54
+Kepler-1415 , True , False , False , nan , nan
+Kepler-936 , True , False , False , nan , nan
+HD 65216 , True , False , True , 1.8250407930534075e-09 , 1.7471476177178588e-50
+Kepler-851 , True , False , False , nan , nan
+HD 185269 , True , True , False , 1.751762530435519e-14 , 3.110411417736803e-54
+K2-77 , True , False , False , 1.5289159901494608e-08 , 1.0029296904847735e-59
+Kepler-1023 , True , False , False , nan , nan
+K2-325 , False , False , False , nan , nan
+K2-281 , True , False , False , nan , nan
+Kepler-536 , True , False , False , nan , nan
+Kepler-1670 , True , False , False , nan , nan
+Kepler-1477 , True , False , False , nan , nan
+Kepler-101 , True , True , False , nan , nan
+Kepler-39 , True , True , False , nan , nan
+Kepler-91 , True , True , False , 1.1287476052151291e-05 , 1.040210584040095e-06
+MOA-2010-BLG-353L , False , False , False , nan , nan
+K2-278 , True , False , False , nan , nan
+Kepler-802 , True , False , False , nan , nan
+Kepler-1242 , True , False , False , nan , nan
+11 UMi , False , False , True , 1.0688761652859006e-16 , 3.6662069737753277e-50
+GJ 3021 , True , False , True , 5.058882204263457e-13 , 2.2435098859622193e-57
+HATS-1 , True , True , False , 4.679732785880098e-24 , 2.175981098816576e-50
+Kepler-1439 , False , False , False , nan , nan
+WASP-79 , True , False , False , nan , nan
+Kepler-1622 , True , False , False , nan , nan
+WASP-43 , False , True , False , 4.053788136764311e-15 , 6.538361589853388e-53
+Kepler-347 , False , False , False , nan , nan
+Kepler-848 , True , False , False , nan , nan
+Kepler-1674 , True , False , False , nan , nan
+Kepler-1635 , True , False , False , nan , nan
+KELT-18 , True , True , False , 2.4420501221797632e-23 , 1.4609653898324564e-54
+HD 114783 , True , False , True , 9.890490946153413e-15 , 3.990128351671562e-54
+K2-190 , True , False , False , 2.178061938941307e-18 , 2.7414828307658594e-62
+HD 7924 , True , False , False , 2.576189545487461e-19 , 2.4066322348603907e-57
+Kepler-1071 , True , False , False , nan , nan
+Kepler-156 , False , False , False , nan , nan
+Kepler-1053 , True , False , False , 1.1314011835753054e-17 , 3.819782784023638e-51
+HD 77338 , True , False , False , 7.194216911231922e-18 , 5.616006307255324e-59
+WASP-169 , True , True , False , 3.3585712012609688e-15 , 1.4757295330285356e-28
+Kepler-1187 , True , False , False , nan , nan
+CoRoT-16 , True , True , False , nan , nan
+Kepler-790 , True , False , False , nan , nan
+Kepler-1672 , True , False , False , nan , nan
+2MASS J04414489+2301513 , False , False , False , nan , nan
+Kepler-252 , False , False , False , nan , nan
+Kepler-1325 , True , False , False , nan , nan
+Sol , False , False , False , 7.405702113541421e-16 , 8.03339492150337e-55
