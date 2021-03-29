@@ -8,8 +8,9 @@ would also be apposite if you make us of the Mahalanobis density technique
 The repository contains the following files:
 
  - densities.ipynb
- Jupyter notebook to retrieve stellar kinematic data from the Gaia archive, evaluate the phase space densities of exoplanet host stars, and 
- generate the figures in Mustill, Lambrechts & Davies
+ Jupyter notebook to retrieve stellar kinematic data from the Gaia archive, evaluate the phase space densities of exoplanet host stars,
+ and generate the figures in Mustill, Lambrechts & Davies.
+ Dependencies: os, sys, time, itertools, distutils, numpy, scipy, astropy, astroquery, sklearn, matplotlib
  
  - PS_2021.03.11_04.56.35.csv
  Table of exoplanet and host star properties retrieved from https://exoplanetarchive.ipac.caltech.edu/ on 2021-03-11
@@ -26,15 +27,13 @@ The repository contains the following files:
   
   - TARGETNAME_GAIADR_seed
   saved RNG seed to ensure reproducibility of the Monte-Carlo analysis
-  
-  - TARGETNAME_GAIADR_densities.txt
-  Table of Gaia ids, densities, and 6D positions of the target and up to 600 neighbouring stars. If this file exists, it will be read
-  instead of generating a MC sample and calculating the densities (this takes up to a few minutes per target). This file will be 
-  created or overwritten when anaylsis of the target is complete
-  
+    
   - TARGETNAME_GAIADR_densities.txt.backup
-  Backup of the above file. This will not be read or changed by running the notebook, but you can check that your stellar densities are 
-  the same as those originally calculated by diff'ing these two files. They may differ if, for example, the RNG differs between machines
+  Backup Table of Gaia ids, densities, and 6D positions of the target and up to 600 neighbouring stars. This will not be read or changed
+  by running the notebook, but you can check that your stellar densities are the same as those originally calculated by diff'ing these 
+  two files. They may differ if, for example, the RNG differs between machines. You can also cp the backup file to the .txt file; then the
+  notebook will read from this file instead of generating a Monte Carlo sample and calculting the densities. The densities.txt file will
+  always be overwritten when analysis of the target is complete
   
  Figures generated per target will also be placed in the results/TARGETNAME/GAIADR/ directory. Most commands to generate figures are 
  commented out in the notebook to avoid making a surfeit of plots 
